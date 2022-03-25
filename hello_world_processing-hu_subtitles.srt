@@ -1,0 +1,2652 @@
+1
+00:00:26,200 --> 00:00:28,800
+Mire való az idő?
+
+2
+00:00:30,360 --> 00:00:34,920
+Az idő az, ami megakadályozza, hogy mindent egyszerre adjunk.
+
+3
+00:00:36,760 --> 00:00:40,160
+Ez hátráltat, vagy inkább ez a hátráltatás.
+
+4
+00:00:40,680 --> 00:00:43,960
+Ezért kell, hogy legyen kidolgozottság.
+
+5
+00:00:46,400 --> 00:00:50,400
+Nem lenne akkor a teremtés és a választás eszköze? 
+
+6
+00:00:51,320 --> 00:00:59,120
+Az idő létezése nem igazolhatja-e azt, 
+hogy a dolgok meghatározottságban vannak?
+
+7
+00:01:21,440 --> 00:01:22,640
+A dolgok
+
+8
+00:01:23,840 --> 00:01:25,960
+molekulák koreográfiájának
+
+9
+00:01:27,160 --> 00:01:28,720
+a résztvevői mozgásban.
+
+10
+00:01:29,600 --> 00:01:30,800
+a földben lévő barázdák szerverek 
+
+11
+00:01:31,880 --> 00:01:33,280
+és adatbázisok,
+
+12
+00:01:33,400 --> 00:01:34,920
+rajok és hertzek. 
+
+13
+00:01:35,520 --> 00:01:36,800
+Rendben küldött járművek.
+
+14
+00:01:37,440 --> 00:01:40,360
+Emberek egy információs láncban.
+
+15
+00:01:41,080 --> 00:01:42,520
+Felhasználók egy szociális hálózatban.
+
+16
+00:01:43,400 --> 00:01:44,440
+Óceáni áramlatok.
+
+17
+00:01:45,360 --> 00:01:46,760
+Madárrajok.
+
+18
+00:01:48,720 --> 00:01:51,160
+Az élet mozgásban.
+
+19
+00:01:51,600 --> 00:01:53,840
+Intelligens szinkronizálás.
+
+20
+00:01:54,320 --> 00:01:56,160
+Kölcsönhatásban egymással. 
+
+21
+00:01:56,680 --> 00:01:58,480
+Rendrakás. 
+
+22
+00:01:58,640 --> 00:02:00,000
+Önmaga üldözése.
+
+23
+00:02:00,720 --> 00:02:02,120
+Önkínzás.
+
+24
+00:02:02,520 --> 00:02:04,720
+Önismétlés.
+
+25
+00:02:07,880 --> 00:02:09,640
+Todos estes são processos.
+
+26
+00:02:10,880 --> 00:02:15,400
+Processos que precisam que todos
+os participantes entrem em consenso
+
+27
+00:02:15,400 --> 00:02:16,480
+de forma a operar.
+
+28
+00:02:16,800 --> 00:02:21,040
+Para compartilhar
+códigos, receitas ou instruções.
+
+29
+00:02:32,600 --> 00:02:35,920
+Regras e códigos não
+limitam a possibilidade de criar.
+
+30
+00:02:37,360 --> 00:02:41,520
+Eles, estando ao nosso redor,
+são aquilo que causa a constante mudança.
+
+31
+00:02:43,480 --> 00:02:48,920
+Encontrar códigos nos permite construir
+ferramentas para interagir com processos.
+
+32
+00:02:49,600 --> 00:02:53,520
+Podemos chegar mais perto dos
+fenômenos do mundo e simular eles.
+
+33
+00:02:54,320 --> 00:02:58,640
+Podemos visualizar os dados que aparecem
+nos processos acontecendo ao nosso redor.
+
+34
+00:02:58,760 --> 00:03:04,240
+Ou então, dar origem a novos
+processos criativos, vivos e abertos,
+
+35
+00:03:04,840 --> 00:03:09,920
+disponíveis para
+reapropriação e expansão por todos.
+
+36
+00:03:21,540 --> 00:03:25,560
+Processing é uma linguagem,
+um "toolkit" (caixa de ferramentas),
+
+37
+00:03:25,800 --> 00:03:28,720
+uma comunidade e
+um projeto de código aberto.
+
+38
+00:03:29,320 --> 00:03:36,840
+E eu acho que é uma maneira
+de lidar com criatividade e programação,
+
+39
+00:03:37,680 --> 00:03:42,160
+mas também é o meu modelo para o que
+eu acho que seja uma comunidade online ideal.
+
+40
+00:03:43,000 --> 00:03:46,360
+Pessoas que estão se apoiando,
+aprendendo coisas parecidas,
+
+41
+00:03:46,600 --> 00:03:51,080
+ajudando iniciantes
+e compartilhando ideias.
+
+42
+00:03:51,720 --> 00:03:54,200
+Processing para mim
+são todas estas coisas.
+
+43
+00:03:59,840 --> 00:04:02,640
+Processing é uma
+ferramenta realmente excelente
+
+44
+00:04:02,800 --> 00:04:05,560
+que permite às pessoas, qualquer
+pessoa, com qualquer tipo de formação,
+
+45
+00:04:05,960 --> 00:04:08,200
+começar a trabalhar com
+código como um meio criativo.
+
+46
+00:04:08,440 --> 00:04:12,720
+Então é muito fácil fazer "sketches"
+(esboços) animados ou desenhos em código
+
+47
+00:04:12,920 --> 00:04:15,600
+sem ter necessariamente
+muito conhecimento sobre Java
+
+48
+00:04:15,840 --> 00:04:18,280
+ou sobre programar
+de uma maneira adequada.
+
+49
+00:04:18,560 --> 00:04:21,000
+Sendo um "sketchbook"
+(caderno de esboços) digital,
+
+50
+00:04:21,320 --> 00:04:24,240
+é um lugar onde você pode
+rabiscar as suas ideias em código.
+
+51
+00:04:24,480 --> 00:04:26,400
+Mas, assim como no caderno de esboços,
+
+52
+00:04:26,480 --> 00:04:28,880
+estas ideias podem se tornar coisas reais.
+
+53
+00:04:29,080 --> 00:04:31,360
+A diferença entre Processing
+e um caderno de esboços real
+
+54
+00:04:31,440 --> 00:04:36,480
+é que aquele esboço pode
+se tornar real e mais elaborado.
+
+55
+00:04:36,640 --> 00:04:40,360
+É como se o seu caderno de
+esboços de arte, seu caderno de desenho,
+
+56
+00:04:40,520 --> 00:04:43,600
+pudesse se tornar um filme
+ou pudesse se tornar uma escultura.
+
+57
+00:04:43,880 --> 00:04:45,760
+Uma das melhores coisas
+sobre trabalhar com Processing
+
+58
+00:04:45,920 --> 00:04:47,480
+é que quando você tem uma ideia
+
+59
+00:04:47,720 --> 00:04:51,440
+é um caminho bem curto até
+ser capaz de ver essa ideia se tornar real.
+
+60
+00:04:52,160 --> 00:04:55,880
+Para mim Processing é sobre
+a imediatez de expressar uma ideia.
+
+61
+00:04:56,200 --> 00:05:01,680
+É o percurso mais rápido
+para mim do código a pixels na tela.
+
+62
+00:05:43,760 --> 00:05:46,480
+Quando os observamos
+virando e girando,
+
+63
+00:05:46,480 --> 00:05:51,080
+quantas vezes já nos perguntamos o que
+mantém tais pássaros juntos em seu vôo?
+
+64
+00:05:56,920 --> 00:06:00,640
+Embora estas pessoas parecem não estar
+cientes da existência umas das outras,
+
+65
+00:06:00,880 --> 00:06:02,440
+nem olhando nem conversando,
+
+66
+00:06:02,600 --> 00:06:05,080
+um grupo encontra
+e passa através do outro
+
+67
+00:06:05,240 --> 00:06:08,080
+sem que nem dois
+indivíduos entrem em contato.
+
+68
+00:06:08,360 --> 00:06:10,760
+Tão constante é o fluxo de informação
+
+69
+00:06:11,080 --> 00:06:13,920
+e tão complexa é a rede de comunicação
+
+70
+00:06:14,040 --> 00:06:17,760
+que os mantém separados
+e os segura juntos.
+
+71
+00:06:19,400 --> 00:06:21,160
+Uma onda quebrando em uma praia
+
+72
+00:06:21,280 --> 00:06:25,280
+traz um mundo de informação
+sobre eventos ocorridos no mar.
+
+73
+00:06:25,520 --> 00:06:27,520
+Pode dizer sobre ventos e tempestades
+
+74
+00:06:27,600 --> 00:06:29,600
+a distância e a intensidade.
+
+75
+00:06:30,240 --> 00:06:33,720
+Pode localizar recifes
+e ilhas e muitas coisas,
+
+76
+00:06:34,040 --> 00:06:36,560
+se você souber o código.
+
+77
+00:06:40,480 --> 00:06:44,560
+Código, essencialmente...
+Quando você explica para as pessoas,
+
+78
+00:06:44,720 --> 00:06:46,560
+"o que você quer dizer por código?"
+
+79
+00:06:46,840 --> 00:06:50,560
+Código é literalmente a linguagem
+na qual você tem que descrever as suas ideias
+
+80
+00:06:50,720 --> 00:06:53,480
+para que o computador
+seja capaz de executá-las.
+
+81
+00:06:53,600 --> 00:06:56,440
+E o computador é uma máquina
+bastante estúpida em muitas formas
+
+82
+00:06:56,640 --> 00:07:00,360
+porque ele tem que ter
+tudo descrito muito claramente.
+
+83
+00:07:00,520 --> 00:07:05,160
+Então, neste sentido é uma linguagem
+ou uma maneira de descrever lógica.
+
+84
+00:07:05,440 --> 00:07:09,840
+Você inclui diferentes tipos de parâmetros,
+as diferentes lógicas ao longo do código.
+
+85
+00:07:10,000 --> 00:07:12,080
+Você pode incluir
+diferentes interfaces etc.
+
+86
+00:07:12,440 --> 00:07:15,320
+Então o código pode se
+tornar bastante vivo mais tarde,
+
+87
+00:07:15,520 --> 00:07:18,800
+mas em sua forma básica ele
+consiste de linhas e linhas de texto.
+
+88
+00:07:19,000 --> 00:07:22,360
+Ele não parece muito amigável, ou
+muito humano, ou nem mesmo muito elegante.
+
+89
+00:07:22,600 --> 00:07:24,800
+E às vezes código é muito frustrante.
+
+90
+00:07:24,960 --> 00:07:28,680
+Mas também existe um certo tipo
+de elegância em ser tão preciso assim.
+
+91
+00:07:29,720 --> 00:07:31,720
+Quando você escreve
+um programa de computador
+
+92
+00:07:31,800 --> 00:07:34,720
+você está basicamente
+codificando uma ideia
+
+93
+00:07:35,040 --> 00:07:37,840
+em uma notação específica
+que o computador pode executar.
+
+94
+00:07:38,080 --> 00:07:42,400
+E estas ideias, que muitas vezes
+em software chamamos de algoritmos...
+
+95
+00:07:42,880 --> 00:07:47,240
+Você precisa escrever uma lista
+concisa de instruções passo-a-passo,
+
+96
+00:07:47,640 --> 00:07:53,400
+traduzir ela em um código
+digestível e alimentá-la para o computador.
+
+97
+00:07:54,360 --> 00:07:58,080
+O sistema pede que a tecla
+esteja ou para cima ou para baixo.
+
+98
+00:07:58,360 --> 00:08:01,200
+O código pede por um ponto ou um traço.
+
+99
+00:08:02,000 --> 00:08:06,120
+A corrente flui,
+ela para de fluir, ela flui.
+
+100
+00:08:06,800 --> 00:08:09,080
+É preto ou branco.
+
+101
+00:08:09,320 --> 00:08:12,120
+É parar ou ir.
+
+102
+00:08:12,480 --> 00:08:13,920
+Ligado ou desligado.
+
+103
+00:08:14,360 --> 00:08:16,040
+Um ou nenhum.
+
+104
+00:08:16,520 --> 00:08:18,520
+Siga adiante ou não siga adiante.
+
+105
+00:08:18,760 --> 00:08:21,200
+Ou preto ou branco.
+
+106
+00:08:22,760 --> 00:08:25,360
+Qual é a natureza desta
+notável correspondência
+
+107
+00:08:25,520 --> 00:08:27,960
+entre os símbolos abstratos
+da matemática e da lógica
+
+108
+00:08:28,280 --> 00:08:32,000
+e o mundo real perceptível
+dos objetos e eventos?
+
+109
+00:08:32,600 --> 00:08:37,040
+A matemática tem sido chamada
+de linguagem universal única da humanidade.
+
+110
+00:08:37,320 --> 00:08:40,880
+Mas quais são estas regras
+e qual é o relacionamento
+
+111
+00:08:41,040 --> 00:08:44,080
+entre números e as coisas reais
+que a princípio eles representam?
+
+112
+00:08:44,600 --> 00:08:48,320
+Nós repensamos um pouco sobre
+o papel da matemática contemporânea,
+
+113
+00:08:49,160 --> 00:08:51,720
+- não apenas matemática
+financeira, mas em geral -
+
+114
+00:08:51,920 --> 00:08:56,520
+que ela está fazendo a transição
+de algo que nós extraímos e derivamos do mundo
+
+115
+00:08:56,800 --> 00:09:01,120
+para algo que efetivamente começa
+a lhe dar forma. O mundo ao nosso redor
+
+116
+00:09:01,240 --> 00:09:03,520
+e o mundo dentro de nós.
+
+117
+00:09:03,760 --> 00:09:05,680
+E são especificamente algoritmos,
+
+118
+00:09:05,880 --> 00:09:09,280
+que são basicamente a matemática que
+os computadores usam para decidir coisas.
+
+119
+00:09:09,520 --> 00:09:12,760
+Você pode encontrar
+estas coisas onde quer que olhe
+
+120
+00:09:13,040 --> 00:09:15,000
+desde que aprenda como procurar por elas.
+
+121
+00:09:15,160 --> 00:09:17,400
+E nós vamos ter que entender
+estas coisas como natureza,
+
+122
+00:09:17,560 --> 00:09:19,600
+e de certa forma, elas são.
+
+123
+00:09:25,160 --> 00:09:28,360
+Qualquer um que me conhece sabe
+que eu sou um cara algorítmico.
+
+124
+00:09:28,960 --> 00:09:33,440
+Eu realmente gosto deste processo
+de descrever operações para um computador
+
+125
+00:09:33,640 --> 00:09:37,360
+e ter este computador seguindo
+e percorrendo estas operações.
+
+126
+00:09:39,040 --> 00:09:42,760
+Vamos imaginar, neste sistema,
+que criamos uma linha.
+
+127
+00:09:43,080 --> 00:09:47,800
+A linha continuará desenhando até que
+ela atinga ou a borda da tela ou outra linha.
+
+128
+00:09:48,040 --> 00:09:52,720
+Novas linhas irão se formar apenas em
+ângulos retos em relação a linhas existentes.
+
+129
+00:09:53,000 --> 00:09:57,300
+Então estas são as regras.
+Se repetirmos estes processos diversas vezes,
+
+130
+00:09:57,300 --> 00:09:59,320
+algo meio surpreendente acontece.
+
+131
+00:09:59,320 --> 00:10:01,500
+Eu vou deixar isso aqui rodando...
+
+132
+00:10:03,880 --> 00:10:06,500
+Você pode estar se perguntando
+"quem são estas pessoas?"
+
+133
+00:10:06,500 --> 00:10:08,500
+e "o que eles fazem?"
+
+134
+00:10:08,960 --> 00:10:12,360
+Gostamos de pensar que
+o que estamos fazendo,
+
+135
+00:10:12,360 --> 00:10:14,240
+se você pensar sobre
+a natureza como sendo governada
+
+136
+00:10:14,240 --> 00:10:16,240
+por estas ferramentas
+universais que são processos,
+
+137
+00:10:16,680 --> 00:10:19,100
+o que estamos tentando
+fazer na Nervous System
+
+138
+00:10:19,100 --> 00:10:21,640
+é brincar com estas ferramentas
+e ver o que podemos fazer com elas.
+
+139
+00:10:23,280 --> 00:10:26,480
+Aqui está uma luminária crescendo.
+Podemos assistir ao processo.
+
+140
+00:10:26,720 --> 00:10:29,120
+E cada luminária é única.
+
+141
+00:10:29,240 --> 00:10:32,960
+Uma das coisas que estamos tentando
+fazer é usar as ferramentas da ciência
+
+142
+00:10:33,240 --> 00:10:36,040
+mas usá-las de uma forma que
+não é tradicionalmente científica.
+
+143
+00:10:36,280 --> 00:10:40,000
+A ciência está tentando
+replicar ou descrever a realidade,
+
+144
+00:10:40,360 --> 00:10:44,080
+então ela trata de resultados quantitativos
+ao invés de resultados qualitativos.
+
+145
+00:10:44,280 --> 00:10:48,000
+Na verdade não nos importamos se os modelos
+que estamos usando fazem previsões precisas.
+
+146
+00:10:48,360 --> 00:10:50,080
+Trabalhamos unicamente
+com aspectos qualitativos:
+
+147
+00:10:50,080 --> 00:10:52,080
+como o sistema está
+gerando certas estruturas
+
+148
+00:10:52,560 --> 00:10:54,920
+e como as estruturas podem variar.
+
+149
+00:10:55,120 --> 00:10:57,320
+Ao invés de tentar fazer
+algo similar à realidade
+
+150
+00:10:57,480 --> 00:11:00,000
+nós estamos tentando fazer coisas
+que são distintamente não naturais
+
+151
+00:11:00,200 --> 00:11:03,920
+mas que tem um certo aspecto
+orgânico e sensação naturais.
+
+152
+00:11:04,640 --> 00:11:08,888
+O trabalho que eu faço
+é uma tentativa de
+
+153
+00:11:08,888 --> 00:11:11,111
+preencher a mim mesmo e,
+eu espero, outros
+
+154
+00:11:11,111 --> 00:11:15,560
+com um sentimento de admiração e
+curiosidade pelas coisas que nos cercam
+
+155
+00:11:15,560 --> 00:11:18,000
+ao tentar fazer simulações
+que, eu espero,
+
+156
+00:11:18,280 --> 00:11:20,880
+te ajudam a pensar sobre coisas
+deste tipo de uma maneira diferente.
+
+157
+00:11:21,000 --> 00:11:23,120
+Movimento de bolhas em microgravidade.
+
+158
+00:11:24,080 --> 00:11:27,280
+Aqui temos um frasco
+cheio de água e bolhas.
+
+159
+00:11:27,720 --> 00:11:29,840
+Olhe para o movimento das bolhas.
+
+160
+00:11:31,640 --> 00:11:34,160
+Elas tendem a se movimentar em círculo.
+
+161
+00:11:35,960 --> 00:11:38,080
+Este é um experimento
+gravitacional simples.
+
+162
+00:11:38,560 --> 00:11:42,400
+Eu apenas coloquei um monte de
+partículas em um espaço de Zero-G.
+
+163
+00:11:44,800 --> 00:11:49,400
+Com mil partículas, cada partícula
+exercendo uma força em 999 outras partículas,
+
+164
+00:11:49,800 --> 00:11:53,520
+você acaba com cerca de um milhão
+de cálculos de força por quadro.
+
+165
+00:11:54,760 --> 00:11:58,000
+Foi bom finalmente poder não
+precisar dizer às partículas o que fazer.
+
+166
+00:11:58,520 --> 00:12:01,280
+Eu apenas digo a elas que elas
+precisam reagir umas às outras
+
+167
+00:12:01,600 --> 00:12:04,280
+e elas começam a fazer algumas
+coisas que você realmente não pode esperar.
+
+168
+00:12:04,560 --> 00:12:06,520
+Quando você apenas aplica um
+ruído Perlin a um monte de partículas
+
+169
+00:12:06,520 --> 00:12:08,520
+você não vai ter nada inesperado,
+
+170
+00:12:08,520 --> 00:12:12,500
+porque não há nada de
+inesperado nesta matemática.
+
+171
+00:12:12,500 --> 00:12:15,111
+Mas quando as partículas são
+forçadas a interagir umas com as outras,
+
+172
+00:12:15,111 --> 00:12:17,520
+o quanto mais partículas você tem
+
+173
+00:12:17,520 --> 00:12:19,580
+mais possibilidades existem
+para estas interações
+
+174
+00:12:19,580 --> 00:12:24,120
+e você pode chegar a algumas reações
+realmente impressionantes e orgânicas.
+
+175
+00:12:26,280 --> 00:12:28,480
+O computador pode produzir uma nova ideia
+
+176
+00:12:28,720 --> 00:12:31,200
+ou fazer uma contribuição
+original para o conhecimento?
+
+177
+00:12:31,480 --> 00:12:34,320
+Fizemos esta pergunta para
+o Prof. Nego e o Dr. Hamming.
+
+178
+00:12:34,720 --> 00:12:37,080
+Em alguns sentidos a máquina
+apenas produz o que esperamos.
+
+179
+00:12:37,320 --> 00:12:40,400
+Por outro lado, se você
+não prevê todas as combinações,
+
+180
+00:12:40,560 --> 00:12:43,200
+muitas vezes a máquina produz
+combinações que você não previu,
+
+181
+00:12:43,440 --> 00:12:45,560
+e você tem a impressão de conhecimento.
+
+182
+00:12:45,880 --> 00:12:50,120
+Mas uma vez configurada, a máquina pode
+atacar o problema com infinitas variações
+
+183
+00:12:50,720 --> 00:12:52,880
+e memória confiável.
+
+184
+00:13:03,120 --> 00:13:05,400
+Quando os observamos
+virando e girando,
+
+185
+00:13:05,520 --> 00:13:10,120
+quantas vezes já nos perguntamos o que
+mantém tais pássaros juntos em seu vôo?
+
+186
+00:13:21,000 --> 00:13:24,720
+Uma das ideias centrais de Processing
+é a ideia de esboçar com código.
+
+187
+00:13:25,240 --> 00:13:29,160
+Os arquivos que você salva em Processing
+são chamados de sketches (esboços).
+
+188
+00:13:29,480 --> 00:13:33,200
+A ideia é de que ao invés
+de apenas imaginar algo,
+
+189
+00:13:33,600 --> 00:13:35,510
+você pode de fato escrever
+um pequeno trecho de código,
+
+190
+00:13:35,510 --> 00:13:38,222
+experimentá-lo e então
+desenvolvê-lo a partir daí.
+
+191
+00:13:38,400 --> 00:13:40,400
+Então para tudo que eu crio,
+
+192
+00:13:40,400 --> 00:13:42,880
+- e muitas pessoas que trabalham
+com Processing fazem igual -
+
+193
+00:13:43,240 --> 00:13:46,111
+eu faço diversos
+esboços a mão primeiro,
+
+194
+00:13:46,111 --> 00:13:47,880
+como uma maneira bem
+rápida de conseguir ideias
+
+195
+00:13:48,160 --> 00:13:50,920
+e imaginar o que as coisas podem fazer.
+
+196
+00:13:51,200 --> 00:13:54,920
+Mas então em algum momento você passa
+para esta ideia de esboçar em código,
+
+197
+00:13:55,400 --> 00:13:58,120
+fazendo pequenas amostras,
+pequenos testes, pequenos protótipos.
+
+198
+00:13:58,560 --> 00:14:02,200
+E então você executa o programa
+e vê como ele está funcionando.
+
+199
+00:14:02,840 --> 00:14:05,760
+A partir daí você faz
+mudanças e modificações.
+
+200
+00:14:06,040 --> 00:14:09,600
+É uma abordagem iterativa
+ao design, uma metodologia iterativa
+
+201
+00:14:09,840 --> 00:14:14,320
+em que gradualmente você vê,
+avalia e faz as mudanças a partir daí.
+
+202
+00:14:15,080 --> 00:14:20,880
+Em contraste com como você
+tipicamente pensa em programar,
+
+203
+00:14:21,120 --> 00:14:23,800
+em que tudo é muito metódico:
+
+204
+00:14:23,960 --> 00:14:26,240
+“primeiro eu resolvo tudo de cabeça,
+
+205
+00:14:26,480 --> 00:14:31,200
+depois eu sento, faço o código
+que faz o que pensei e é só debugar.”
+
+206
+00:14:31,360 --> 00:14:33,640
+O que queremos que as pessoas façam
+
+207
+00:14:33,840 --> 00:14:36,480
+é tentar algo, escrever algumas
+linhas de código, ver o que acontece,
+
+208
+00:14:36,640 --> 00:14:38,560
+escrever mais algumas
+linhas, ver o que acontece.
+
+209
+00:14:38,560 --> 00:14:44,040
+E não ser tão preciosista
+com o que fazem com o código.
+
+210
+00:14:44,440 --> 00:14:48,440
+Ter aquele mesmo tipo de conforto de
+quando você está com o seu "sketchbook",
+
+211
+00:14:48,760 --> 00:14:51,040
+disposto a virar para a próxima página,
+
+212
+00:14:51,320 --> 00:14:55,320
+ou rabiscar alguma coisa,
+amassar, jogar fora e nunca mais olhar.
+
+213
+00:15:04,960 --> 00:15:07,240
+Isto é informação.
+
+214
+00:15:07,920 --> 00:15:11,160
+Seu uso apropriado pode trazer
+uma nova dignidade à raça humana.
+
+215
+00:15:13,560 --> 00:15:16,560
+Adequadamente relacionada,
+ela pode manter o equilíbrio
+
+216
+00:15:16,680 --> 00:15:18,960
+entre os recursos e
+a necessidade humana.
+
+217
+00:15:21,480 --> 00:15:24,600
+Em vários aspectos essas são
+máquinas de informação,
+
+218
+00:15:25,800 --> 00:15:31,200
+capazes de armazenar, processar e
+relacionar uma vasta quantidade de informação.
+
+219
+00:15:33,280 --> 00:15:36,200
+Elas processam informação
+
+220
+00:15:36,200 --> 00:15:39,320
+de maneira que ela faça sentido
+na escala humana.
+
+221
+00:15:40,880 --> 00:15:43,200
+Temos aumentado cada vez mais
+
+222
+00:15:43,200 --> 00:15:49,120
+nossa capacidade de produzir informação,
+
+223
+00:15:49,280 --> 00:15:53,720
+classificá-la, coletá-la, arquivá-la,
+
+224
+00:15:53,920 --> 00:15:57,080
+e estamos gerando mais e mais dela.
+
+225
+00:15:57,440 --> 00:16:02,000
+Mas não podemos aumentar,
+com nossas ferramentas tradicionais,
+
+226
+00:16:02,000 --> 00:16:03,600
+as mesmas ferramentes de sempre,
+
+227
+00:16:03,600 --> 00:16:05,800
+nossa capacidade de compreensão e análise.
+
+228
+00:16:24,320 --> 00:16:27,040
+E a computação é uma
+ferramenta muito importante
+
+229
+00:16:27,320 --> 00:16:31,000
+na análise e exibição de dados.
+
+230
+00:16:31,440 --> 00:16:35,120
+Então faz sentido que,
+já que vamos enfrentar
+
+231
+00:16:35,480 --> 00:16:37,760
+uma complexidade muito maior
+
+232
+00:16:38,240 --> 00:16:42,680
+em nossa relação com
+os sistemas de nossa cultura,
+
+233
+00:16:43,000 --> 00:16:46,320
+também precisamos de uma
+nova sintaxe, uma nova linguagem.
+
+234
+00:16:46,320 --> 00:16:49,800
+E a visualização de dados é,
+até agora, o melhor que temos.
+
+235
+00:17:31,800 --> 00:17:34,000
+Essa ideia de facilitação dos dados,
+
+236
+00:17:34,000 --> 00:17:36,200
+de facilitação do acesso
+aos dados, é bastante nova.
+
+237
+00:17:36,680 --> 00:17:39,000
+E a facilidade de acesso ao mundo inteiro,
+
+238
+00:17:39,000 --> 00:17:42,400
+ser capaz de fazer mapas
+ou gráficos é relativamente nova.
+
+239
+00:17:42,600 --> 00:17:45,280
+Acho que o (Microsoft) Excel
+realmente revolucionou nisso.
+
+240
+00:17:45,440 --> 00:17:49,222
+Mas agora há outras ferramentas,
+se você quiser algo mais sofisticado.
+
+241
+00:17:49,400 --> 00:17:51,820
+Se as pessoas colocam dados na web,
+
+242
+00:17:51,820 --> 00:17:55,680
+- dados governamentais, científicos,
+comunitários, seja o que for -
+
+243
+00:17:55,680 --> 00:17:58,560
+esses dados serão usados por outras
+pessoas para fazer coisas maravilhosas,
+
+244
+00:17:58,560 --> 00:18:01,400
+de maneiras que elas
+nunca teriam imaginado.
+
+245
+00:18:01,400 --> 00:18:08,200
+Há um movimento de "abertura de dados",
+acontecendo agora no mundo.
+
+246
+00:18:08,800 --> 00:18:12,440
+O grito por "dados brutos" que eu falei
+para as pessoas fazerem neste auditório
+
+247
+00:18:12,600 --> 00:18:14,400
+foi ouvido por todo o mundo.
+
+248
+00:18:38,880 --> 00:18:41,760
+Todos os dias da
+semana, por doze anos,
+
+249
+00:18:42,400 --> 00:18:46,400
+Harold escova cada um
+dos seus 32 dentes 67 vezes.
+
+250
+00:18:49,120 --> 00:18:50,960
+38 vezes para frente e para trás,
+
+251
+00:18:51,720 --> 00:18:53,520
+38 vezes para cima e para baixo.
+
+252
+00:18:54,120 --> 00:18:57,000
+Um dos meus artistas
+favoritos é Nicholas Felton,
+
+253
+00:18:57,160 --> 00:19:00,560
+que cria estes relatórios anuais.
+
+254
+00:19:01,120 --> 00:19:04,000
+Basicamente, ele faz
+relatórios anuais da sua vida.
+
+255
+00:19:04,240 --> 00:19:07,120
+Ele obsessivamente guarda
+cada detalhe da sua vida,
+
+256
+00:19:07,520 --> 00:19:09,240
+quantas cervejas ele bebeu,
+em quais ruas ele esteve,
+
+257
+00:19:09,480 --> 00:19:11,560
+e faz à mão esses maravilhosos livretos
+
+258
+00:19:11,840 --> 00:19:14,720
+uma vez por ano em janeiro,
+todos os anos ele os publica e vende.
+
+259
+00:19:14,960 --> 00:19:16,880
+The Feltron Report (Relatório de Feltron),
+acho que é este o nome.
+
+260
+00:19:17,120 --> 00:19:21,560
+Ele recentemente começou a usar Processing
+
+261
+00:19:21,880 --> 00:19:23,440
+porque há certas coisas...
+
+262
+00:19:23,840 --> 00:19:27,920
+Acredito que para ele, seu
+trabalho é sobre detalhar meticulosamente.
+
+263
+00:19:28,280 --> 00:19:31,160
+Tenho certeza que ele adora modificar
+pequenas coisas no (Adobe) Illustrator,
+
+264
+00:19:31,360 --> 00:19:33,760
+com perfeccionismo,
+e ele devia poder fazê-lo,
+
+265
+00:19:34,080 --> 00:19:36,960
+mas tem certos aspectos de
+analisar e olhar para os dados que...
+
+266
+00:19:37,080 --> 00:19:39,960
+Uma das coisas que ele estava
+me mostrando é esse diagrama
+
+267
+00:19:40,440 --> 00:19:44,160
+que demoraria
+semanas para fazer à mão,
+
+268
+00:19:44,400 --> 00:19:46,120
+mas que pode ser feito quase
+instantaneamente em Processing.
+
+269
+00:19:46,120 --> 00:19:47,960
+Mas não é só uma questão de ganhar tempo.
+
+270
+00:19:47,960 --> 00:19:51,400
+Tem certas coisas que você pode descobrir
+e ser criativo com elas através da computação,
+
+271
+00:19:51,680 --> 00:19:54,360
+que você não pode fazer à mão;
+elas funcionam bem juntas.
+
+272
+00:19:55,200 --> 00:19:58,560
+Eu acho que é nossa habilidade
+de revelar alguns padrões
+
+273
+00:19:58,920 --> 00:20:03,600
+ou dar contexto
+de maneira visual ou visceral
+
+274
+00:20:03,840 --> 00:20:06,720
+como ser capaz de ver estrutura.
+
+275
+00:20:06,880 --> 00:20:10,280
+Algumas das visualizações
+de dados de maior sucesso
+
+276
+00:20:10,400 --> 00:20:15,480
+são aquelas que te permitem descobrir
+algum tipo de relação, estrutura ou padrões,
+
+277
+00:20:16,120 --> 00:20:21,840
+que seriam difíceis de
+descrever em palavras ou numa foto.
+
+278
+00:20:23,120 --> 00:20:25,720
+Vamos ver como ele opera.
+
+279
+00:20:26,000 --> 00:20:31,080
+Primeiro, entrada.
+Depois, processamento.
+
+280
+00:20:33,550 --> 00:20:36,200
+Processamento de dados eletrônico.
+
+281
+00:20:37,000 --> 00:20:39,440
+Esse é o The $Billion Dollar o-Gram,
+
+282
+00:20:39,640 --> 00:20:42,520
+e essa imagem veio
+de uma frustração minha
+
+283
+00:20:42,680 --> 00:20:45,560
+com o relatório de valores
+em bilhões divulgado na imprensa.
+
+284
+00:20:45,760 --> 00:20:48,080
+Isto é, eles não
+fazem sentido sem contexto.
+
+285
+00:20:48,200 --> 00:20:49,840
+500 bilhões para este oleoduto,
+
+286
+00:20:49,960 --> 00:20:51,280
+20 bilhões para essa guerra...
+
+287
+00:20:51,440 --> 00:20:53,440
+Não faz sentido.
+
+288
+00:20:53,680 --> 00:20:55,560
+Então a única maneira de entender
+é visualmente e relativamente.
+
+289
+00:20:56,240 --> 00:20:59,800
+Então eu coletei valores de relatórios
+de diversas agências de notícias
+
+290
+00:20:59,880 --> 00:21:02,480
+e dimensionei as caixas
+de acordo com essas quantidades.
+
+291
+00:21:02,600 --> 00:21:05,480
+As cores aqui representam
+a motivação por trás do dinheiro.
+
+292
+00:21:05,640 --> 00:21:10,200
+Então roxo é "guerrear",
+vermelho é "dar dinheiro"
+
+293
+00:21:10,680 --> 00:21:12,520
+e verde é "exploração".
+
+294
+00:21:12,680 --> 00:21:14,440
+O que você percebe logo de cara é
+
+295
+00:21:14,600 --> 00:21:16,240
+que você começa a ter
+uma relação diferente com os números.
+
+296
+00:21:16,400 --> 00:21:17,760
+Você pode literalmente vê-los.
+
+297
+00:21:23,880 --> 00:21:25,880
+Para aumentar o alcance da visão
+
+298
+00:21:26,120 --> 00:21:29,000
+o homem desenvolveu instrumentos
+maravilhosamente sensíveis.
+
+299
+00:21:32,840 --> 00:21:35,120
+Como função do design,
+
+300
+00:21:35,400 --> 00:21:39,760
+a calculadora fornece ao homem
+criativo uma plataforma para se apoiar
+
+301
+00:21:40,840 --> 00:21:43,720
+e de onde trabalhar.
+
+302
+00:21:47,120 --> 00:21:49,560
+Nossas ferramentas, essas
+ferramentas das quais estamos falando,
+
+303
+00:21:49,560 --> 00:21:51,400
+nos permitem produzir
+visualizações mais esclarecedoras,
+
+304
+00:21:51,400 --> 00:21:55,250
+mais poderosas e de maior alcance,
+
+305
+00:21:55,250 --> 00:21:58,600
+simplesmente por permitir
+ao usuário explorar.
+
+306
+00:21:59,640 --> 00:22:02,520
+O quanto mais trabalho
+eu faço naquele espaço
+
+307
+00:22:02,840 --> 00:22:07,040
+mais eu percebo que na verdade
+
+308
+00:22:07,040 --> 00:22:12,960
+é muito menos sobre as maneiras
+como você de fato apresenta a informação,
+
+309
+00:22:13,280 --> 00:22:17,600
+do que é sobre as maneiras como você
+navega pela informação e interage com ela.
+
+310
+00:22:17,880 --> 00:22:21,120
+Muitos dos paradigmas que
+usamos para visualização de dados
+
+311
+00:22:21,280 --> 00:22:23,000
+ainda são paradigmas
+da mídia impressa,
+
+312
+00:22:23,280 --> 00:22:28,320
+onde você tem uma página estática
+em que você visualiza e pronto.
+
+313
+00:22:28,600 --> 00:22:32,280
+Visualização de dados é sobre olhar
+para os dados de ângulos diferentes,
+
+314
+00:22:33,040 --> 00:22:37,240
+permitindo às pessoas olhar para os dados
+de uma maneira que não poderiam antes.
+
+315
+00:22:37,760 --> 00:22:42,360
+Examinar esta grande confusão de eventos,
+e costurá-los juntos nestas cascatas
+
+316
+00:22:43,000 --> 00:22:45,880
+e então visualizar estas cascatas,
+e talvez chegar a algum entendimento
+
+317
+00:22:46,160 --> 00:22:48,500
+sobre como as pessoas compartilham
+o conteúdo da (revista) Times
+
+318
+00:22:48,500 --> 00:22:51,360
+ou como as pessoas
+compartilham conteúdo em geral.
+
+319
+00:22:53,720 --> 00:22:56,440
+Por um longo tempo,
+no mundo dos números,
+
+320
+00:22:56,640 --> 00:22:58,400
+o homem vem desenvolvendo ferramentas
+
+321
+00:22:58,720 --> 00:23:01,600
+para lidar com a crescente quantidade de dados.
+
+322
+00:23:03,560 --> 00:23:05,520
+Algo surgiu agora
+
+323
+00:23:05,680 --> 00:23:08,040
+que talvez faça até mesmo as nossas
+teorias mais elegantes possíveis.
+
+324
+00:23:09,440 --> 00:23:13,760
+Uma ferramenta que expandiu o
+alcance dos conceitos e da intuição humana,
+
+325
+00:23:14,000 --> 00:23:16,111
+de maneira similar a como
+outras ferramentas o fizeram.
+
+326
+00:23:19,880 --> 00:23:22,480
+Com o computador, assim como
+com qualquer outra ferramenta,
+
+327
+00:23:22,800 --> 00:23:26,320
+o conceito e o direcionamento
+precisa partir do homem.
+
+328
+00:23:27,840 --> 00:23:31,240
+A tarefa que é designada
+e os dados que são fornecidos
+
+329
+00:23:31,720 --> 00:23:36,320
+devem ser decisão do
+homem, e sua responsabilidade.
+
+330
+00:23:39,560 --> 00:23:42,120
+Uma das vantagens mais
+importantes do Processing
+
+331
+00:23:42,120 --> 00:23:45,080
+é que ele torna muito fácil
+ensinar programação
+
+332
+00:23:45,080 --> 00:23:48,560
+para pessoas que estão principalmente
+interessadas em design visual e nas artes.
+
+333
+00:23:49,320 --> 00:23:53,000
+Processing torna muito mais simples
+
+334
+00:23:53,000 --> 00:23:56,560
+escrever programas que
+colocam coisas na tela mais rápido.
+
+335
+00:23:58,040 --> 00:24:02,920
+O processo de aprender Processing
+geralmente envolve desenhar uma linha na tela.
+
+336
+00:24:03,240 --> 00:24:06,120
+Esse é o primeiro passo:
+desenhar uma linha do ponto A ao ponto B.
+
+337
+00:24:06,360 --> 00:24:09,280
+Assim, de maneira imediata
+
+338
+00:24:09,280 --> 00:24:13,080
+você está olhando para uma
+arte simples, mas que você mesmo fez.
+
+339
+00:24:13,440 --> 00:24:16,120
+Você aprende a programar
+computadores desenhando.
+
+340
+00:24:16,240 --> 00:24:19,720
+Você aprende a programar computadores
+carregando imagens e fazendo coisas com elas.
+
+341
+00:24:19,840 --> 00:24:21,640
+Você aprende a programar
+fazendo animações,
+
+342
+00:24:21,760 --> 00:24:24,080
+interação, experiências visuais.
+
+343
+00:24:24,240 --> 00:24:30,760
+É uma maneira de trazer
+o que consideramos emocionante
+
+344
+00:24:30,760 --> 00:24:33,320
+e excitante sobre software,
+para as artes visuais
+
+345
+00:24:33,320 --> 00:24:36,880
+em um nível no qual pessoas que são
+motivadas e focadas no aspecto visual
+
+346
+00:24:36,880 --> 00:24:40,040
+podem explorar, experimentar
+e brincar com o código,
+
+347
+00:24:40,360 --> 00:24:42,680
+como uma nova maneira
+de realizar ideias.
+
+348
+00:24:43,280 --> 00:24:47,800
+E particularmente pessoas que
+pensam visualmente - designers, artistas
+
+349
+00:24:48,040 --> 00:24:51,520
+ou pessoas que estão acostumadas
+a pensar em termos de imagem
+
+350
+00:24:51,720 --> 00:24:53,960
+ou em termos de
+estrutura, forma ou estética.
+
+351
+00:24:54,120 --> 00:24:56,440
+De repente, elas podem
+trabalhar usando o Processing,
+
+352
+00:24:56,640 --> 00:24:58,960
+que ja é orientado para
+esse tipo de trabalho.
+
+353
+00:24:59,560 --> 00:25:02,920
+E é mais sobre dar apoio para
+as suas atividades como criativos
+
+354
+00:25:02,920 --> 00:25:05,240
+do que é sobre ter um "código perfeito".
+
+355
+00:25:05,920 --> 00:25:08,200
+Assim, comparada com outras
+linguagens de programação,
+
+356
+00:25:08,480 --> 00:25:12,360
+Processing é muito mais diretamente
+preparada para pessoas que podem não ser
+
+357
+00:25:12,360 --> 00:25:16,360
+as melhores tecnicamente,
+mas que têm boas ideias criativas.
+
+358
+00:25:34,560 --> 00:25:37,480
+Voltando às nossas observações
+mais gerais sobre o uso de computadores...
+
+359
+00:25:37,960 --> 00:25:41,560
+Inicialmente usamos o computador
+para simular situações de engenharia,
+
+360
+00:25:41,560 --> 00:25:44,840
+situações que antes fazíamos à mão.
+
+361
+00:25:45,360 --> 00:25:49,440
+O computador nos permitiu resolver
+problemas maiores e mais complexos.
+
+362
+00:25:50,080 --> 00:25:54,600
+Mas isso ignora o efeito da
+ordem de magnitude do qual falamos.
+
+363
+00:25:55,320 --> 00:25:58,240
+Agora estamos começando a usar a
+máquina de maneiras completamente novas,
+
+364
+00:25:58,520 --> 00:26:00,880
+em problemas completamente novos.
+
+365
+00:26:01,040 --> 00:26:03,360
+Essa é a parte interessante,
+
+366
+00:26:03,520 --> 00:26:07,520
+o aspecto intelectual de aplicar
+a máquina a ideias completamente novas,
+
+367
+00:26:07,840 --> 00:26:10,160
+que é tão estimulante para
+muitas pessoas nesta área.
+
+368
+00:26:12,360 --> 00:26:16,160
+Eu energizei o relé aqui,
+e esse é o banco de amplificadores
+
+369
+00:26:16,360 --> 00:26:19,760
+que impulsionam os servomotores do sistema...
+
+370
+00:26:20,880 --> 00:26:24,760
+O computador que criou o
+“corredor stargate” no filme “2001”
+
+371
+00:26:25,200 --> 00:26:28,720
+foi desenvolvido pelo homem por
+trás desses óculos: John Whitney.
+
+372
+00:26:28,960 --> 00:26:31,240
+Seus três filhos e seu irmão James,
+
+373
+00:26:31,440 --> 00:26:34,000
+todos usaram estas máquinas
+para fazer filmes computacionais.
+
+374
+00:26:34,360 --> 00:26:38,040
+Os Whitneys não se inibem pelo espectro
+de grandes fabricantes de computadores.
+
+375
+00:26:38,400 --> 00:26:40,080
+Difícil chamá-los de computadores,
+
+376
+00:26:40,280 --> 00:26:42,600
+por serem, na verdade,
+"resolvedores de problemas" especializados.
+
+377
+00:26:42,760 --> 00:26:47,200
+Eles eram computadores que foram feitos
+para computar somente um tipo de equação.
+
+378
+00:26:48,360 --> 00:26:51,040
+O que eu estive fazendo
+nesta última década
+
+379
+00:26:51,040 --> 00:26:54,480
+foi projetar os mecanismos
+mais simples que posso imaginar.
+
+380
+00:26:54,640 --> 00:26:56,960
+Máquinas primitivas muito simples.
+
+381
+00:26:57,520 --> 00:27:01,640
+E através do uso da emergência,
+estas máquinas que interagem juntas
+
+382
+00:27:02,160 --> 00:27:06,160
+em um ambiente básico;
+são capazes de produzir coisas
+
+383
+00:27:06,320 --> 00:27:08,640
+que são muito mais complexas
+do que seus componentes básicos.
+
+384
+00:27:09,360 --> 00:27:10,400
+Este é o Elemento 1.
+
+385
+00:27:10,880 --> 00:27:12,640
+Este é o Comportamento 1.
+
+386
+00:27:13,000 --> 00:27:14,200
+Comportamento 2.
+
+387
+00:27:14,520 --> 00:27:15,760
+Comportamento 3.
+
+388
+00:27:16,080 --> 00:27:17,280
+Comportamento 4.
+
+389
+00:27:17,840 --> 00:27:21,000
+Este é o Elemento 1.
+Um elemento é uma máquina simples
+
+390
+00:27:21,080 --> 00:27:24,200
+que consiste em uma forma
+e um ou mais comportamentos.
+
+391
+00:27:25,560 --> 00:27:27,840
+Este diagrama mostra o Elemento 1 em ação.
+
+392
+00:27:29,640 --> 00:27:32,240
+O comportamento é mais fácil de ver
+quando adicionamos notação.
+
+393
+00:27:35,520 --> 00:27:38,280
+Estas flechas mostram o Comportamento 1:
+"mova em linha reta."
+
+394
+00:27:39,120 --> 00:27:42,840
+Estas flechas mostram o Comportamento 2:
+"mude de direção ao se tocarem."
+
+395
+00:27:45,080 --> 00:27:49,080
+Estas flechas mostram o Comportamento 3:
+"afastar-se quando um elemento está sobreposto."
+
+396
+00:27:49,880 --> 00:27:52,320
+Um processo define um ambiente
+para os elementos
+
+397
+00:27:52,760 --> 00:27:55,680
+e determina como as relações
+entre os elementos são representadas.
+
+398
+00:27:58,040 --> 00:28:01,360
+Processo 4 preenche
+a superfície com Elemento 1
+
+399
+00:28:01,520 --> 00:28:04,280
+e desenha uma linha entre os
+elementos quando eles se sobrepõem.
+
+400
+00:28:06,360 --> 00:28:07,800
+Computadores invadirão as artes
+
+401
+00:28:07,800 --> 00:28:10,500
+assim como fazem com todos os
+outros aspectos das nossas vidas.
+
+402
+00:28:10,720 --> 00:28:13,640
+No futuro, artistas podem
+ter que aprender novas habilidades
+
+403
+00:28:13,640 --> 00:28:17,080
+de matemática, mecânica,
+engenharia e programação
+
+404
+00:28:17,280 --> 00:28:19,240
+para exercer seu ofício.
+
+405
+00:28:23,120 --> 00:28:27,080
+Quando você quer criar um certo
+tipo de forma ou imagem no computador
+
+406
+00:28:27,200 --> 00:28:31,560
+você tem que ser capaz de descrever todos
+os passos envolvidos em fazer essa imagem.
+
+407
+00:28:31,680 --> 00:28:34,960
+E para fazer isso você cria
+o que é chamado de algoritmo.
+
+408
+00:28:35,080 --> 00:28:37,200
+Um algoritmo é como uma receita.
+
+409
+00:28:37,400 --> 00:28:40,880
+Se você está cozinhando um certo
+jantar você precisa de uma receita
+
+410
+00:28:40,960 --> 00:28:43,320
+e a ordem na qual você
+cozinha as coisas etc.
+
+411
+00:28:43,440 --> 00:28:45,400
+É o mesmo no computador.
+Você precisa dizer:
+
+412
+00:28:45,480 --> 00:28:49,360
+“esta forma é criada tendo
+uma partícula que se move,
+
+413
+00:28:49,800 --> 00:28:52,960
+e a partícula é controlada por rotação,
+
+414
+00:28:53,080 --> 00:28:56,000
+e talvez em alguns momentos se divide
+e se converte em duas partículas...”
+
+415
+00:28:56,080 --> 00:29:00,440
+Isso é um algoritmo que descreve
+todo o comportamento do sistema.
+
+416
+00:29:00,560 --> 00:29:05,000
+Então o algoritmo na verdade
+descreve a sua ideia criativa.
+
+417
+00:29:06,000 --> 00:29:07,880
+Sempre que você define
+um sistema em software
+
+418
+00:29:08,040 --> 00:29:11,200
+é um campo sem limites
+que você pode explorar.
+
+419
+00:29:11,440 --> 00:29:16,600
+Mudando os diferentes parâmetros,
+o valor das diferentes partes do sistema,
+
+420
+00:29:17,000 --> 00:29:19,920
+você se desloca para diferentes
+partes desta paisagem infinita.
+
+421
+00:29:20,160 --> 00:29:25,960
+Trata-se claramente de manipular
+algoritmos, escolher parâmetros e descobrir
+
+422
+00:29:26,160 --> 00:29:29,080
+como extrair beleza do sistema
+
+423
+00:29:29,280 --> 00:29:32,760
+quando os dados brutos em si
+não são realmente significativos.
+
+424
+00:29:33,160 --> 00:29:35,440
+O potencial está lá,
+na criatividade computacional,
+
+425
+00:29:35,760 --> 00:29:41,680
+de ter processos que são de fato não humanos.
+E acho que muitas vezes vemos isso.
+
+426
+00:29:41,880 --> 00:29:46,120
+Mas encontramos uma espécie de meio-termo
+
+427
+00:29:46,320 --> 00:29:51,000
+unindo os processos computacionais
+não humanos, emergentes, estranhos etc.
+
+428
+00:29:51,160 --> 00:29:53,760
+com um modo humano
+de pensar sobre o mundo.
+
+429
+00:29:53,920 --> 00:29:57,000
+E em algum lugar ali
+há uma área muito proveitosa.
+
+430
+00:29:58,080 --> 00:30:01,680
+Eu gostaria de contar outra anedota
+
+431
+00:30:01,680 --> 00:30:05,400
+da exposição de Georg Nees de 1965.
+
+432
+00:30:06,120 --> 00:30:10,240
+A principal figura das belas artes,
+o pintor Hans Drüke
+
+433
+00:30:10,440 --> 00:30:16,040
+levantou sua mão e disse:
+“Jovem,” - dirigindo-se a Georg Nees -
+
+434
+00:30:16,200 --> 00:30:20,280
+“tudo o que você nos disse é bom,
+mas quer saber uma coisa?
+
+435
+00:30:20,400 --> 00:30:25,040
+Poderia fazer sua máquina
+desenhar como eu desenho?"
+
+436
+00:30:26,760 --> 00:30:30,240
+Nees ponderou por um momento e disse:
+
+437
+00:30:30,560 --> 00:30:35,960
+“Quer saber de uma coisa?
+Se você me disser como você desenha
+
+438
+00:30:36,120 --> 00:30:40,520
+eu posso fazer a minha máquina fazer isso.”
+
+439
+00:30:40,960 --> 00:30:45,400
+O que é legal sobre esta
+anedota, em poucas palavras,
+
+440
+00:30:45,600 --> 00:30:47,080
+é que ambos tinham razão.
+
+441
+00:30:47,280 --> 00:30:53,000
+Drüke, claro, com sua suposição
+de que a resposta seria não.
+
+442
+00:30:53,480 --> 00:30:56,000
+Afinal, como poderia
+uma máquina desenhar como ele?
+
+443
+00:30:56,400 --> 00:30:59,680
+Mas Georg Nees também
+tinha razão quando disse:
+
+444
+00:30:59,840 --> 00:31:04,880
+“Se puder me dizer como desenha,
+posso fazer minha máquina desenhar.”
+
+445
+00:31:05,200 --> 00:31:08,680
+Porque, é claro, se você
+desenha como um artista,
+
+446
+00:31:08,920 --> 00:31:10,900
+você não pode explicar como faz isso.
+
+447
+00:31:10,900 --> 00:31:12,500
+Você faz e acontece.
+
+448
+00:31:12,600 --> 00:31:17,520
+Então tínhamos aí, logo no momento
+em que a arte algorítmica começava,
+
+449
+00:31:17,800 --> 00:31:24,500
+uma pequena história que
+claramente mostra a diferença na qual,
+
+450
+00:31:24,500 --> 00:31:27,000
+nos poucos anos seguintes,
+
+451
+00:31:27,000 --> 00:31:31,680
+tudo o que concerne
+a arte algorítmica aconteceria.
+
+452
+00:31:35,720 --> 00:31:38,320
+O que eu faço neste trabalho
+- muito do que eu tento fazer -
+
+453
+00:31:38,600 --> 00:31:44,960
+é criar esses ambientes ambíguos,
+que não pretendem representar nada,
+
+454
+00:31:45,400 --> 00:31:47,680
+não pretendem ter uma
+narrativa por trás deles,
+
+455
+00:31:48,040 --> 00:31:54,320
+mas pretendem ser espaços que convidam
+perguntas e que convidam a curiosidade.
+
+456
+00:31:56,000 --> 00:32:00,560
+Um diálogo em torno de se perguntar
+o que é e como funciona - essa é a intenção.
+
+457
+00:32:05,920 --> 00:32:08,720
+A qualidade essencial da informação
+digital é que ela é plástica,
+
+458
+00:32:08,920 --> 00:32:11,760
+é capaz de mudar de estado,
+
+459
+00:32:12,000 --> 00:32:16,600
+assumindo configurações
+mutáveis sob demanda
+
+460
+00:32:16,800 --> 00:32:21,280
+e é capaz de ser uma espécie de
+"representação universal" de outras mídias.
+
+461
+00:32:23,000 --> 00:32:25,240
+Assim, a combinação homem-máquina
+
+462
+00:32:25,440 --> 00:32:30,400
+encontrará uma linha divisória que
+passará gradualmente do homem até a máquina.
+
+463
+00:32:30,400 --> 00:32:31,900
+A máquina assumindo cada vez mais o fardo,
+
+464
+00:32:31,900 --> 00:32:33,540
+à medida em que aprendemos
+a usar essas máquinas,
+
+465
+00:32:33,540 --> 00:32:35,420
+e à medida que as máquinas
+se tornam mais poderosas.
+
+466
+00:32:35,420 --> 00:32:41,000
+E nós ficaremos responsáveis
+pelos aspectos mais criativos do problema.
+
+467
+00:32:47,880 --> 00:32:52,000
+Nós não vemos, por exemplo,
+as formas ou objetos que projetamos,
+
+468
+00:32:52,120 --> 00:32:54,000
+nem sequer ferramentas ou objetos.
+
+469
+00:32:54,000 --> 00:32:58,000
+Nós não os vemos mais
+como itens estáticos.
+
+470
+00:32:58,000 --> 00:33:03,400
+Nós simplesmente usamos; mas na realidade
+começamos a indagar quais são os processos por trás.
+
+471
+00:33:03,850 --> 00:33:06,400
+E uma vez que entendemos esses processos,
+
+472
+00:33:06,400 --> 00:33:09,680
+qual é o potencial em termos
+de design para manipulá-los
+
+473
+00:33:09,840 --> 00:33:14,720
+e então criar soluções realmente novas
+que nem eram possíveis antes?
+
+474
+00:33:41,440 --> 00:33:43,666
+James Surowiecki tem essa ideia
+da sabedoria das multidões,
+
+475
+00:33:43,666 --> 00:33:46,650
+que diz que um bando de pessoas é
+mais inteligente do que qualquer indivíduo.
+
+476
+00:33:46,650 --> 00:33:50,280
+Queríamos ver como isso se aplicaria à
+composição musical colaborativa distribuída,
+
+477
+00:33:50,280 --> 00:33:52,680
+na qual ninguém tem ideia
+daquilo no qual está trabalhando.
+
+478
+00:33:52,680 --> 00:33:55,560
+A canção "Daisy Bell", que foi
+o primeiro computador no mundo que cantava
+
+479
+00:33:55,560 --> 00:33:59,400
+Então ressintetizamos esta música.
+Ela soava assim.
+
+480
+00:33:59,400 --> 00:34:01,520
+Nós separamos todas as notas
+individuais no canto
+
+481
+00:34:01,680 --> 00:34:04,040
+assim como os fonemas.
+
+482
+00:34:05,760 --> 00:34:08,000
+Pegamos todos os pedaços individuais,
+
+483
+00:34:08,000 --> 00:34:09,880
+e os colocamos novamente em
+uma requisição no [Amazon] Turk.
+
+484
+00:34:09,880 --> 00:34:11,120
+Isso é como pareceria
+se vocês fossem no site.
+
+485
+00:34:11,120 --> 00:34:15,000
+Vocês digitariam o seu código
+- primeiro testariam o microfone.
+
+486
+00:34:15,600 --> 00:34:18,600
+Vocês receberiam um trecho de áudio simples.
+
+487
+00:34:19,760 --> 00:34:22,640
+E então fariam o melhor para
+recriá-lo com a sua própria voz.
+
+488
+00:34:58,080 --> 00:35:02,080
+A comunidade tem sido realmente
+a base de todo o projeto.
+
+489
+00:35:03,040 --> 00:35:07,280
+Quando estávamos desenvolvendo
+e projetando o software
+
+490
+00:35:07,400 --> 00:35:11,880
+estávamos sempre fazendo isso em relação
+a poder ensinar com ele e à comunidade.
+
+491
+00:35:12,000 --> 00:35:16,240
+Logo no início empregamos ferramentas
+de mídia social realmente básicas.
+
+492
+00:35:16,240 --> 00:35:19,680
+Na época eram "bulletin boards",
+listas de discussão e coisas desse tipo.
+
+493
+00:35:19,840 --> 00:35:21,960
+Mas à medida que desenvolvíamos o software,
+estávamos sempre publicando ele,
+
+494
+00:35:22,120 --> 00:35:24,200
+recebendo feedback e
+incorporando isso no projeto.
+
+495
+00:35:24,400 --> 00:35:26,160
+Creio que realmente
+a melhor forma de começar
+
+496
+00:35:26,320 --> 00:35:28,360
+é a maneira como
+o projeto em si começou.
+
+497
+00:35:29,160 --> 00:35:32,640
+Encontre alguém que esteja
+dando um workshop ou um tutorial,
+
+498
+00:35:32,840 --> 00:35:36,320
+que esteja disposto a ajudá-lo
+nesses primeiros passos
+
+499
+00:35:36,680 --> 00:35:40,160
+e que te dê a convicção
+sobre o que é programar,
+
+500
+00:35:40,600 --> 00:35:45,120
+e de como é o design e o código
+quando são feitos ao mesmo tempo, juntos.
+
+501
+00:35:45,520 --> 00:35:47,600
+Logo no início, um dos aspectos
+mais importantes do Processing
+
+502
+00:35:47,720 --> 00:35:50,520
+era que as pessoas poderiam
+pegar o que haviam feito
+
+503
+00:35:50,680 --> 00:35:53,451
+e colocar online para que
+outras pessoas pudessem ver.
+
+504
+00:35:53,740 --> 00:36:00,550
+Pra mim, o que tem sido muito útil
+em me ajudar a crescer como um programador
+
+505
+00:36:00,550 --> 00:36:02,400
+é olhar o código fonte de outras pessoas.
+
+506
+00:36:02,680 --> 00:36:06,160
+Você não precisa reinventar a roda.
+Você pode pegar aquilo e dizer
+
+507
+00:36:06,400 --> 00:36:10,560
+“ok, isto é útil para mim.
+Agora eu quero olhar de uma maneira diferente
+
+508
+00:36:10,760 --> 00:36:12,720
+e colocar um código diferente em volta."
+
+509
+00:36:13,680 --> 00:36:15,880
+A ideia de que você pode
+fazer algo no Processing,
+
+510
+00:36:16,040 --> 00:36:19,990
+exportar de uma maneira que possa
+ser colocado imediatamente na web,
+
+511
+00:36:19,990 --> 00:36:23,600
+com o código fonte incluído,
+tem sido realmente essencial para o projeto.
+
+512
+00:36:23,960 --> 00:36:26,640
+Há centenas de milhares
+de pessoas que usam Processing.
+
+513
+00:36:26,960 --> 00:36:30,440
+Se esta é a comunidade,
+então ela é muito grande.
+
+514
+00:36:30,640 --> 00:36:34,120
+Se você estiver falando de pessoas
+que estão usando o Processing ativamente,
+
+515
+00:36:34,320 --> 00:36:40,240
+que vestem a camisa, então talvez estejamos
+na ordem de várias milhares de pessoas.
+
+516
+00:36:40,840 --> 00:36:46,280
+Depois, a comunidade se tornou
+a parte principal do projeto
+
+517
+00:36:46,720 --> 00:36:49,160
+através do sistema de
+bibliotecas que incluímos.
+
+518
+00:36:49,320 --> 00:36:54,000
+Processing, pelo seu design, é para
+ser um núcleo ou framework bastante mínimo,
+
+519
+00:36:54,000 --> 00:36:58,280
+e incluímos uma maneira das pessoas poderem
+estender o software escrevendo essas bibliotecas.
+
+520
+00:36:58,560 --> 00:37:02,040
+Quando eu chego a algo que eu percebo
+que a maioria das pessoas não sabe como fazer,
+
+521
+00:37:02,280 --> 00:37:07,880
+ou que simplesmente ninguém fez ainda,
+eu torno disponível para outras pessoas.
+
+522
+00:37:08,000 --> 00:37:13,360
+Por exemplo, com o projeto Makerbot,
+eu publiquei tanto os modelos que criei,
+
+523
+00:37:13,680 --> 00:37:17,160
+- totalmente em código aberto,
+algo que naturalmente um artista não faria,
+
+524
+00:37:17,440 --> 00:37:20,920
+você não vai publicar sua obra
+para que qualquer um possa fazer -
+
+525
+00:37:21,160 --> 00:37:23,600
+mas também publiquei o código,
+que é muito mais importante,
+
+526
+00:37:23,800 --> 00:37:26,880
+pois o código é a ferramenta
+que você usa para criar a coisa.
+
+527
+00:37:27,200 --> 00:37:30,480
+A ideia de que Processing serve
+apenas para criar gráficos na tela
+
+528
+00:37:30,800 --> 00:37:32,800
+tem mudado ao longo dos anos.
+
+529
+00:37:33,000 --> 00:37:35,380
+Através de protótipos e depois fabricação
+
+530
+00:37:35,380 --> 00:37:38,680
+seu uso foi estendido a uma
+variedade de outros domínios.
+
+531
+00:37:39,040 --> 00:37:42,080
+E o núcleo deste trabalho
+está realmente nas bibliotecas.
+
+532
+00:37:42,240 --> 00:37:45,160
+Processing conta agora com a
+contribuição de mais de 100 bibliotecas,
+
+533
+00:37:45,280 --> 00:37:49,000
+e é assim que o projeto se mantém
+dinâmico e evolui muito rapidamente.
+
+534
+00:37:49,200 --> 00:37:53,840
+Nossa estratégia consiste em manter o núcleo
+e o processamento básico bastante mínimo e contido
+
+535
+00:37:54,120 --> 00:37:58,960
+e então fazer o sistema que permite
+outras pessoas contribuir com projetos.
+
+536
+00:38:00,440 --> 00:38:03,640
+Eu não poderia fazer o que faço
+sem código aberto.
+
+537
+00:38:04,111 --> 00:38:09,800
+Acredito de verdade que todos
+estamos de pé sobre ombros de gigantes
+
+538
+00:38:09,920 --> 00:38:14,800
+e sinto que é importante devolver
+para a comunidade o que pegamos dela.
+
+539
+00:38:25,040 --> 00:38:26,880
+“O universo perdura.
+
+540
+00:38:27,600 --> 00:38:31,200
+Quanto mais estudamos
+a natureza do tempo,
+
+541
+00:38:31,320 --> 00:38:34,680
+mais compreendemos que
+duração significa invenção,
+
+542
+00:38:35,000 --> 00:38:40,880
+criação de formas, elaboração contínua
+do absolutamente novo.”
+
+543
+00:38:42,040 --> 00:38:44,360
+Por exemplo, este documentário.
+
+544
+00:38:44,520 --> 00:38:48,000
+Ele é formado por vários
+documentos encontrados.
+
+545
+00:38:48,240 --> 00:38:52,560
+Por sua vez, estes documentos são
+o resultado de desenvolvimentos anteriores.
+
+546
+00:38:53,880 --> 00:38:56,560
+São documentos ”abertos”,
+
+547
+00:38:56,680 --> 00:38:59,560
+que podem dar origem a outros novos processos.
+
+548
+00:39:00,680 --> 00:39:05,880
+O processo de montar documentos
+diferentes leva a resultados inesperados.
+
+549
+00:39:07,480 --> 00:39:10,320
+Todos os processos são parte do universo
+
+550
+00:39:10,480 --> 00:39:14,880
+e eles precisam de agentes,
+códigos e tempo para operar.
+
+551
+00:39:16,000 --> 00:39:20,899
+Manipular códigos permite uma
+abordagem mais próxima aos processos.
+
+552
+00:39:20,899 --> 00:39:25,280
+Te permite visualizar dados
+à distância e com perspectiva
+
+553
+00:39:25,680 --> 00:39:28,480
+ou criar processos novos e inéditos.
+
+554
+00:39:28,920 --> 00:39:32,120
+Para fazer isso, para criar
+esses tipos de ferramentas,
+
+555
+00:39:32,320 --> 00:39:35,800
+é que precisamos de
+linguagens como Processing.
+
+556
+00:39:36,080 --> 00:39:41,080
+Finalmente o futuro, exceto
+em termos de tendências e probabilidades,
+
+557
+00:39:41,320 --> 00:39:43,040
+é o grande desconhecido.
+
+558
+00:39:43,440 --> 00:39:46,000
+E os usos em que nos colocamos
+
+559
+00:39:46,200 --> 00:39:49,480
+em relação às maravilhosas
+máquinas da nossa própria invenção
+
+560
+00:39:49,480 --> 00:39:52,840
+é talvez o principal
+desafio intelectual e moral
+
+561
+00:39:52,840 --> 00:39:56,320
+do nosso próprio
+breve momento no tempo.
+
+562
+00:40:00,000 --> 00:40:12,000
+Legendas em português: Artur Cabral Reis,
+Daniel Ferreira e Marcelo Padovani Macieira.
