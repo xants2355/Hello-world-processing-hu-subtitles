@@ -134,7 +134,7 @@ a folyamatokkal való interakcióhoz. Közelebb kerülhetünk a világ jelenség
 
 33
 00:02:54,320 --> 00:02:58,640
- Vizualizálhatjuk a körülöttünk zajló
+Vizualizálhatjuk a körülöttünk zajló
 folyamatokban megjelenő adatokat.
 
 34
@@ -148,38 +148,33 @@ amelyek élnek és nyitottak,
 
 36
 00:03:21,540 --> 00:03:25,560
-Processing é uma linguagem,
-um "toolkit" (caixa de ferramentas),
+A Processing egy nyelv, egy eszközkészlet,
 
 37
 00:03:25,800 --> 00:03:28,720
-uma comunidade e
-um projeto de código aberto.
+egy közösség és egy nyílt forráskódú projekt.
 
 38
 00:03:29,320 --> 00:03:36,840
-E eu acho que é uma maneira
-de lidar com criatividade e programação,
+És úgy gondolom, hogy ez egyfajta módja 
+a kreativitásnak és a kódolásnak.
 
 39
 00:03:37,680 --> 00:03:42,160
-mas também é o meu modelo para o que
-eu acho que seja uma comunidade online ideal.
+De ez egyben egyfajta modellje is annak, amit én egy ideális online közösségnek gondolok.
 
 40
 00:03:43,000 --> 00:03:46,360
-Pessoas que estão se apoiando,
-aprendendo coisas parecidas,
+és segítenek azoknak, akik még csak most kezdik,
 
 41
 00:03:46,600 --> 00:03:51,080
-ajudando iniciantes
-e compartilhando ideias.
+és megosztják egymással az ötleteiket, meg ilyesmi.
 
 42
 00:03:51,720 --> 00:03:54,200
-Processing para mim
-são todas estas coisas.
+Szóval a Processing mindezekből áll.
+
 
 43
 00:03:59,840 --> 00:04:02,640
