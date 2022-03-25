@@ -322,44 +322,45 @@ ha ismered a kódot.
 77
 00:06:40,480 --> 00:06:44,560
 A kód lényegében, amikor elmagyarázod az embereknek,
-oké, szóval mit értesz kód alatt? 
 
 78
 00:06:44,720 --> 00:06:46,560
+oké, szóval mit értesz kód alatt? 
 Nos, a kód szó szerint csak egy nyelv,
-amiben le kell írnod 
+
 
 79
 00:06:46,840 --> 00:06:50,560
-az ötleteidet, hogy a számítógép képes legyen végrehajtani azokat. 
+amiben le kell írnod az ötleteidet, 
 
 80
 00:06:50,720 --> 00:06:53,480
-És a számítógép sok szempontból nagyon ostoba gép,
+hogy a számítógép képes legyen végrehajtani azokat. 
 
 81
 00:06:53,600 --> 00:06:56,440
-mert mindent nagyon világosan le kell írni neki. 
+És a számítógép sok szempontból nagyon ostoba gép, 
 
 82
 00:06:56,640 --> 00:07:00,360
-Tehát ebben az értelemben ez egy nyelv, vagy tudod, 
+mert mindent nagyon világosan le kell írni neki.  
 
 83
 00:07:00,520 --> 00:07:05,160
-a logika leírásának egy módja, és aztán, 
+Tehát ebben az értelemben ez egy nyelv, vagy tudod, 
 
 84
 00:07:05,440 --> 00:07:09,840
-különböző paramétereket vagy
-különböző logikákat adsz hozzá.
+a logika leírásának egy módja, és aztán, 
 
 85
 00:07:10,000 --> 00:07:12,080
-Különböző interfészeket, ilyesmi.
+különböző paramétereket vagy
+különböző logikákat adsz hozzá. 
 
 86
 00:07:12,440 --> 00:07:15,320
+Különböző interfészeket, ilyesmi.
 És néha a kód nagyon-nagyon frusztráló,
 
 87
