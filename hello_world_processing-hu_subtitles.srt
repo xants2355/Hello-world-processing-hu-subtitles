@@ -178,43 +178,39 @@ Szóval a Processing mindezekből áll.
 
 43
 00:03:59,840 --> 00:04:02,640
-Processing é uma
-ferramenta realmente excelente
+A Processing egy igazán kiváló 
+eszköz, amely lehetővé teszi,
 
 44
 00:04:02,800 --> 00:04:05,560
-que permite às pessoas, qualquer
-pessoa, com qualquer tipo de formação,
+hogy szinte bárki bármilyen háttérrel
+elkezdjen kóddal dolgozni,
 
 45
 00:04:05,960 --> 00:04:08,200
-começar a trabalhar com
-código como um meio criativo.
+mint egy kreatív médiummal.
 
 46
 00:04:08,440 --> 00:04:12,720
-Então é muito fácil fazer "sketches"
-(esboços) animados ou desenhos em código
+Tehát nagyon könnyű animált vázlatokat
+vagy rajzokat készíteni
 
 47
 00:04:12,920 --> 00:04:15,600
-sem ter necessariamente
-muito conhecimento sobre Java
+kódban anélkül, hogy feltétlenül sok
+ismeretünk lenne a Java-ról 
 
 48
 00:04:15,840 --> 00:04:18,280
-ou sobre programar
-de uma maneira adequada.
+vagy a megfelelő programozásról.
 
 49
 00:04:18,560 --> 00:04:21,000
-Sendo um "sketchbook"
-(caderno de esboços) digital,
+Tehát ez egy digitális vázlatfüzet, egy olyan hely,
 
 50
 00:04:21,320 --> 00:04:24,240
-é um lugar onde você pode
-rabiscar as suas ideias em código.
+ahová le tudod firkantani az ötleteidet kódban.
 
 51
 00:04:24,480 --> 00:04:26,400
