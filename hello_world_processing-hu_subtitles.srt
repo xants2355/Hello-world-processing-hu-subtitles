@@ -305,55 +305,58 @@ szóló információk világát hozza el, a szélről és a viharokról,
 
 73
 00:06:25,520 --> 00:06:27,520
-a távolságról és az intenzitásról. Zátonyokat és szigeteket
+a távolságról és az intenzitásról. 
 
 74
 00:06:27,600 --> 00:06:29,600
-és sok mindent meg tud határozni, ha ismered a telet.
+Zátonyokat és szigeteket 
 
 75
 00:06:30,240 --> 00:06:33,720
-A kód lényegében, amikor elmagyarázod az embereknek,
+és sok minden mást meg tud határozni, 
 
 76
 00:06:34,040 --> 00:06:36,560
-oké, szóval mit értesz kód alatt?
+ha ismered a kódot.
 
 77
 00:06:40,480 --> 00:06:44,560
-Nos, a kód szó szerint csak egy nyelv, amiben le kell írnod az
+A kód lényegében, amikor elmagyarázod az embereknek,
+oké, szóval mit értesz kód alatt? 
 
 78
 00:06:44,720 --> 00:06:46,560
-ötleteidet, hogy a számítógép képes legyen végrehajtani azokat. 
+Nos, a kód szó szerint csak egy nyelv,
+amiben le kell írnod 
 
 79
 00:06:46,840 --> 00:06:50,560
-És a számítógép sok szempontból nagyon ostoba gép,
+az ötleteidet, hogy a számítógép képes legyen végrehajtani azokat. 
 
 80
 00:06:50,720 --> 00:06:53,480
-mert mindent nagyon világosan le kell írni neki.
+És a számítógép sok szempontból nagyon ostoba gép,
 
 81
 00:06:53,600 --> 00:06:56,440
-Tehát ebben az értelemben ez egy nyelv, vagy tudod,
+mert mindent nagyon világosan le kell írni neki. 
 
 82
 00:06:56,640 --> 00:07:00,360
-a logika leírásának egy módja, és aztán,
+Tehát ebben az értelemben ez egy nyelv, vagy tudod, 
 
 83
 00:07:00,520 --> 00:07:05,160
-különböző paramétereket vagy
+a logika leírásának egy módja, és aztán, 
 
 84
 00:07:05,440 --> 00:07:09,840
+különböző paramétereket vagy
 különböző logikákat adsz hozzá.
 
 85
 00:07:10,000 --> 00:07:12,080
-Különböző interfészek, ilyesmi.
+Különböző interfészeket, ilyesmi.
 
 86
 00:07:12,440 --> 00:07:15,320
