@@ -297,83 +297,72 @@ amely szétválasztja és összetartja őket.
 
 71
 00:06:19,400 --> 00:06:21,160
-Uma onda quebrando em uma praia
+A tengerparton megtörő hullám a tengeren zajló eseményekről
 
 72
 00:06:21,280 --> 00:06:25,280
-traz um mundo de informação
-sobre eventos ocorridos no mar.
+szóló információk világát hozza el, a szélről és a viharokról,
 
 73
 00:06:25,520 --> 00:06:27,520
-Pode dizer sobre ventos e tempestades
+a távolságról és az intenzitásról. Zátonyokat és szigeteket
 
 74
 00:06:27,600 --> 00:06:29,600
-a distância e a intensidade.
+és sok mindent meg tud határozni, ha ismered a telet.
 
 75
 00:06:30,240 --> 00:06:33,720
-Pode localizar recifes
-e ilhas e muitas coisas,
+A kód lényegében, amikor elmagyarázod az embereknek,
 
 76
 00:06:34,040 --> 00:06:36,560
-se você souber o código.
+oké, szóval mit értesz kód alatt?
 
 77
 00:06:40,480 --> 00:06:44,560
-Código, essencialmente...
-Quando você explica para as pessoas,
+Nos, a kód szó szerint csak egy nyelv, amiben le kell írnod az
 
 78
 00:06:44,720 --> 00:06:46,560
-"o que você quer dizer por código?"
+ötleteidet, hogy a számítógép képes legyen végrehajtani azokat. 
 
 79
 00:06:46,840 --> 00:06:50,560
-Código é literalmente a linguagem
-na qual você tem que descrever as suas ideias
+És a számítógép sok szempontból nagyon ostoba gép,
 
 80
 00:06:50,720 --> 00:06:53,480
-para que o computador
-seja capaz de executá-las.
+mert mindent nagyon világosan le kell írni neki.
 
 81
 00:06:53,600 --> 00:06:56,440
-E o computador é uma máquina
-bastante estúpida em muitas formas
+Tehát ebben az értelemben ez egy nyelv, vagy tudod,
 
 82
 00:06:56,640 --> 00:07:00,360
-porque ele tem que ter
-tudo descrito muito claramente.
+a logika leírásának egy módja, és aztán,
 
 83
 00:07:00,520 --> 00:07:05,160
-Então, neste sentido é uma linguagem
-ou uma maneira de descrever lógica.
+különböző paramétereket vagy
 
 84
 00:07:05,440 --> 00:07:09,840
-Você inclui diferentes tipos de parâmetros,
-as diferentes lógicas ao longo do código.
+különböző logikákat adsz hozzá.
 
 85
 00:07:10,000 --> 00:07:12,080
-Você pode incluir
-diferentes interfaces etc.
+Különböző interfészek, ilyesmi.
 
 86
 00:07:12,440 --> 00:07:15,320
-Então o código pode se
-tornar bastante vivo mais tarde,
+És néha a kód nagyon-nagyon frusztráló,
 
 87
 00:07:15,520 --> 00:07:18,800
-mas em sua forma básica ele
-consiste de linhas e linhas de texto.
+de van egy bizonyos eleganciája is annak,
+hogy ilyen precíz.
 
 88
 00:07:19,000 --> 00:07:22,360
@@ -386,23 +375,19 @@ E às vezes código é muito frustrante.
 
 90
 00:07:24,960 --> 00:07:28,680
-Mas também existe um certo tipo
-de elegância em ser tão preciso assim.
+Tehát a kód később nagyon is élővé válhat.
 
 91
 00:07:29,720 --> 00:07:31,720
-Quando você escreve
-um programa de computador
+De alapformájában, tudod, olyan, mint egy sornyi szöveg,
 
 92
 00:07:31,800 --> 00:07:34,720
-você está basicamente
-codificando uma ideia
+és egyáltalán nem tűnik túl barátságosnak,
 
 93
 00:07:35,040 --> 00:07:37,840
-em uma notação específica
-que o computador pode executar.
+vagy nagyon humánusnak, vagy nagyon elegánsnak.
 
 94
 00:07:38,080 --> 00:07:42,400
