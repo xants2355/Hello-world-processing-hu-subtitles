@@ -1160,17 +1160,16 @@ aspektusai az elemzésnek
 
 267
 00:19:40,440 --> 00:19:44,160
-Az egyik dolog, amit mutatott nekem,
-egy olyan diagram volt,
+Az egyik dolog, amit mutatott nekem, egy olyan diagram volt, amit hetekig tartott volna
+Processingben megcsinálni...
 
 268
 00:19:44,400 --> 00:19:46,120
-amit hetekig tartott volna
-Processingben megcsinálni...
+elnézést, de kézzel készítve, 
 
 269
 00:19:46,120 --> 00:19:47,960
-elnézést, de kézzel készítve, de amit a Processingben szinte azonnal meg tudta csinálni.
+de amit a Processingben szinte azonnal meg tudta csinálni.
 
 270
 00:19:47,960 --> 00:19:51,400
@@ -1180,21 +1179,21 @@ e ser criativo com elas através da computação,
 271
 00:19:51,680 --> 00:19:54,360
 que você não pode fazer à mão;
-elas funcionam bem juntas.
+elas funcionam bem juntas. 
 
 272
 00:19:55,200 --> 00:19:58,560
-Eu acho que é nossa habilidade
-de revelar alguns padrões
+Ez nem csak az időmegtakarításról szól, hanem arról, hogy vannak bizonyos dolgok,
 
 273
 00:19:58,920 --> 00:20:03,600
-ou dar contexto
-de maneira visual ou visceral
+amiket számítással felfedezhetsz,
+létrehozhatsz és kreatív lehetsz,
 
 274
 00:20:03,840 --> 00:20:06,720
-como ser capaz de ver estrutura.
+és amit kézzel nem tudsz elkészíteni.
+Mindkettő együtt.
 
 275
 00:20:06,880 --> 00:20:10,280
