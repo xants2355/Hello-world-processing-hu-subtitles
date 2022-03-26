@@ -740,22 +740,21 @@ mert abban a struktúrában nincs semmi váratlan.
 
 171
 00:12:12,500 --> 00:12:15,111
-Mas quando as partículas são
-forçadas a interagir umas com as outras,
+De amikor a részecskék kénytelenek
+kölcsönhatásba lépni egymással,
 
 172
 00:12:15,111 --> 00:12:17,520
-o quanto mais partículas você tem
+minél több részecske van,
 
 173
 00:12:17,520 --> 00:12:19,580
-mais possibilidades existem
-para estas interações
+annál több lehetőség van ezekre a kölcsönhatásokra.
 
 174
 00:12:19,580 --> 00:12:24,120
-e você pode chegar a algumas reações
-realmente impressionantes e orgânicas.
+És ezzel igazán lenyűgöző
+és organikus reakciókat hozhatsz létre.
 
 175
 00:12:26,280 --> 00:12:28,480
