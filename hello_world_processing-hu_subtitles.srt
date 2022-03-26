@@ -840,32 +840,29 @@ hogy sok vázlatot készítünk kézzel.
 
 194
 00:13:46,111 --> 00:13:47,880
-como uma maneira bem
-rápida de conseguir ideias
+Először is azért, hogy gyorsan ötleteket gyűjtsünk,
 
 195
 00:13:48,160 --> 00:13:50,920
-e imaginar o que as coisas podem fazer.
+és elképzeljük, hogy mit tudnak a dolgok.
 
 196
 00:13:51,200 --> 00:13:54,920
-Mas então em algum momento você passa
-para esta ideia de esboçar em código,
+De aztán egy bizonyos ponton áttérsz
+a kódban történő vázlatkészítésre, 
 
 197
 00:13:55,400 --> 00:13:58,120
-fazendo pequenas amostras,
-pequenos testes, pequenos protótipos.
+ahol kis mintákat, kis prototípusokat
+készítesz, majd elindítod a programot, 
 
 198
 00:13:58,560 --> 00:14:02,200
-E então você executa o programa
-e vê como ele está funcionando.
+és megnézed, hogyan működik.
 
 199
 00:14:02,840 --> 00:14:05,760
-A partir daí você faz
-mudanças e modificações.
+És onnan változtatsz és módosítasz, és olvasol.
 
 200
 00:14:06,040 --> 00:14:09,600
