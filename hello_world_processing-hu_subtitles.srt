@@ -659,40 +659,40 @@ organikusságuk, héjuk.
 
 153
 00:11:08,888 --> 00:11:11,111
-preencher a mim mesmo e,
-eu espero, outros
+A munkámmal tehát arra teszek kísérletet,
+hogy szimulációkat
 
 154
 00:11:11,111 --> 00:11:15,560
-com um sentimento de admiração e
-curiosidade pelas coisas que nos cercam
+próbáljak létrehozni, hogy csodálattal
+töltsem el magam
 
 155
 00:11:15,560 --> 00:11:18,000
-ao tentar fazer simulações
-que, eu espero,
+és remélhetőleg másokat is 
+a minket körülvevő dolgok iránt.
 
 156
 00:11:18,280 --> 00:11:20,880
-te ajudam a pensar sobre coisas
-deste tipo de uma maneira diferente.
+Ami remélhetőleg segít majd másképp
+gondolkodni az ilyen dolgokról.
 
 157
 00:11:21,000 --> 00:11:23,120
-Movimento de bolhas em microgravidade.
+Buborékmozgás mikrogravitációban.
 
 158
 00:11:24,080 --> 00:11:27,280
-Aqui temos um frasco
-cheio de água e bolhas.
+Itt van egy vízzel és
+buborékokkal teli lombik.
 
 159
 00:11:27,720 --> 00:11:29,840
-Olhe para o movimento das bolhas.
+Megnézzük a buborékok mozgását.
 
 160
 00:11:31,640 --> 00:11:34,160
-Elas tendem a se movimentar em círculo.
+Hajlamosak körbe-körbe mozogni.
 
 161
 00:11:35,960 --> 00:11:38,080

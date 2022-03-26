@@ -1,0 +1,519 @@
+Mire való az idő?
+
+Az idő az, ami megakadályozza, hogy mindent egyszerre adjunk.
+
+Ez hátráltat, vagy inkább ez a hátráltatás.
+
+Ezért kell, hogy legyen kidolgozottság.
+
+Nem lenne akkor a teremtés és a választás eszköze?
+
+Az idő létezése nem igazolhatja-e azt, hogy a dolgok meghatározottságában vannak?
+
+A dolgok
+
+molekulák koreográfiájának a résztvevői mozgásban.
+
+a földben lévő barázdák szerverek 
+
+és adatbázisok,
+
+rajok és hertzek. 
+
+Rendben küldött járművek.
+
+Emberek egy információs láncban.
+
+Felhasználók egy szociális hálózatban.
+
+Óceáni áramlatok.
+
+Madárrajok.
+
+Az élet mozgásban.
+
+Intelligens szinkronizálás.
+
+Kölcsönhatásban egymással. 
+
+Rendrakás. 
+
+Önmaga üldözése.
+
+Önkínzás.
+
+Önismétlés.
+
+Ezek mind folyamatok.
+
+Folyamatok, amelyben minden résztvevőnek megállapodásra van szüksége ahhoz,
+
+hogy az alapok megosztása érdekében működhessenek.
+
+A receptek utasítások.
+
+A szabályok és az alapok nem akadályozzák az alkotás lehetőségét.
+
+A körülöttünk való létük okozza az állandó változást.
+
+A kódok megtalálása lehetővé teszi számunkra, hogy eszközöket építsünk a folyamatokkal való interakcióhoz.
+
+Közelebb kerülhetünk a világ jelenségeihez és szimulálhatjuk őket.
+
+Vizualizálhatjuk a körülöttünk zajló folyamatokban megjelenő adatokat.
+
+Vagy új kreatív folyamatokat hozhatunk létre,
+amelyek élnek és nyitottak,
+
+és mindenki számára újra kisajátíthatóak és kiterjeszthetőek.
+
+A Processing egy nyelv, egy eszközkészlet, egy közösség és egy nyílt forráskódú projekt.
+
+És úgy gondolom, hogy ez egyfajta módja a kreativitásnak és a kódolásnak.
+
+De ez egyben egyfajta modellje is annak, amit én egy ideális online közösségnek gondolok.
+
+Emberek, akik támogatják egymást, és hasonló dolgokat tanulnak, 
+
+és segítenek azoknak, akik még csak most kezdik,
+
+és megosztják egymással az ötleteiket, meg ilyesmi.
+
+Szóval a Processing mindezekből áll.
+
+A Processing egy igazán kiváló eszköz, amely lehetővé teszi,
+
+hogy szinte bárki bármilyen háttérrel elkezdjen kóddal dolgozni,
+
+mint egy kreatív médiummal.
+
+Tehát nagyon könnyű animált vázlatokat vagy rajzokat készíteni
+
+kódban anélkül, hogy feltétlenül sok ismeretünk lenne a Java-ról 
+
+vagy a megfelelő programozásról.
+
+Tehát ez egy digitális vázlatfüzet, egy olyan hely,
+
+ahová le tudod firkantani az ötleteidet kódban.
+
+De akárcsak egy vázlatfüzetben,
+
+ezekből az ötletekből valódi dolgok válhatnak.
+
+A különbség a valódi vázlatfüzetben történő feldolgozás között az az,
+
+hogy a vázlatból valami nagyobb és kidolgozottabb lehet.
+
+Ez olyan, mintha a művészeti vázlatfüzeted, a rajzolós
+
+vázlatfüzeted hirtelen filmmé vagy szoborrá válhatna.
+
+Az egyik nagyszerű dolog a Processing-szel való munkában az az,
+
+hogy ha van egy ötleted, akkor nagyon rövid az út ahhoz,
+
+hogy az ötletből valóság váljon.
+
+Számomra a Processing az ötlet kifejezésének közvetlenségéről szól.
+
+Így számomra ez a leggyorsabb út a kódtól a képernyőn megjelenő pixelekig.
+
+Megfigyelés
+
+Amikor nézzük őket, ahogy fordulnak és keringenek, hányszor gondolkodtunk már el azon,
+
+hogy mi tartja össze őket csapatban a repülésük közben?
+
+És mindezek az emberek félig-meddig nem tudnak egymás létezéséről,
+
+nem néznek és nem is beszélnek.
+
+Az egyik csoport találkozik és átszűrődik a másikon,
+
+alig két egyed érintkezik egymással.
+
+Ilyen állandó az információáramlás,
+és ilyen összetett a kommunikáció hálója,
+amely szétválasztja és összetartja őket.
+
+A tengerparton megtörő hullám a tengeren zajló eseményekről
+szóló információk világát hozza el, a szélről és a viharokról,
+a távolságról és az intenzitásról. Zátonyokat és szigeteket
+és sok mindent meg tud határozni, ha ismered a telet.
+
+A kód lényegében, amikor elmagyarázod az embereknek,
+oké, szóval mit értesz kód alatt?
+Nos, a kód szó szerint csak egy nyelv, amiben le kell írnod az
+ötleteidet, hogy a számítógép képes legyen végrehajtani azokat. És a számítógép sok szempontból nagyon ostoba gép,
+mert mindent nagyon világosan le kell írni neki.
+
+Tehát ebben az értelemben ez egy nyelv, vagy tudod,
+a logika leírásának egy módja, és aztán,
+különböző paramétereket vagy különböző logikákat adsz hozzá.
+Különböző interfészek, ilyesmi.
+
+Tehát a kód később nagyon is élővé válhat.
+De alapformájában, tudod, olyan, mint egy sornyi szöveg,
+és egyáltalán nem tűnik túl barátságosnak,
+vagy nagyon humánusnak, vagy nagyon elegánsnak.
+
+És néha a kód nagyon-nagyon frusztráló,
+de van egy bizonyos eleganciája is annak, hogy ilyen precíz.
+
+Amikor számítógépes programot írsz, akkor alapvetően 
+egy ötletet kódolsz egy speciális jelölésbe, 
+amit a számítógép képes lefuttatni.
+
+Ezeket az ötleteket, amelyeket a szoftverekben gyakran algoritmusoknak nevezünk.
+
+Meg kell írnod egy tömör, lépésről-lépésre leírt utasításlistát, 
+amelyet emészthető kóddá kell fordítanod, és be kell táplálnod a számítógépbe.
+
+A rendszer azt kéri, hogy a billentyű vagy fent vagy lent legyen.
+A kód egy pontot vagy egy perjelet kér.
+Az áram folyik megszűnik folyik folyik.
+Fekete vagy fehér.
+Megáll vagy megy.
+Be vagy ki.
+Megy vagy nem megy.
+Fekete vagy fehér.
+
+Milyen természetű ez a figyelemre méltó megfelelés 
+a matematika és a logika absztrakt szimbólumai és 
+a tárgyak és események valóságos, érzékelhető világa között?
+
+A matematikát az emberiség egyetlen egyetemes nyelvének nevezik.
+De mik ezek a szabályok, és milyen kapcsolat van 
+a számok és az általuk ábrázolt valós dolgok között?
+
+Kicsit újragondoljuk a mai matematika szerepét,
+nem csak a pénzügyi matematikát, hanem általában a matematikát, ami átalakul, és már nem olyasvalami, amit a világból 
+merítünk és származtatunk. Valami,
+ami ténylegesen elkezdi alakítani azt.
+A körülöttünk lévő világot, a bennünk lévő világot, 
+És különösen az algoritmusokat, amelyek alapvetően a számítógépek által használt matematika, hogy döntsenek dolgokról, igaz?
+
+Ilyen dolgokat bárhol találhatsz, bárhová nézel,
+ha megtanulod, hogy hogyan kell keresni őket.
+
+És ezeket úgy kell majd megértenünk, mint a természetet,
+és ez bizonyos értelemben az is.
+
+Oké, aki ismer engem, az tudja, hogy az algoritmusoknak élek.
+Nagyon szeretem ezt a folyamatot, amikor leírjuk a műveleteket
+a számítógépnek, és ... műveletek...
+
+Szóval képzeljük el, hogy ebben a rendszerben létrehozunk egy vonalat.
+A vonal addig fog száradni, amíg el nem éri a képernyő szélét vagy egy másik vonalat.
+Az új vonalak is csak a meglévő filmekre merőlegesen fognak kialakulni.
+Ezek tehát a szabályok. És ha ezt a folyamatot újra és újra megismételjük,
+akkor valami elképesztő dolog történik.
+
+Lehet, hogy megint azon tűnődsz,
+hogy kik ezek az emberek és mit csinálnak?
+
+Szóval azt gondoljuk, hogy a természetetet a folyamatoknak
+ezen univerzális eszközkészlete irányítja.
+Amit mi próbálunk csinálni, az az idegrendszer,
+játszunk ezzel az eszközkészlettel,
+és megnézzük, mit tudunk vele csinálni.
+
+Itt nő ez a lámpa, nézzük ezt a folyamatot,
+és minden lámpa egyedi.
+
+Tehát az egyik dolog, amit próbálunk tenni, hogy a tudomány eszközeit használjuk,
+de olyan módon használjuk őket, ami nem hagyományosan tudományos.
+
+A tudomány megpróbálja megismételni vagy leírni a valóságot, 
+ami a mennyiségi eredményekről szól, nem pedig a minőségi eredményekről.
+
+Nem igazán törődünk azzal, hogy az általunk használt modellek előrejelzéseket készítsenek...
+
+Ön biztosan minőségi szempontokkal dolgozik.
+
+Tehát hogyan tudnak a rendszerek bizonyos struktúrákat
+és más és más struktúrákat generálni a változóból.
+
+Tehát ahelyett, hogy megpróbálnánk valami hasonlót létrehozni
+a valósághoz, olyan dolgokat próbálunk létrehozni, 
+amelyek kifejezetten természetellenesek,
+de van egyfajta természetes organikusságuk, héjuk.
+
+A munkámmal tehát arra teszek kísérletet, hogy szimulációkat
+próbáljak létrehozni, hogy csodálattal töltsem el magam
+és remélhetőleg másokat is a minket körülvevő dolgok iránt.
+Ami remélhetőleg segít majd másképp gondolkodni az ilyen dolgokról.
+
+Buborékmozgás mikrogravitációban.
+Itt van egy vízzel és buborékokkal teli lombik.
+Megnézzük a buborékok mozgását.
+Hajlamosak körbe-körbe mozogni.
+
+Ez egy egyszerű gravitációs kísérlet. Egyszerűen csak egy csomó részecskét helyeztem egy nulla gravitációs térbe, nevezzük így.
+
+És így ezer részecskével minden egyes részecske erőt gyakorol 999 másik részecskére.
+
+A végeredmény kb. egymillió erőszámítás lesz képkockánként.
+
+Jó lenne végre nem megmondani a részecskéknek, hogy mit csináljanak.
+
+Csak azt mondom nekik, hogy reagálniuk kell egymásra, és elkezdenek tenni valamit, ami nagyon váratlanul lesz.
+
+Ha csak Perlin-zajt alkalmazol egy csomó részecskére, nem fogsz semmi váratlant kapni, mert abban a struktúrában nincs semmi váratlan.
+
+De amikor a részecskék kénytelenek kölcsönhatásba lépni egymással, minél több részecske van, annál több lehetőség van ezekre a kölcsönhatásokra.
+
+És ezzel igazán lenyűgöző és organikus reakciókat hozhatsz létre.
+
+Meg kell kérdeznünk Nagle professzort és dr. Hemmingset is.
+
+Bizonyos értelemben a gép csak azt produkálja, amit elvárunk.
+
+Másrészt nem látja előre az összes kombinációt a gép.
+
+Azt is hiszi, hogy ez a kombináció, amit nem látott előre, a tudás benyomását kelti.
+
+De egy beállítás, hogy támadni tudja a problémát végtelen variációk és megbízható memória.
+
+Amikor látjuk őket fordulni és keringeni, hányszor elgondolkodtunk már azon, hogy mi tartja össze ezeket a madarakat repülés közben.
+
+A Processing egyik alapgondolata ez a kóddal való vázolás.
+
+És így valójában a fájlokat, hogy mentse és a feldolgozás úgynevezett vázlatok.
+
+Az ötlet lényege, hogy ahelyett, hogy csak elképzelnél valamit, írhatsz egy kis kódot, amit aztán megtapasztalhatsz.
+
+És aztán onnan fejlesztheted tovább.
+
+Szóval minden, amit én csinálok, és sokan, akik Processing-el dolgoznak, az az, hogy sok vázlatot készítenek kézzel.
+
+Először is azért, hogy gyorsan ötleteket gyűjtsünk, és elképzeljük, hogy mit tudnak a dolgok.
+
+De aztán egy bizonyos ponton áttérsz a kódban történő vázlatkészítésre, ahol kis mintákat, kis teszteket, kis prototípusokat készítesz, majd elindítod a programot, és megnézed, hogyan működik.
+
+És onnan változtatsz és módosítasz, és olvasol.
+
+Ezt nevezik iteratív tervezési megközelítésnek, vagy iteratív módszertannak, ahol fokozatosan megnézzük és kiértékeljük, majd onnan kiindulva változtatunk.
+
+Ez egy igazi kontraszt,
+
+abban  ahogy általában gondolkodunk a számítógépes programok írásáról, ahol ez nagyon módszeres.
+
+Először megoldom az összes problémát a fejemben, aztán leülök, és tudod, elkészítem a kódot, ami ezt teszi, és már csak hibakeresés van hátra.
+
+Azt szeretnénk, ha az emberek kipróbálnának valamit, tudod, egy kis kódot, megnéznék, mi történik, írnának még egy kicsit több kódot, és megnéznék, mi történik, és nem éreznék magukat annyira értékesnek a dolgok miatt, amiket a kóddal csinálnak, és hogy ugyanez a fajta kényelem legyen meg, amikor a vázlatfüzeteddel foglalkozol.
+
+Hajlandónak lenni egy új oldalra lapozni, vagy firkálni valamit, vagy összegyűrni és eldobni, és soha többé nem nézni rá.
+
+Vizualizálás
+
+Ez az az információ, amelynek megfelelő felhasználása új rangot adhat az emberiségnek.
+
+Egy jó kapcsolatban fenntarthatja az egyensúlyt az ember szükségletei és erőforrásai között.
+
+Sok szempontból ezek olyan információs gépek, amelyek hatalmas mennyiségű információ tárolására, feldolgozására és összekapcsolására képesek.
+
+Úgy dolgozzák fel az információt, hogy az emberi léptékben értelmet nyerjen.
+
+Egyre jobban növeltük az információ előállítására, osztályozására, gyűjtésére és archiválására irányuló képességeinket.
+
+És egyre többet és többet generálunk belőle, de az eddigi  hagyományos eszközeinkkel nem tudjuk növelni a megértési és elemzési kapacitásunkat.
+----
+
+A számítás pedig nagyon fontos eszköz az adatok elemzése és megjelenítése szempontjából.
+
+Így van értelme annak, hogy ha a kultúránkban lévő összes rendszerrel való kapcsolatunk sokkal összetettebbé válik, akkor egy új szintaxisra, egy új nyelvre is szükségünk van.
+
+És az adatvizualizáció az eddigi legjobb dolog, ami a jelek szerint a birtokunkban van.
+
+Az adatok egyszerűségére vonatkozó elképzelés, mint például az adatokhoz való könnyű hozzáférés, nagyon új.
+
+És az, hogy az egész világ könnyen hozzáférjen, hogy képes legyen grafikonokat vagy diagramok készítésére, viszonylag új.
+
+Szerintem az Excel forradalmasította ezt. De most más eszközök is megjelentek, ha az ember a bonyolultabb dolgok felé akar elmozdulni.
+
+Ha az emberek adatokat tesznek fel a világhálóra, kormányzati adatokat, tudományos adatokat, közösségi adatokat, bármilyen adatokat, akkor azt más emberek olyan csodálatos dolgokra fogják használni, amit eddig nem is tudtunk volna elképzelni.
+
+Világszerte a szabad hozzáférésű adat mozgalom van kibontakozóban, és a nyers adatokat az egész világon használhatják.
+
+Harold 12 éven át minden hétköznap 76-szor mosta meg mind a 32 fogát.
+
+38-szor oda-vissza. 38-szor fel és le.
+
+Az egyik kedvenc művészem Nicholas Felton, aki ezeket az éves jelentéseknek nevezett kiadványokat készíti.
+
+Nem tudom, ismeritek-e, de ő alapvetően az életéről készíti ezeket az éves jelentéseket.
+
+Minden egyes részletét aprólékosan nyomon követi.
+
+Hány sört ivott, milyen utcákon járt. És kézzel tervezi ezeket a gyönyörű füzeteket.
+
+Évente egyszer, minden év januárjában kiadja ezt a Felton-jelentést, azt hiszem, így hívják őket.
+
+És nemrég kezdte el használni - most nemrég találkoztam vele New Yorkban és most kezdte el használni a Processinget.
+
+Mert vannak bizonyos dolgok, tudod..., Neki ez a munkája, azt hiszem, a munkája tényleg az aprólékos részletekről szól, és biztos vagyok benne, hogy imádja ezeket az apró dolgokat az Illustratorban finomítani és tökéletessé tenni.
+
+És ezt meg is tudja benne csinálni, de vannak bizonyos aspektusai az elemzésnek és az adatok ábrázolásának. Az egyik dolog, amit mutatott nekem, egy olyan diagram volt, amit hetekig tartott volna Processingben megcsinálni....
+
+Elnézést, de kézzel készítve, de amit a Processingben szinte azonnal meg tudta csinálni.
+
+Ez nem csak az időmegtakarításról szól, hanem arról, hogy vannak bizonyos dolgok, amiket számítással felfedezhetsz, létrehozhatsz és kreatív lehetsz, és amit kézzel nem tudsz elkészíteni.
+
+Mindkettő együtt.
+
+Úgy értem, azt hiszem, ez tényleg a képességünk, hogy felfedjünk bizonyos mintákat vagy kontextust adjunk, például vizuális vagy elemi módon, hogy képesek legyünk látni a struktúrát.
+
+Azt hiszem, tudod, a legsikeresebb adatvizualizációink azok, amelyek lehetővé teszik, hogy felfedezzünk valamilyen kapcsolatot, struktúrát vagy mintát, amit nagyon nehéz lenne szavakkal leírni, azt elég egy fényképen kimondani.
+
+Lássuk, hogyan működnek. Először is, bevitel. Azután a feldolgozás.
+
+Ez itt a milliárd dolláros o-gramm, és ez a kép a sajtóban megjelenő milliárd dolláros összegekről szóló jelentésekkel kapcsolatos frusztrációm miatt keletkezett.
+
+És hogy kontextus nélkül értelmetlenek.
+
+500 milliárd erre a gázvezetékre, 20 milliárd erre a háborúra, ennek így semmi értelme.
+
+Tehát csak vizuálisan és viszonylagosan lehet megérteni.
+
+Tehát én különböző hírügynökségektől  töltöttem be a számokat , majd a dobozokat összegezve, skálázottan mutatom.
+
+A színek pedig itt a pénz mögötti motivációt jelképezik.
+
+Tehát a lila a harc, a piros a pénzosztás, a zöld pedig a haszonszerzés.
+
+És amit rögtön láthatunk, hogy elkezdjük a különböző összefüggéseinket a számokat.
+
+Szó szerint láthatjátok őket.
+
+Az emberi látás hatótávolságának kiterjesztésére az ember csodálatos érzékenységű műszereket fejlesztett ki.
+
+A számológép, mint a tervezés eredménye, a kreatív ember számára egy magasabb platformot biztosít, amelyen állhat, és amelyről dolgozhat.
+
+Az eszközeink, ezek az eszközök, amelyekről beszéltünk, lehetővé teszik számunkra, hogy sokkal belátóbb, erőteljesebb, szélesebb körű vizualizációt készítsünk, egyszerűen azáltal, hogy a felhasználónak lehetővé tesszük a felfedezést.
+
+Minél többet dolgozom ezen a területen, annál inkább azt tapasztalom, hogy valójában sokkal kevésbé arról van szó, hogy hogyan mutatjuk be az információt.
+
+Hanem arról, hogy hogyan navigálsz az információban és hogyan lépsz kapcsolatba vele.
+
+Az adat-vizualizációra használt paradigmák nagy része még mindig nyomtatás felől érkező paradigmák, ahol van egy statikus oldalunk amiben elkészítjük a vizualizációt, és aztán befejeztük.
+
+Az adat-vizualizáció az adatok különböző szögekből való szemléléséről szól, és ez lehetővé teszi az emberek számára, hogy az adatokat olyan módon nézzék, ahogyan korábban nem tudták.
+
+Menjünk át ezen a nagy eseményhalmazon, és fűzzük össze őket, majd nézzük meg ezeket a kapcsolatokat, és talán találunk némi betekintést abba, hogy az emberek hogyan osztják meg az időt, fegyvereket, és hogy hogyan osztják meg a tartalmat általában.
+
+A számok világában az ember már régóta fejleszt eszközöket, amelyek segítségével egyre nagyobb mennyiségű adatot tud kezelni.
+
+Most megjelent valami, ami talán még a legelegánsabb elméleteinket is működésre bírja .
+
+Egy olyan eszköz, amely kiszélesítette az ember fogalmainak és intuíciójának skáláját, hasonlóan más eszközökhöz.
+
+Az ember a számítógéppel olyan mint minden egy ember az eszközzel, a koncepciónak és az iránynak az embertől kell származnia.
+
+A kitűzött feladat és az adatok megadása az ember döntése, felelőssége kell, hogy legyen.
+
+A Processing egyik legfontosabb előnye, hogy igazán könnyen megtaníthatóvá teszi a programozást azoknak az embereknek, akiket elsősorban a művészeti vagy vizuális tervezés érdekel.
+
+A Processing sokkal egyszerűbbé teszi az olyanprogramok írását amik a képernyőre jelenítenek meg.
+
+A Processing tanulása általában egy vonal rajzolásával kirajzolásával keződik  a képernyőn.
+
+Ez volt az első lépés, húzz egy vonalat A pontból B pontba, és így rögtön megvan, tudod, így egy egyszerű, de nagyszerű műalkotás az, amit készítettél.
+
+A számítógép programozását rajzolással tanulod. A programozást képek beolvasásával tanulod és azokkal teszel ezt meg azt. Úgy tanulsz programozni, hogy animációkat és interakciókat, vizuális élményeket készítesz.
+
+Tehát ez egy módja annak, hogy alapvetően azt, ami szerintünk igazán izgalmas és izgalmas a szoftverekben, a vizuális művészetekbe hozzuk, olyan szinten, ahol a vizuálisan motivált és koncentrált emberek kísérleteket végezhetnek el, és játszhatnak a kóddal, mint az ötletek megvalósításának új módjával.
+
+Bármelyik különösen vizuálisan gondolkodó ember, tudod, tervezők vagy művészek, vagy olyan emberek, akik hozzászoktak ahhoz, hogy képekben, struktúrában, formában vagy esztétikában gondolkodjanak.
+
+Ők most már tudnak dolgozni a Processinggel, és a Processing már eleve az ilyen jellegű munkára lett kihegyezve, és ez inkább az ő kreatív tevékenységük támogatásáról szól, mint arról, hogy tökéletes kódot kapjanak, ha úgy tetszik.
+
+Tehát az összes programozási nyelvhez képest a Processing sokkal közvetlenebbül van felkészítve olyan emberek számára, akik talán nem a legjobb technikusok, de akiknek jó kreatív ötleteik vannak.
+
+Létrehozás
+
+Visszatérve a számítógépek használatára vonatkozó általánosabb megjegyzésekhez, először is a számítógépeket helyzetek és a tervezés szimulálására használjuk. Olyan helyzetekére, amelyeket korábban kézzel csináltunk. A számítógépek lehetővé tették számunkra, hogy sokkal nagyobb és összetettebb problémákat oldjunk meg. De ez figyelmen kívül hagyta a nagyságrendi hatást, amit említettünk
+
+Most kezdjük használni a gépeket teljesen új módon teljesen más problémákhoz. Ez az izgalmas rész. Ez az a szellemi aspektus, hogy a gépeket teljesen új ötletekre alkalmazzuk, ami sokakat annyira izgatott ezen a szakterületen.
+
+Itt egy relét gerjesztettem, és ez, ez az erősítők mezője, amely a rendszer szervomotorjait hajtja.
+
+A számítógép, amely létrehozta a Csillagkapu folyosót a 2001-es filmben, ez az ember a szemüveg mögött fejlesztette ki, John Whitney. A három fia és a testvére, James, mindannyian használták a gépeket, hogy számítógépes filmeket készítsenek.
+
+Whitneyéket nem gátolta a számítógépes óriáscégek rémképe.
+
+Aligha nevezhetőek számítógépeknek, mert ezek, ezek valójában specializált problémamegoldók. Olyan számítógépek voltak, amelyeket csak egyfajta egyenlet kiszámítására terveztek.
+
+És amit az elmúlt nagyjából egy évtizedben csináltam, az az, hogy a legegyszerűbb mechanizmusokat terveztem, amiket csak el tudok képzelni. Nagyon egyszerű, primitív gépeket, és a kapcsolatok felhasználásával ezek a gépek, amikor egy alapvető környezetben kölcsönhatásba lépnek egymással, képesek olyan dolgokat létrehozni, amelyek sokkal összetettebbek, mint az alapvető részeik.
+
+Ez az 1. elem. Ez az 1. viselkedés, a 2. viselkedés, a 3. viselkedés, a 4. viselkedés. Ez az 1. elem. Az elem egy egyszerű gép, amely egy formából és egy vagy több viselkedésből áll.
+
+Ez az ábra az 1-es elemet mutatja működés közben. A viselkedés könnyen látható, ha jelölést adunk hozzá. Ezek a nyilak azt mutatják, hogy az 1. viselkedés egyenes vonalban mozog. 
+
+Ezek a nyilak a 2. viselkedés irányváltoztatását mutatják, miközben egy másikhoz érnek. Ezek az irányok mutatják a 3. viselkedés távolodik az átfedő elemtől.
+
+Egy folyamat meghatározza az elemek környezetét, és meghatározza, hogy az elemek közötti kapcsolatokat hogyan látjuk.
+
+A 4. folyamat kitölti a felületet az 1. elemmel, és vonalat húz az elemek közé, miközben azok átfedik egymást.
+
+A számítógépek ugyanúgy hatnak a művészetekre, mint életünk minden más területére. A jövőben a művészeknek új matematikai, műszaki, mérnöki és programozási ismereteket kell majd elsajátítaniuk, hogy gyakorolhassák mesterségüket.
+
+Amikor egy bizonyos típusú formát vagy képet akarsz létrehozni a számítógépen, képesnek kell lenned leírni az összes lépést, amely a kép elkészítéséhez szükséges. Ehhez pedig egy úgynevezett algoritmust kell létrehozni.
+
+Az algoritmus pedig olyan, mint egy recept, tudod, mint amikor egy konkrét vacsorát készítesz, szükséged van a receptre és a sorrendre, amelyben a dolgokat megfőzöd, stb.
+
+Ugyanez a helyzet a számítógéppel is. Azt kell mondanod, hogy oké, ez a forma úgy jön létre, hogy van egy részecske, amely mozog, és a részecskét forgatással irányítjuk, és néha talán szétválik, és két részecskévé alakul.
+
+Ez tehát egy algoritmus. Ez tulajdonképpen a rendszer teljes viselkedését írja le. Tehát az algoritmus valójában egy nagyon is a kreatív ötlet.
+
+Amikor egy rendszert egy szoftverben definiálsz, az egy határtalan mező, amelyet felfedezhetsz, és a különböző paraméterek megváltoztatásával, a rendszer különböző részeinek értékét megváltoztatva a rendszer különböző részeire léphetsz ebben a végtelen tájban.
+
+Ez egészen egyértelműen az algoritmusok manipulálásáról és a paraméterek kiválasztásáról szól, és arról, hogy hogyan lehet a rendszerből a szépséget kihámozni, amikor tudjuk, hogy a nyers adatok önmagukban nem túl sokatmondóak.
+
+Tehát a számítógépes kreativitásban ott van a lehetőség, hogy olyan folyamatok legyenek, amelyek nagyon is nem emberi jellegűek, és azt hiszem, gyakran látjuk, hogy erőszakosan találtunk egyfajta középutat, amely a nem emberi, tudod, a számítógépes furcsa, emergens folyamatokat, stb. összeköti a világról való gondolkodás emberi módjával, és valahol ott van egy nagyon gyümölcsöző terület.
+
+Szeretnék még egy anekdotát elmesélni arról a február 65-i Diogenész-kiállításról. A vezető képzőművész, Heinz Trückes festőművész felemelte a kezét, és azt mondta, fiatalember, Georg Nishez szólva, ó, mondta, nagyon jól mondta, amit elmondott nekünk. De tudod mit?
+
+Meg tudná-e csinálni, hogy a gépe úgy rajzoljon, ahogy én rajzolok? Ez az a szép, csodálatos pillanat. És én azt mondtam, tudja mit... ha megmondja, hogy maga hogyan rajzol, akkor én is rá tudom venni a gépemet, hogy ugyan úgy megrajzolja.
+
+Szóval, ami szép ebben az anekdotában dióhéjban, az az, hogy mindkettőnknek igaza volt. Trückes persze azzal a feltételezésével, hogy a válasz egy nem lehet. Mert hogyan tudna egy gép úgy rajzolni, mint ő? De Georg Nisnek is igaza volt, ő azt mondta, hogy ha te meg tudod mondani, hogy te hogyan rajzolsz, akkor én is el tudom érni, hogy a gépem úgy rajzoljon. Mert persze, ha művészként rajzolsz, akkor nem tudod megmondani, hogyan csinálod. Te csak csinálod, és megtörténik. Tehát ott volt abban a pillanatban, amikor az algoritmikus művészet elkezdődött, egy kis történet, ami világosan mutatja a különbséget, hogy aztán a következő néhány évben minden, ami az algoritmikus művészettel kapcsolatos, az megtörtént.
+
+Szóval, amit én csinálok, ez a munka, amit én próbálok csinálni, az nagyrészt az, hogy létrehozom ezeket a nagyon kétértelmű környezeteket, ahol nem, nem szándékozunk semmit sem ábrázolni. Nincs mögöttük semmilyen narratíva. De ezek olyan terek, amelyek kérdéseket és kíváncsiságot ébresztenek. A szándék az, hogy párbeszédet folytassunk arról, hogy vajon mi is ez és hogy hogyan működik.
+
+A digitális adatok érzéki tulajdonsága az, hogy plasztikusak, képesek arra, hogy igény szerint állandóan változó állapotot vegyenek fel, és képesek más médiumok univerzális reprezentációjára, ha úgy akarjuk.
+
+Az ember-gép kombinációk egy választóvonalon találják majd magukat, amely az emberről a gépre száll át, és egyre nagyobb terhet vesz át, ahogy megtanuljuk, hogy hogyan is kell használni a gépeket. Ahogy a gépek egyre erősebbek lesznek, és mi megtaláljuk magunkat egy probléma megoldásában.
+----
+
+Ne nézzük Vincent formáit. Vagy az általunk tervezett tárgyakat. Vagy akár a szerszámok is tárgyak. Már nem úgy tekintünk rájuk, mint az esztétikai tárgyakra, amelyeket egyszerűen csak használunk. De ha egyszer megértjük ezeket a folyamatokat, akkor elkezdünk érdeklődni, hogy mik a mögöttes folyamatok és hogy mi az a tervezési potenciál, amellyel manipulálni lehet, és ez után aztán valóban olyan új megoldásokat létrehozni, amelyek előzetesen nem is voltak lehetségesek.
+
+James Surowieczki a tömegek bölcsességéről beszél, amely szerint a sok ember okosabb, mint egy egyén. Szeretnénk megnézni, hogy ez hogyan alkalmazható a kollaboratív, elosztott zenei alkotásra, ahol senkinek sincs fogalma arról, hogy min dolgoznik. A Daisy bell' című dal, amely a világ első számítógépes dala volt. Ezért újraszintetizáltuk ezt a dalt. Valahogy így hangzott, lebontottuk az egyes hangokat és az éneklést, valamint az énekben lévő fonémákat.
+
+Fogtuk ezeket az egyes darabokat, és betápláltuk őket egy másik lekérdezésbe. Így nézne ki, ha elmennétek az oldalra. Beírja a kódját, először teszteli, és egy egyszerű hang-klipet kap. Aztán ezt megpróbálod a lehető legjobban rekonstruálni a saját hangoddal.
+
+A közösség az egész projekt alapja, és amikor a szoftvert fejlesztettük és terveztük, mindig a közösség oktatásával  összefonódva tettük. Szóval nagyon korán kezdtük, alapvetően alapvető közösségi média eszközöket használtunk, például akkoriban létrehoztunk egy hirdetőtáblát, egy e-mail listát és minden ilyesmit. De ahogy fejlesztettük a szoftvert, az új verziókat megjelentettük, ezekre visszajelzéseket kaptunk, és ezeket visszaépítettük a szoftverbe.
+
+Úgy gondolom, hogy a legjobb módja annak, hogy elkezdjük, az az, ahogyan maga a projekt is elkezdődött. Szóval keress valakit, aki workshopot vagy oktatást tart, aki hajlandó segíteni neked az első lépésekben, és megadja neked azt a bizalmat, hogy, te azt tudod. Ilyen a kódolás, így néz ki a tervezés és a kódolás, ha egyszerre, együtt végzik őket.
+
+A kezdet kezdetén az egyik legfontosabb dolog a Processinggel kapcsolatban az volt, hogy az emberek képesek legyenek arra, hogy amit elkészítettek, azt feltehessék az internetre, hogy mások is láthassák.
+
+Számomra nagyon hasznos volt a programozóként való fejlődésemben, hogy megnézhettem mások forráskódját.
+
+Nem kell újra feltalálnod a kereket. Foghatod azt, és mondhatod, hogy oké, nos, ez hasznos nekem, de most másképp akarom nézni, és más kódot akarok köré tenni.
+
+És az ötlet, hogy valamit el tudsz készíteni a Processingben, és úgy exportálhatod, hogy azonnal fel tudod tenni a webre, és a forráskódok is benne vannak, nagyon fontos volt a projekt számára.
+
+Úgy értem, több százezer ember használja a Processinget. Tehát ha ez a közösség nagyon nagy. Ha azokról az emberekről beszélünk, akik aktívan használják a Processinget, és viselnék a pólót, akkor talán, talán néhány ezerre tehető a számuk.
+
+Később a közösség bizonyos értelemben a projekt fő részévé vált a könyvtárak rendszerén keresztül, amit beépítettünk, így a Processing a terv szerint egy eléggé minimális keretrendszernek készült, és aztán úgy építettük tovább, hogy az emberek bővíthessék a szoftvert a könyvtárak megírásával.
+
+Amikor kitalálok valamit, amiről rájövök, hogy a legtöbb ember nem tudja, hogyan kell csinálni, vagy valaki még nem csinálta meg, akkor azt elérhetővé teszem mások számára. Így például a MakerBot-projekt esetében mindkét általam készített modellt teljesen nyílt forráskódúvá tettem, amit művészként természetesen nem tennék meg. Nem csak a művedet teszed ki a világ elé, hogy bárki elkészíthesse, hanem a kódot is, ami sokkal fontosabb, mert a kód tulajdonképpen az az eszköz, amivel létrehozod a dolgot.
+
+Azt hiszem, az az elképzelés, hogy a Processing csak arra való, hogy grafikát készítsen a képernyőn, az évek során sokat fejlődött, és a prototípusok készítésén, majd a gyártáson keresztül a felhasználása nagyon sok különböző területre kiterjedt. Ennek a munkának a középpontjában a könyvtárak állnak. Tehát a Processing mostanra több mint 100 könyvtárral rendelkezik, és ez az, ahogyan a projekt dinamikus marad és nagyon gyorsan fejlődik. A stratégiánk az, hogy a Processing alapjában lévő kódmagot nagyon minimálisan és visszafogottan tartsuk, és aztán ezt a rendszert úgy alakítsuk ki, hogy mások is hozzájárulhassanak a projektekhez.
+
+Nem tudnám azt csinálni, amit csinálok a nyílt forráskód nélkül, mert nagyon hiszek ebben, mert mi mindannyian óriások vállán állunk, és nagyon fontosnak tartom, hogy visszaadjunk valamit abból, amit elveszünk.
+
+Az univerzum élvezi, minél jobban tanulmányozzuk az idő természetét, annál jobban megértjük, hogy a generálás a feltalálást jelenti, a formák létrehozását, a teljesen új folyamatos kidolgozását. Például ez a dokumentumfilm sok talált dokumentumfilmből áll, ezek a dokumentumfilmek viszont korábbi fejlesztések eredményei. Nyitott dokumentumok, amelyek más folyamatokat indíthatnak el. A különböző dokumentumok összerakásának folyamata váratlan eredményeket okoz. Az összes folyamat az univerzum része, és működésükhöz ágensekre, kódokra és időre van szükségük. A kódok manipulálása lehetővé teszi a folyamatok közelebbi megközelítését. Lehetővé teszi, hogy az adatokat távolabbról és perspektivából nézzük, vagy új és eddig nem hallott folyamatokat hozzunk létre. Ehhez, az ilyen jellegű eszközök létrehozásához van szükség a nyelvek visszafelé történő feldolgozására.
+
+De végül is a jövő, kivéve a trendeket és a valószínűségeket, a nagy ismeretlen. És az általunk történő használata és a viszony a saját, általunk kifejlesztett csodálatos gépekkel, talán az a mi rövid időnk központi erkölcsi és intellektuális kihívása.
