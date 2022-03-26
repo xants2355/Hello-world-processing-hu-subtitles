@@ -1039,32 +1039,29 @@ diagramok készítésére, viszonylag új.
 
 239
 00:17:42,600 --> 00:17:45,280
-Acho que o (Microsoft) Excel
-realmente revolucionou nisso.
+Szerintem az Excel forradalmasította ezt.
 
 240
 00:17:45,440 --> 00:17:49,222
-Mas agora há outras ferramentas,
-se você quiser algo mais sofisticado.
+De most már más eszközök is megjelentek,
+ha az ember a bonyolultabb dolgok felé akar elmozdulni.
 
 241
 00:17:49,400 --> 00:17:51,820
-Se as pessoas colocam dados na web,
+Ha az emberek adatokat tesznek fel a világhálóra,
 
 242
 00:17:51,820 --> 00:17:55,680
-- dados governamentais, científicos,
-comunitários, seja o que for -
+kormányzati adatokat, tudományos adatokat, közösségi adatokat, bármilyen adatot,
 
 243
 00:17:55,680 --> 00:17:58,560
-esses dados serão usados por outras
-pessoas para fazer coisas maravilhosas,
+akkor azt más emberek olyan csodálatos
+dolgokra fogják használni,
 
 244
 00:17:58,560 --> 00:18:01,400
-de maneiras que elas
-nunca teriam imaginado.
+amit eddig el sem tudtunk volna elképzelni.
 
 245
 00:18:01,400 --> 00:18:08,200
