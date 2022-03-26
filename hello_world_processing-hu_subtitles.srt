@@ -945,51 +945,48 @@ az ember szükségletei
 
 217
 00:15:21,480 --> 00:15:24,600
-Em vários aspectos essas são
-máquinas de informação,
+Sok szempontból ezek olyan információs gépek, amelyek hatalmas
 
 218
 00:15:25,800 --> 00:15:31,200
-capazes de armazenar, processar e
-relacionar uma vasta quantidade de informação.
+mennyiségű információ tárolására,
+feldolgozására és összekapcsolására képesek.
 
 219
 00:15:33,280 --> 00:15:36,200
-Elas processam informação
+Úgy dolgozzák fel az információt,
 
 220
 00:15:36,200 --> 00:15:39,320
-de maneira que ela faça sentido
-na escala humana.
+hogy az az emberi léptékben értelmet nyerjen.
 
 221
 00:15:40,880 --> 00:15:43,200
-Temos aumentado cada vez mais
+Egyre jobban növeltük az információ előállítására,
 
 222
 00:15:43,200 --> 00:15:49,120
-nossa capacidade de produzir informação,
+osztályozására, 
 
 223
 00:15:49,280 --> 00:15:53,720
-classificá-la, coletá-la, arquivá-la,
+gyűjtésére és archiválására irányuló képességeinket.
 
 224
 00:15:53,920 --> 00:15:57,080
-e estamos gerando mais e mais dela.
+És egyre többet és többet generálunk belőle,
 
 225
 00:15:57,440 --> 00:16:02,000
-Mas não podemos aumentar,
-com nossas ferramentas tradicionais,
+de az eddigi  hagyományos eszközeinkkel 
 
 226
 00:16:02,000 --> 00:16:03,600
-as mesmas ferramentes de sempre,
+nem tudjuk növelni
 
 227
 00:16:03,600 --> 00:16:05,800
-nossa capacidade de compreensão e análise.
+a megértési és elemzési kapacitásunkat. 
 
 228
 00:16:24,320 --> 00:16:27,040
