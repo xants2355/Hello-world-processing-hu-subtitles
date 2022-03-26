@@ -962,40 +962,44 @@ hogy az az emberi léptékben értelmet nyerjen.
 
 221
 00:15:40,880 --> 00:15:43,200
-Egyre jobban növeltük az információ előállítására,
+Egyre jobban növeltük az információ előállítására, osztályozására, gyűjtésére és archiválására irányuló képességeinket.
 
 222
 00:15:43,200 --> 00:15:49,120
-osztályozására, 
+És egyre többet és többet generálunk belőle,
+de az eddigi  hagyományos eszközeinkkel
 
 223
 00:15:49,280 --> 00:15:53,720
-gyűjtésére és archiválására irányuló képességeinket.
+nem tudjuk növelni 
+a megértési és elemzési kapacitásunkat. 
 
 224
 00:15:53,920 --> 00:15:57,080
-És egyre többet és többet generálunk belőle,
+A számítás pedig nagyon fontos eszköz az adatok elemzése és megjelenítése szempontjából.
 
 225
 00:15:57,440 --> 00:16:02,000
-de az eddigi  hagyományos eszközeinkkel 
+Így van értelme annak, hogy ha a kultúránkban lévő összes
 
 226
 00:16:02,000 --> 00:16:03,600
-nem tudjuk növelni
+rendszerrel való kapcsolatunk sokkal összetettebbé válik, 
+akkor egy új szintaxisra, egy új nyelvre is szükségünk van.
 
 227
 00:16:03,600 --> 00:16:05,800
-a megértési és elemzési kapacitásunkat. 
+És az adatvizualizáció az eddigi legjobb dolog,
+ami a jelek szerint a birtokunkban van.
 
 228
 00:16:24,320 --> 00:16:27,040
-E a computação é uma
-ferramenta muito importante
+Az adatok egyszerűségére vonatkozó elképzelés,
 
 229
 00:16:27,320 --> 00:16:31,000
-na análise e exibição de dados.
+mint például az adatokhoz való
+könnyű hozzáférés, nagyon új.
 
 230
 00:16:31,440 --> 00:16:35,120
