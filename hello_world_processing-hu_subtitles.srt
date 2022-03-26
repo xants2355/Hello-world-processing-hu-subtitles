@@ -112,7 +112,6 @@ Ezek mind folyamatok. Folyamatok, amelyben minden résztvevőnek megállapodásr
 00:02:16,800 --> 00:02:21,040
 A receptek utasítások.
 
-
 29
 00:02:32,600 --> 00:02:35,920
 A szabályok és az alapok nem akadályozzák
@@ -174,7 +173,6 @@ De ez egyben egyfajta modellje is annak, amit én egy ideális online közössé
 42
 00:03:51,720 --> 00:03:54,200
 Szóval a Processing mindezekből áll.
-
 
 43
 00:03:59,840 --> 00:04:02,640
@@ -328,7 +326,6 @@ A kód lényegében, amikor elmagyarázod az embereknek,
 oké, szóval mit értesz kód alatt? 
 Nos, a kód szó szerint csak egy nyelv,
 
-
 79
 00:06:46,840 --> 00:06:50,560
 amiben le kell írnod az ötleteidet, 
@@ -361,52 +358,51 @@ különböző logikákat adsz hozzá.
 86
 00:07:12,440 --> 00:07:15,320
 Különböző interfészeket, ilyesmi.
-És néha a kód nagyon-nagyon frusztráló,
+Tehát a kód később nagyon is élővé válhat.
 
 87
 00:07:15,520 --> 00:07:18,800
-de van egy bizonyos eleganciája is annak,
-hogy ilyen precíz.
+De alapformájában, tudod, olyan,
+mint egy sornyi szöveg,
 
 88
 00:07:19,000 --> 00:07:22,360
-Ele não parece muito amigável, ou
-muito humano, ou nem mesmo muito elegante.
+és egyáltalán nem tűnik túl barátságosnak, vagy nagyon humánusnak, vagy nagyon elegánsnak.
 
 89
 00:07:22,600 --> 00:07:24,800
-E às vezes código é muito frustrante.
+És néha a kód nagyon-nagyon frusztráló,
 
 90
 00:07:24,960 --> 00:07:28,680
-Tehát a kód később nagyon is élővé válhat.
+de van egy bizonyos eleganciája is annak,
+hogy ilyen precíz.
 
 91
 00:07:29,720 --> 00:07:31,720
-De alapformájában, tudod, olyan, mint egy sornyi szöveg,
+Amikor számítógépes programot írsz, akkor alapvetően
 
 92
 00:07:31,800 --> 00:07:34,720
-és egyáltalán nem tűnik túl barátságosnak,
+egy ötletet kódolsz egy speciális jelölésbe,
 
 93
 00:07:35,040 --> 00:07:37,840
-vagy nagyon humánusnak, vagy nagyon elegánsnak.
+amit a számítógép képes lefuttatni.
 
 94
 00:07:38,080 --> 00:07:42,400
-E estas ideias, que muitas vezes
-em software chamamos de algoritmos...
+Ezeket az ötleteket, amelyeket a szoftverekben gyakran algoritmusoknak nevezünk.
 
 95
 00:07:42,880 --> 00:07:47,240
-Você precisa escrever uma lista
-concisa de instruções passo-a-passo,
+Meg kell írnod egy tömör,
+lépésről-lépésre leírt utasításlistát,
 
 96
 00:07:47,640 --> 00:07:53,400
-traduzir ela em um código
-digestível e alimentá-la para o computador.
+amelyet emészthető kóddá kell fordítanod,
+és be kell táplálnod a számítógépbe.
 
 97
 00:07:54,360 --> 00:07:58,080
