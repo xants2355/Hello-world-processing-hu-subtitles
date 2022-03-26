@@ -406,56 +406,54 @@ amelyet emészthető kóddá kell fordítanod,
 
 97
 00:07:54,360 --> 00:07:58,080
-O sistema pede que a tecla
-esteja ou para cima ou para baixo.
+A rendszer azt kéri, hogy a billentyű fent vagy lent legyen.
 
 98
 00:07:58,360 --> 00:08:01,200
-O código pede por um ponto ou um traço.
+A kód egy pontot vagy egy perjelet kér.
 
 99
 00:08:02,000 --> 00:08:06,120
-A corrente flui,
-ela para de fluir, ela flui.
+Az áram folyik, megszűnik, folyik, folyik.
 
 100
 00:08:06,800 --> 00:08:09,080
-É preto ou branco.
+Fekete vagy fehér.
 
 101
 00:08:09,320 --> 00:08:12,120
-É parar ou ir.
+Megáll vagy megy.
 
 102
 00:08:12,480 --> 00:08:13,920
-Ligado ou desligado.
+Be vagy ki.
 
 103
 00:08:14,360 --> 00:08:16,040
-Um ou nenhum.
+Egy vagy semmi.
 
 104
 00:08:16,520 --> 00:08:18,520
-Siga adiante ou não siga adiante.
+Megy vagy nem megy.
 
 105
 00:08:18,760 --> 00:08:21,200
-Ou preto ou branco.
+Fekete vagy fehér.
 
 106
 00:08:22,760 --> 00:08:25,360
-Qual é a natureza desta
-notável correspondência
+Milyen természetű ez 
+a figyelemre méltó megfelelés 
 
 107
 00:08:25,520 --> 00:08:27,960
-entre os símbolos abstratos
-da matemática e da lógica
+a matematika és a logika
+absztrakt szimbólumai és
 
 108
 00:08:28,280 --> 00:08:32,000
-e o mundo real perceptível
-dos objetos e eventos?
+a tárgyak és események valóságos,
+érzékelhető világa között?
 
 109
 00:08:32,600 --> 00:08:37,040
