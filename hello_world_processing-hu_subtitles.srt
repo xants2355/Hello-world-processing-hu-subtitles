@@ -1030,12 +1030,12 @@ könnyű hozzáférés, nagyon új.
 
 237
 00:17:36,680 --> 00:17:39,000
-E a facilidade de acesso ao mundo inteiro,
+És az, hogy az egész világ könnyen hozzáférjen,
 
 238
 00:17:39,000 --> 00:17:42,400
-ser capaz de fazer mapas
-ou gráficos é relativamente nova.
+hogy képes legyen grafikonokat vagy
+diagramok készítésére, viszonylag új.
 
 239
 00:17:42,600 --> 00:17:45,280
