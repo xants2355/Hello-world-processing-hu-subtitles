@@ -414,7 +414,7 @@ A kód egy pontot vagy egy perjelet kér.
 
 99
 00:08:02,000 --> 00:08:06,120
-Az áram folyik, megszűnik, folyik, folyik.
+Az áram folyik, megszűnik, folyik.
 
 100
 00:08:06,800 --> 00:08:09,080
@@ -457,60 +457,62 @@ a tárgyak és események valóságos,
 
 109
 00:08:32,600 --> 00:08:37,040
-A matemática tem sido chamada
-de linguagem universal única da humanidade.
+A matematikát az emberiség egyetlen 
+egyetemes nyelvének nevezik.
 
 110
 00:08:37,320 --> 00:08:40,880
-Mas quais são estas regras
-e qual é o relacionamento
+De mik ezek a szabályok,
+és milyen kapcsolat van 
 
 111
 00:08:41,040 --> 00:08:44,080
-entre números e as coisas reais
-que a princípio eles representam?
+a számok és az általuk ábrázolt
+valós dolgok között?
 
 112
 00:08:44,600 --> 00:08:48,320
-Nós repensamos um pouco sobre
-o papel da matemática contemporânea,
+Kicsit újragondoljuk a mai
+matematika szerepét,
 
 113
 00:08:49,160 --> 00:08:51,720
-- não apenas matemática
-financeira, mas em geral -
+nem csak a pénzügyi matematikát, 
+hanem általában a matematikát, 
 
 114
 00:08:51,920 --> 00:08:56,520
-que ela está fazendo a transição
-de algo que nós extraímos e derivamos do mundo
+ami átalakul, és már nem olyasvalami, 
+amit a világból 
 
 115
 00:08:56,800 --> 00:09:01,120
-para algo que efetivamente começa
-a lhe dar forma. O mundo ao nosso redor
+merítünk és származtatunk. Valami, 
+ami ténylegesen elkezdi alakítani azt.
 
 116
 00:09:01,240 --> 00:09:03,520
-e o mundo dentro de nós.
+A körülöttünk lévő világot, 
+a bennünk lévő világot. 
 
 117
 00:09:03,760 --> 00:09:05,680
-E são especificamente algoritmos,
+És különösen az algoritmusokat,
+amelyek alapvetően a 
 
 118
 00:09:05,880 --> 00:09:09,280
-que são basicamente a matemática que
-os computadores usam para decidir coisas.
+számítógépek által használt matematika, 
+hogy döntsenek dolgokról, igaz?
 
 119
 00:09:09,520 --> 00:09:12,760
-Você pode encontrar
-estas coisas onde quer que olhe
+Ilyen dolgokat bárhol találhatsz,
+bárhová nézel,
 
 120
 00:09:13,040 --> 00:09:15,000
-desde que aprenda como procurar por elas.
+ha megtanulod, hogy hogyan kell keresni őket.
 
 121
 00:09:15,160 --> 00:09:17,400
