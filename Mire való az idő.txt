@@ -250,9 +250,12 @@ Itt van egy vízzel és buborékokkal teli lombik.
 Megnézzük a buborékok mozgását.
 Hajlamosak körbe-körbe mozogni.
 
-Ez egy egyszerű gravitációs kísérlet. Egyszerűen csak egy csomó részecskét helyeztem egy nulla gravitációs térbe, nevezzük így.
+Ez egy egyszerű gravitációs kísérlet.
+Egyszerűen csak egy csomó részecskét helyeztem
+egy nulla gravitációs térbe, nevezzük így.
 
-És így ezer részecskével minden egyes részecske erőt gyakorol 999 másik részecskére.
+És így ezer részecskével minden egyes részecske
+erőt gyakorol 999 másik részecskére.
 
 A végeredmény kb. egymillió erőszámítás lesz képkockánként.
 
