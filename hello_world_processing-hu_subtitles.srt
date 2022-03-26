@@ -1197,31 +1197,30 @@ Mindkettő együtt.
 
 275
 00:20:06,880 --> 00:20:10,280
-Algumas das visualizações
-de dados de maior sucesso
+Úgy értem, azt hiszem, ez tényleg
+a képességünk, hogy felfedjünk 
 
 276
 00:20:10,400 --> 00:20:15,480
-são aquelas que te permitem descobrir
-algum tipo de relação, estrutura ou padrões,
+bizonyos mintákat vagy kontextust adjunk,
+például vizuális vagy elemi módon,
 
 277
 00:20:16,120 --> 00:20:21,840
-que seriam difíceis de
-descrever em palavras ou numa foto.
+hogy képesek legyünk látni a struktúrát. Azt hiszem, a legsikeresebb adatvizualizációink azok, amelyek lehetővé teszik, hogy felfedezzünk valamilyen kapcsolatot,
 
 278
 00:20:23,120 --> 00:20:25,720
-Vamos ver como ele opera.
+struktúrát vagy mintát, amit nagyon nehéz lenne szavakkal leírni, azt elég egy fényképen kimondani.
 
 279
 00:20:26,000 --> 00:20:31,080
-Primeiro, entrada.
-Depois, processamento.
+Lássuk, hogyan működnek.
+Először is, bevitel.
 
 280
 00:20:33,550 --> 00:20:36,200
-Processamento de dados eletrônico.
+Azután a feldolgozás.
 
 281
 00:20:37,000 --> 00:20:39,440
