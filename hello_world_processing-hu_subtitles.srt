@@ -614,52 +614,48 @@ de olyan módon használjuk őket, ami nem hagyományosan tudományos.
 
 143
 00:10:36,280 --> 00:10:40,000
-A ciência está tentando
-replicar ou descrever a realidade,
+A tudomány megpróbálja megismételni
+vagy leírni a valóságot, 
 
 144
 00:10:40,360 --> 00:10:44,080
-então ela trata de resultados quantitativos
-ao invés de resultados qualitativos.
+ami a mennyiségi eredményekről szól,
+nem pedig a minőségi eredményekről.
 
 145
 00:10:44,280 --> 00:10:48,000
-Na verdade não nos importamos se os modelos
-que estamos usando fazem previsões precisas.
+Nem igazán törődünk azzal, hogy az általunk használt modellek előrejelzéseket készítsenek.
 
 146
 00:10:48,360 --> 00:10:50,080
-Trabalhamos unicamente
-com aspectos qualitativos:
+Ön biztosan minőségi szempontokkal dolgozik:
 
 147
 00:10:50,080 --> 00:10:52,080
-como o sistema está
-gerando certas estruturas
+tehát hogyan tudnak a rendszerek bizonyos struktúrákat
 
 148
 00:10:52,560 --> 00:10:54,920
-e como as estruturas podem variar.
+és más és más struktúrákat
+generálni a változóból.
 
 149
 00:10:55,120 --> 00:10:57,320
-Ao invés de tentar fazer
-algo similar à realidade
+Tehát ahelyett, hogy megpróbálnánk valami hasonlót létrehozni
 
 150
 00:10:57,480 --> 00:11:00,000
-nós estamos tentando fazer coisas
-que são distintamente não naturais
+a valósághoz, olyan dolgokat
+próbálunk létrehozni, 
 
 151
 00:11:00,200 --> 00:11:03,920
-mas que tem um certo aspecto
-orgânico e sensação naturais.
+amelyek kifejezetten természetellenesek,
 
 152
 00:11:04,640 --> 00:11:08,888
-O trabalho que eu faço
-é uma tentativa de
+de van egyfajta természetes
+organikusságuk, héjuk.
 
 153
 00:11:08,888 --> 00:11:11,111
