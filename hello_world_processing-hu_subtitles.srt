@@ -806,42 +806,37 @@ hogy mi tartja össze ezeket a madarakat csapatban repülés közben?
 
 186
 00:13:21,000 --> 00:13:24,720
-Uma das ideias centrais de Processing
-é a ideia de esboçar com código.
+A Processing egyik alapgondolata
+ez a kóddal való vázolás.
 
 187
 00:13:25,240 --> 00:13:29,160
-Os arquivos que você salva em Processing
-são chamados de sketches (esboços).
+És így valójában a fájlokat, hogy mentse és a feldolgozás úgynevezett vázlatok.
 
 188
 00:13:29,480 --> 00:13:33,200
-A ideia é de que ao invés
-de apenas imaginar algo,
+Az ötlet lényege, hogy ahelyett,
+hogy csak elképzelnél valamit,
 
 189
 00:13:33,600 --> 00:13:35,510
-você pode de fato escrever
-um pequeno trecho de código,
+írhatsz egy kis kódot, amit aztán megtapasztalhatsz,
 
 190
 00:13:35,510 --> 00:13:38,222
-experimentá-lo e então
-desenvolvê-lo a partir daí.
+és aztán onnan fejlesztheted tovább.
 
 191
 00:13:38,400 --> 00:13:40,400
-Então para tudo que eu crio,
+Szóval minden, amit én csinálok,
 
 192
 00:13:40,400 --> 00:13:42,880
-- e muitas pessoas que trabalham
-com Processing fazem igual -
+és sokan, akik Processing-el dolgoznak, azt csináljuk,
 
 193
 00:13:43,240 --> 00:13:46,111
-eu faço diversos
-esboços a mão primeiro,
+hogy sok vázlatot készítünk kézzel.
 
 194
 00:13:46,111 --> 00:13:47,880
