@@ -696,12 +696,11 @@ Hajlamosak körbe-körbe mozogni.
 
 161
 00:11:35,960 --> 00:11:38,080
-Este é um experimento
-gravitacional simples.
+Ez egy egyszerű gravitációs kísérlet. 
 
 162
 00:11:38,560 --> 00:11:42,400
-Ez egy egyszerű gravitációs kísérlet. Egyszerűen csak egy csomó részecskét helyeztem egy nulla gravitációs térben.
+Egyszerűen csak egy csomó részecskét helyeztem egy nulla gravitációs térben.
 
 163
 00:11:44,800 --> 00:11:49,400
@@ -728,17 +727,16 @@ ami nagyon váratlanul lesz.
 
 168
 00:12:04,560 --> 00:12:06,520
-Quando você apenas aplica um
-ruído Perlin a um monte de partículas
+Ha csak Perlin-zajt alkalmazol 
+egy csomó részecskére,
 
 169
 00:12:06,520 --> 00:12:08,520
-você não vai ter nada inesperado,
+nem fogsz semmi váratlant kapni,
 
 170
 00:12:08,520 --> 00:12:12,500
-porque não há nada de
-inesperado nesta matemática.
+mert abban a struktúrában nincs semmi váratlan.
 
 171
 00:12:12,500 --> 00:12:15,111
