@@ -701,33 +701,30 @@ gravitacional simples.
 
 162
 00:11:38,560 --> 00:11:42,400
-Eu apenas coloquei um monte de
-partículas em um espaço de Zero-G.
+Ez egy egyszerű gravitációs kísérlet. Egyszerűen csak egy csomó részecskét helyeztem egy nulla gravitációs térben.
 
 163
 00:11:44,800 --> 00:11:49,400
-Com mil partículas, cada partícula
-exercendo uma força em 999 outras partículas,
+És így ezer részecskével minden egyes részecske erőt gyakorol 999 másik részecskére.
 
 164
 00:11:49,800 --> 00:11:53,520
-você acaba com cerca de um milhão
-de cálculos de força por quadro.
+A végeredmény kb. egymillió erőszámítás lesz képkockánként.
 
 165
 00:11:54,760 --> 00:11:58,000
-Foi bom finalmente poder não
-precisar dizer às partículas o que fazer.
+Jó lenne nem megmondani a részecskéknek,
+hogy mit csináljanak.
 
 166
 00:11:58,520 --> 00:12:01,280
-Eu apenas digo a elas que elas
-precisam reagir umas às outras
+Csak azt mondom nekik,
+hogy reagálniuk kell egymásra,
 
 167
 00:12:01,600 --> 00:12:04,280
-e elas começam a fazer algumas
-coisas que você realmente não pode esperar.
+és elkezdenek tenni valamit,
+ami nagyon váratlanul lesz.
 
 168
 00:12:04,560 --> 00:12:06,520
