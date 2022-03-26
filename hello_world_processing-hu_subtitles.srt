@@ -895,55 +895,53 @@ aztán leülök, elkészítem a kódot, ami ezt teszi, és már csak hibakeresé
 
 206
 00:14:31,360 --> 00:14:33,640
-O que queremos que as pessoas façam
+Azt szeretnénk, ha az emberek kipróbálnának valamit, tudod, egy kis kódot,
 
 207
 00:14:33,840 --> 00:14:36,480
-é tentar algo, escrever algumas
-linhas de código, ver o que acontece,
+megnéznék, hogy mi történik, írnának még egy kicsit több kódot, és megnéznék, mi történik,
 
 208
 00:14:36,640 --> 00:14:38,560
-escrever mais algumas
-linhas, ver o que acontece.
+és nem éreznék magukat annyira értékesnek a dolgok miatt,
 
 209
 00:14:38,560 --> 00:14:44,040
-E não ser tão preciosista
-com o que fazem com o código.
+amiket a kóddal csinálnak, és hogy
+ugyanez a fajta kényelem legyen meg,
 
 210
 00:14:44,440 --> 00:14:48,440
-Ter aquele mesmo tipo de conforto de
-quando você está com o seu "sketchbook",
+mint amikor a vázlatfüzeteddel foglalkozol. 
 
 211
 00:14:48,760 --> 00:14:51,040
-disposto a virar para a próxima página,
+Hajlandónak lenni egy új oldalra lapozni,
+vagy firkálni valamit,
 
 212
 00:14:51,320 --> 00:14:55,320
-ou rabiscar alguma coisa,
-amassar, jogar fora e nunca mais olhar.
+vagy összegyűrni és eldobni,
+és soha többé nem nézni rá.
 
 213
 00:15:04,960 --> 00:15:07,240
-Isto é informação.
+Ez az az információ.
 
 214
 00:15:07,920 --> 00:15:11,160
-Seu uso apropriado pode trazer
-uma nova dignidade à raça humana.
+Amelynek megfelelő felhasználása
+új rangot adhat az emberiségnek.
 
 215
 00:15:13,560 --> 00:15:16,560
-Adequadamente relacionada,
-ela pode manter o equilíbrio
+Egy jó kapcsolatban fenntarthatja
+az egyensúlyt
 
 216
 00:15:16,680 --> 00:15:18,960
-entre os recursos e
-a necessidade humana.
+az ember szükségletei
+és erőforrásai között.
 
 217
 00:15:21,480 --> 00:15:24,600
