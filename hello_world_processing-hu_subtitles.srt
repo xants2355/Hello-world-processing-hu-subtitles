@@ -866,31 +866,32 @@ készítesz, majd elindítod a programot,
 
 200
 00:14:06,040 --> 00:14:09,600
-É uma abordagem iterativa
-ao design, uma metodologia iterativa
+Ezt nevezik iteratív tervezési megközelítésnek,
+vagy iteratív módszertannak,
 
 201
 00:14:09,840 --> 00:14:14,320
-em que gradualmente você vê,
-avalia e faz as mudanças a partir daí.
+ahol fokozatosan megnézzük és kiértékeljük,
+majd onnan kiindulva változtatunk.
 
 202
 00:14:15,080 --> 00:14:20,880
-Em contraste com como você
-tipicamente pensa em programar,
+Ez egy igazi kontraszt abban,
+ahogy általában gondolkodunk
 
 203
 00:14:21,120 --> 00:14:23,800
-em que tudo é muito metódico:
+a számítógépes programok írásáról,
+ahol ez nagyon módszeres:
 
 204
 00:14:23,960 --> 00:14:26,240
-“primeiro eu resolvo tudo de cabeça,
+először megoldom az összes
+problémát a fejemben,
 
 205
 00:14:26,480 --> 00:14:31,200
-depois eu sento, faço o código
-que faz o que pensei e é só debugar.”
+aztán leülök, elkészítem a kódot, ami ezt teszi, és már csak hibakeresés van hátra.
 
 206
 00:14:31,360 --> 00:14:33,640
