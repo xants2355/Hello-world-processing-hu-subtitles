@@ -758,55 +758,51 @@ annál több lehetőség van ezekre a kölcsönhatásokra.
 
 175
 00:12:26,280 --> 00:12:28,480
-O computador pode produzir uma nova ideia
+A számítógép képes új ötletet létrehozni,
 
 176
 00:12:28,720 --> 00:12:31,200
-ou fazer uma contribuição
-original para o conhecimento?
+hogy eredeti hozzájárulást nyújtson a tudáshoz.
 
 177
 00:12:31,480 --> 00:12:34,320
-Fizemos esta pergunta para
-o Prof. Nego e o Dr. Hamming.
+Meg kell kérdeznünk Nagle professzort és Dr. Hamminget is.
 
 178
 00:12:34,720 --> 00:12:37,080
-Em alguns sentidos a máquina
-apenas produz o que esperamos.
+Bizonyos értelemben a gép csak azt produkálja, amit elvárunk.
 
 179
 00:12:37,320 --> 00:12:40,400
-Por outro lado, se você
-não prevê todas as combinações,
+Másrészt nem látja előre az összes
+kombinációt a gép.
 
 180
 00:12:40,560 --> 00:12:43,200
-muitas vezes a máquina produz
-combinações que você não previu,
+Azt is hiszi, hogy ez a kombináció,
+amit nem látott előre,
 
 181
 00:12:43,440 --> 00:12:45,560
-e você tem a impressão de conhecimento.
+a tudás benyomását kelti.
 
 182
 00:12:45,880 --> 00:12:50,120
-Mas uma vez configurada, a máquina pode
-atacar o problema com infinitas variações
+De egy beállítás, végtelen variációt
+és megbízható memóriát ad
 
 183
 00:12:50,720 --> 00:12:52,880
-e memória confiável.
+a probléma megoldására.
 
 184
 00:13:03,120 --> 00:13:05,400
-Quando os observamos
-virando e girando,
+Amikor látjuk őket fordulni és keringeni,
+hányszor elgondolkodtunk már azon,
 
 185
 00:13:05,520 --> 00:13:10,120
-quantas vezes já nos perguntamos o que
-mantém tais pássaros juntos em seu vôo?
+hogy mi tartja össze ezeket a madarakat csapatban repülés közben?
 
 186
 00:13:21,000 --> 00:13:24,720
