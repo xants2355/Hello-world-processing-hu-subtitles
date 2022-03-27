@@ -1870,17 +1870,18 @@ ebben a végtelen tájban.
 
 421
 00:29:20,160 --> 00:29:25,960
-Trata-se claramente de manipular
-algoritmos, escolher parâmetros e descobrir
+Ez egészen egyértelműen az algoritmusok manipulálásáról
+és a paraméterek kiválasztásáról szól,
 
 422
 00:29:26,160 --> 00:29:29,080
-como extrair beleza do sistema
+és arról, hogy hogyan lehet a rendszerből
+a szépséget kihámozni, 
 
 423
 00:29:29,280 --> 00:29:32,760
-quando os dados brutos em si
-não são realmente significativos.
+akkor is, amikor tudjuk, hogy a nyers adatok
+önmagukban nem túl sokatmondóak.
 
 424
 00:29:33,160 --> 00:29:35,440
