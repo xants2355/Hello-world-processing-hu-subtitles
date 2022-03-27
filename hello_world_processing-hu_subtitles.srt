@@ -1164,62 +1164,63 @@ Processingben megcsinálni...
 
 268
 00:19:44,400 --> 00:19:46,120
-elnézést, de kézzel készítve, 
+elnézést, de kézzel készítve, de amit a Processingben szinte azonnal meg tudta csinálni.
 
 269
 00:19:46,120 --> 00:19:47,960
-de amit a Processingben szinte azonnal meg tudta csinálni.
+Ez nem csak az időmegtakarításról szól,
+hanem arról, hogy vannak bizonyos dolgok,
 
 270
 00:19:47,960 --> 00:19:51,400
-Tem certas coisas que você pode descobrir
-e ser criativo com elas através da computação,
-
-271
-00:19:51,680 --> 00:19:54,360
-que você não pode fazer à mão;
-elas funcionam bem juntas. 
-
-272
-00:19:55,200 --> 00:19:58,560
-Ez nem csak az időmegtakarításról szól, hanem arról, hogy vannak bizonyos dolgok,
-
-273
-00:19:58,920 --> 00:20:03,600
 amiket számítással felfedezhetsz,
 létrehozhatsz és kreatív lehetsz,
 
-274
-00:20:03,840 --> 00:20:06,720
+271
+00:19:51,680 --> 00:19:54,360
 és amit kézzel nem tudsz elkészíteni.
 Mindkettő együtt.
 
-275
-00:20:06,880 --> 00:20:10,280
+272
+00:19:55,200 --> 00:19:58,560
 Úgy értem, azt hiszem, ez tényleg
 a képességünk, hogy felfedjünk 
 
-276
-00:20:10,400 --> 00:20:15,480
+273
+00:19:58,920 --> 00:20:03,600
 bizonyos mintákat vagy kontextust adjunk,
 például vizuális vagy elemi módon,
 
+274
+00:20:03,840 --> 00:20:06,720
+hogy képesek legyünk látni a struktúrát. 
+
+275
+00:20:06,880 --> 00:20:10,280
+Azt hiszem, a legsikeresebb adatvizualizációink azok,
+amelyek lehetővé teszik,
+
+276
+00:20:10,400 --> 00:20:15,480
+hogy felfedezzünk valamilyen kapcsolatot,
+struktúrát vagy mintát, 
+
 277
 00:20:16,120 --> 00:20:21,840
-hogy képesek legyünk látni a struktúrát. Azt hiszem, a legsikeresebb adatvizualizációink azok, amelyek lehetővé teszik, hogy felfedezzünk valamilyen kapcsolatot,
+amit nagyon nehéz lenne szavakkal leírni,
+és amit elég egy fényképen kimondani.
 
 278
 00:20:23,120 --> 00:20:25,720
-struktúrát vagy mintát, amit nagyon nehéz lenne szavakkal leírni, azt elég egy fényképen kimondani.
+Lássuk, hogyan működnek.
 
 279
 00:20:26,000 --> 00:20:31,080
-Lássuk, hogyan működnek.
-Először is, bevitel.
+Először is, bevitel. Azután a feldolgozás.
 
 280
 00:20:33,550 --> 00:20:36,200
-Azután a feldolgozás.
+
 
 281
 00:20:37,000 --> 00:20:39,440
@@ -1295,11 +1296,10 @@ Szó szerint láthatjuk őket.
 
 297
 00:21:23,880 --> 00:21:25,880
-Para aumentar o alcance da visão
+Az emberi látás hatótávolságának kiterjesztésére
 
 298
 00:21:26,120 --> 00:21:29,000
-Az emberi látás hatótávolságának kiterjesztésére
 az ember csodálatos érzékenységű műszereket fejlesztett ki.
 
 299
@@ -1337,67 +1337,67 @@ a felfedezést.
 
 306
 00:21:59,640 --> 00:22:02,520
-O quanto mais trabalho
-eu faço naquele espaço
+Minél többet dolgozom
+ezen a területen,
 
 307
 00:22:02,840 --> 00:22:07,040
-mais eu percebo que na verdade
+annál inkább azt tapasztalom,
+hogy valójában sokkal kevésbé arról van szó,
 
 308
 00:22:07,040 --> 00:22:12,960
-é muito menos sobre as maneiras
-como você de fato apresenta a informação,
+hogy hogyan mutatjuk be az információt,
+Hanem sokkal inkább arról,
 
 309
 00:22:13,280 --> 00:22:17,600
-do que é sobre as maneiras como você
-navega pela informação e interage com ela.
+hogy hogyan navigálsz az információban
+és hogy hogyan lépsz kapcsolatba vele.
 
 310
 00:22:17,880 --> 00:22:21,120
-Muitos dos paradigmas que
-usamos para visualização de dados
+Az adat-vizualizációra használt
+paradigmák nagy része
 
 311
 00:22:21,280 --> 00:22:23,000
-ainda são paradigmas
-da mídia impressa,
+még mindig nyomtatás felől érkező paradigmák,
+ahol van egy statikus oldalunk
 
 312
 00:22:23,280 --> 00:22:28,320
-onde você tem uma página estática
-em que você visualiza e pronto.
+és ahol elkészítjük a vizualizációt,
+és aztán befejeztük.
 
 313
 00:22:28,600 --> 00:22:32,280
-Visualização de dados é sobre olhar
-para os dados de ângulos diferentes,
+Az adat-vizualizáció az adatok különböző szögekből való szemléléséről szól, és ez lehetővé teszi
 
 314
 00:22:33,040 --> 00:22:37,240
-permitindo às pessoas olhar para os dados
-de uma maneira que não poderiam antes.
+az emberek számára, hogy az adatokat olyan módon nézzék, ahogyan korábban nem tudták.
 
 315
 00:22:37,760 --> 00:22:42,360
-Examinar esta grande confusão de eventos,
-e costurá-los juntos nestas cascatas
+Menjünk át ezen a nagy eseményhalmazon,
+és fűzzük össze őket,
 
 316
 00:22:43,000 --> 00:22:45,880
-e então visualizar estas cascatas,
-e talvez chegar a algum entendimento
+majd nézzük meg ezeket a kapcsolatokat,
+és talán találunk
 
 317
 00:22:46,160 --> 00:22:48,500
-sobre como as pessoas compartilham
-o conteúdo da (revista) Times
+némi betekintést abba, hogy az emberek
+hogyan osztják meg
+
 
 318
 00:22:48,500 --> 00:22:51,360
-ou como as pessoas
-compartilham conteúdo em geral.
+az időt, fegyvereket, és hogy hogyan
+osztják meg a tartalmat általában.
 
 319
 00:22:53,720 --> 00:22:56,440
