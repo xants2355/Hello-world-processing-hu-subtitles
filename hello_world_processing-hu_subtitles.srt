@@ -1794,32 +1794,33 @@ hogy gyakorolhassák mesterségüket.
 
 405
 00:28:23,120 --> 00:28:27,080
-Quando você quer criar um certo
-tipo de forma ou imagem no computador
+Amikor egy bizonyos típusú formát vagy
+képet akarsz létrehozni a számítógépen,
 
 406
 00:28:27,200 --> 00:28:31,560
-você tem que ser capaz de descrever todos
-os passos envolvidos em fazer essa imagem.
+képesnek kell lenned leírni az összes lépést, amely
+a kép elkészítéséhez szükséges.
+
 
 407
 00:28:31,680 --> 00:28:34,960
-E para fazer isso você cria
-o que é chamado de algoritmo.
+Ehhez pedig egy úgynevezett
+algoritmust kell létrehozni.
 
 408
 00:28:35,080 --> 00:28:37,200
-Um algoritmo é como uma receita.
+Az algoritmus pedig olyan, mint egy recept.
 
 409
 00:28:37,400 --> 00:28:40,880
-Se você está cozinhando um certo
-jantar você precisa de uma receita
+Mint amikor egy konkrét vacsorát
+készítesz, szükséged van
 
 410
 00:28:40,960 --> 00:28:43,320
-e a ordem na qual você
-cozinha as coisas etc.
+a receptre és a sorrendre,
+amelyben a dolgokat megfőzöd, stb.
 
 411
 00:28:43,440 --> 00:28:45,400
