@@ -1802,7 +1802,6 @@ képet akarsz létrehozni a számítógépen,
 képesnek kell lenned leírni az összes lépést, amely
 a kép elkészítéséhez szükséges.
 
-
 407
 00:28:31,680 --> 00:28:34,960
 Ehhez pedig egy úgynevezett
@@ -1913,637 +1912,576 @@ gyümölcsöző terület.
 
 430
 00:29:58,080 --> 00:30:01,680
-Eu gostaria de contar outra anedota
+Szeretnék még egy anekdotát elmesélni
 
 431
 00:30:01,680 --> 00:30:05,400
-da exposição de Georg Nees de 1965.
+arról a február 65-i Diogenész-kiállításról.
 
 432
 00:30:06,120 --> 00:30:10,240
-A principal figura das belas artes,
-o pintor Hans Drüke
+A vezető képzőművész, Heinz Trückes festőművész felemelte a kezét,
 
 433
 00:30:10,440 --> 00:30:16,040
-levantou sua mão e disse:
-“Jovem,” - dirigindo-se a Georg Nees -
+és azt mondta, fiatalember, Georg Nishez szólva,
 
 434
 00:30:16,200 --> 00:30:20,280
-“tudo o que você nos disse é bom,
-mas quer saber uma coisa?
+ó, nagyon jól mondta, amit elmondott nekünk. De tudod mit?
 
 435
 00:30:20,400 --> 00:30:25,040
-Poderia fazer sua máquina
-desenhar como eu desenho?"
+Meg tudná-e csinálni, hogy a gépe úgy rajzoljon, ahogy én rajzolok?
 
 436
 00:30:26,760 --> 00:30:30,240
-Nees ponderou por um momento e disse:
+Ez az a szép, csodálatos pillanat.
 
 437
 00:30:30,560 --> 00:30:35,960
-“Quer saber de uma coisa?
-Se você me disser como você desenha
+És én azt mondtam, tudja mit...
+ha megmondja, hogy maga hogyan rajzol, 
 
 438
 00:30:36,120 --> 00:30:40,520
-eu posso fazer a minha máquina fazer isso.”
+akkor én is rá tudom venni a gépemet.
 
 439
 00:30:40,960 --> 00:30:45,400
-O que é legal sobre esta
-anedota, em poucas palavras,
+Szóval, ami szép ebben az anekdotában dióhéjban,
 
 440
 00:30:45,600 --> 00:30:47,080
-é que ambos tinham razão.
+hogy mindkettőnknek igaza volt.
 
 441
 00:30:47,280 --> 00:30:53,000
-Drüke, claro, com sua suposição
-de que a resposta seria não.
+Trückes azzal a feltételezésével,
+hogy a válasz egy nem lehet.
 
 442
 00:30:53,480 --> 00:30:56,000
-Afinal, como poderia
-uma máquina desenhar como ele?
+Mert hogyan tudna egy gép úgy rajzolni, mint ő?
 
 443
 00:30:56,400 --> 00:30:59,680
-Mas Georg Nees também
-tinha razão quando disse:
+De Georg Nisnek is igaza volt, ő azt mondta, hogy
 
 444
 00:30:59,840 --> 00:31:04,880
-“Se puder me dizer como desenha,
-posso fazer minha máquina desenhar.”
+ha te meg tudod mondani, hogy te hogyan rajzolsz, akkor én is el tudom érni, hogy a gépem úgy rajzoljon.
 
 445
 00:31:05,200 --> 00:31:08,680
-Porque, é claro, se você
-desenha como um artista,
+Mert persze, ha művészként rajzolsz,
 
 446
 00:31:08,920 --> 00:31:10,900
-você não pode explicar como faz isso.
+akkor nem tudod megmondani, hogyan csinálod.
 
 447
 00:31:10,900 --> 00:31:12,500
-Você faz e acontece.
+Te csak csinálod, és megtörténik.
 
 448
 00:31:12,600 --> 00:31:17,520
-Então tínhamos aí, logo no momento
-em que a arte algorítmica começava,
+Tehát ott volt abban a pillanatban,
+amikor az algoritmikus művészet elkezdődött,
 
 449
 00:31:17,800 --> 00:31:24,500
-uma pequena história que
-claramente mostra a diferença na qual,
+egy kis történet, ami világosan mutatja a különbséget,
 
 450
 00:31:24,500 --> 00:31:27,000
-nos poucos anos seguintes,
+hogy aztán a következő néhány évben
 
 451
 00:31:27,000 --> 00:31:31,680
-tudo o que concerne
-a arte algorítmica aconteceria.
+minden, ami az algoritmikus
+művészettel kapcsolatos, az megtörtént.
 
 452
 00:31:35,720 --> 00:31:38,320
-O que eu faço neste trabalho
-- muito do que eu tento fazer -
+Szóval, amit én csinálok, az nagyrészt az,
 
 453
 00:31:38,600 --> 00:31:44,960
-é criar esses ambientes ambíguos,
-que não pretendem representar nada,
+hogy létrehozom ezeket a nagyon kétértelmű környezeteket,
+ahol nem, szándékozunk semmit sem ábrázolni.
 
 454
 00:31:45,400 --> 00:31:47,680
-não pretendem ter uma
-narrativa por trás deles,
+Nincs mögöttük semmilyen narratíva. 
 
 455
 00:31:48,040 --> 00:31:54,320
-mas pretendem ser espaços que convidam
-perguntas e que convidam a curiosidade.
+De ezek olyan terek, amelyek kérdéseket és kíváncsiságot ébresztenek.
 
 456
 00:31:56,000 --> 00:32:00,560
-Um diálogo em torno de se perguntar
-o que é e como funciona - essa é a intenção.
+A szándék az, hogy párbeszédet folytassunk arról, hogy vajon mi is ez és hogy hogyan működik.
 
 457
 00:32:05,920 --> 00:32:08,720
-A qualidade essencial da informação
-digital é que ela é plástica,
+A digitális adatok elemi tulajdonsága az,
+hogy plasztikusak,
 
 458
 00:32:08,920 --> 00:32:11,760
-é capaz de mudar de estado,
+képesek arra, hogy
 
 459
 00:32:12,000 --> 00:32:16,600
-assumindo configurações
-mutáveis sob demanda
+állandóan változó állapotot vegyenek fel,
 
 460
 00:32:16,800 --> 00:32:21,280
-e é capaz de ser uma espécie de
-"representação universal" de outras mídias.
+és képesek más médiumok univerzális reprezentációjára.
 
 461
 00:32:23,000 --> 00:32:25,240
-Assim, a combinação homem-máquina
+Az ember-gép kombinációk
 
 462
 00:32:25,440 --> 00:32:30,400
-encontrará uma linha divisória que
-passará gradualmente do homem até a máquina.
+egy választóvonalon találják majd magukat,
+amely az emberről a gépre száll át,
 
 463
 00:32:30,400 --> 00:32:31,900
-A máquina assumindo cada vez mais o fardo,
+és egyre nagyobb terhet vesz át,
 
 464
 00:32:31,900 --> 00:32:33,540
-à medida em que aprendemos
-a usar essas máquinas,
+ahogy megtanuljuk, hogy hogyan is kell használni a gépeket. 
 
 465
 00:32:33,540 --> 00:32:35,420
-e à medida que as máquinas
-se tornam mais poderosas.
+Ahogy a gépek egyre erősebbek lesznek,
 
 466
 00:32:35,420 --> 00:32:41,000
-E nós ficaremos responsáveis
-pelos aspectos mais criativos do problema.
+és mi megtaláljuk magunkat egy probléma megoldásában.
 
 467
 00:32:47,880 --> 00:32:52,000
-Nós não vemos, por exemplo,
-as formas ou objetos que projetamos,
+Nem látjuk például az általunk kivetített alakzatokat vagy tárgyakat,
 
 468
 00:32:52,120 --> 00:32:54,000
-nem sequer ferramentas ou objetos.
+Vagy akár a szerszámok is tárgyak.
 
 469
 00:32:54,000 --> 00:32:58,000
-Nós não os vemos mais
-como itens estáticos.
+Már nem úgy tekintünk rájuk, mint az esztétikai tárgyakra,
 
 470
 00:32:58,000 --> 00:33:03,400
-Nós simplesmente usamos; mas na realidade
-começamos a indagar quais são os processos por trás.
+Egyszerűen használjuk; de valójában elkezdjük kérdezni, hogy mik a folyamatok mögötte.
 
 471
 00:33:03,850 --> 00:33:06,400
-E uma vez que entendemos esses processos,
+És ha egyszer megértjük ezeket a mögöttes folyamatokat
 
 472
 00:33:06,400 --> 00:33:09,680
-qual é o potencial em termos
-de design para manipulá-los
+és hogy mi az a tervezési potenciál,
+amellyel manipulálni lehet
 
 473
 00:33:09,840 --> 00:33:14,720
-e então criar soluções realmente novas
-que nem eram possíveis antes?
+és ez után olyan új megoldásokat létrehozni,
+amelyek korábban nem is voltak lehetségesek.
 
 474
 00:33:41,440 --> 00:33:43,666
-James Surowiecki tem essa ideia
-da sabedoria das multidões,
+James Surowieczki a tömegek bölcsességéről beszél,
+
 
 475
 00:33:43,666 --> 00:33:46,650
-que diz que um bando de pessoas é
-mais inteligente do que qualquer indivíduo.
+amely szerint a sok ember okosabb, mint egy egyén. 
 
 476
 00:33:46,650 --> 00:33:50,280
-Queríamos ver como isso se aplicaria à
-composição musical colaborativa distribuída,
+Szeretnénk megnézni, hogy ez hogyan alkalmazható a kollaboratív, elosztott zenei alkotásra,
 
 477
 00:33:50,280 --> 00:33:52,680
-na qual ninguém tem ideia
-daquilo no qual está trabalhando.
+ahol senkinek sincs fogalma arról, hogy min dolgoznik.
 
 478
 00:33:52,680 --> 00:33:55,560
-A canção "Daisy Bell", que foi
-o primeiro computador no mundo que cantava
+A "Daisy bell" című dal, amely a világ első számítógép által énelekt dala volt.
 
 479
 00:33:55,560 --> 00:33:59,400
-Então ressintetizamos esta música.
-Ela soava assim.
+Ezért újraszintetizáltuk ezt a dalt.
+Valahogy így hangzott, 
 
 480
 00:33:59,400 --> 00:34:01,520
-Nós separamos todas as notas
-individuais no canto
+lebontottuk az egyes hangokat és az éneklést,
 
 481
 00:34:01,680 --> 00:34:04,040
-assim como os fonemas.
+valamint az énekben lévő fonémákat.
 
 482
 00:34:05,760 --> 00:34:08,000
-Pegamos todos os pedaços individuais,
+Minden egyes darabot veszünk,
+Fogtuk ezeket az egyes darabokat,
 
 483
 00:34:08,000 --> 00:34:09,880
-e os colocamos novamente em
-uma requisição no [Amazon] Turk.
+és betápláltuk őket egy másik lekérdezésbe.
 
 484
 00:34:09,880 --> 00:34:11,120
-Isso é como pareceria
-se vocês fossem no site.
+Így nézne ki, ha elmennétek az oldalra.
 
 485
 00:34:11,120 --> 00:34:15,000
-Vocês digitariam o seu código
-- primeiro testariam o microfone.
+Beírja a kódját, először teszteli,
 
 486
 00:34:15,600 --> 00:34:18,600
-Vocês receberiam um trecho de áudio simples.
+és egy egyszerű hang-klipet kap.
 
 487
 00:34:19,760 --> 00:34:22,640
-E então fariam o melhor para
-recriá-lo com a sua própria voz.
+Aztán ezt megpróbálod a lehető legjobban
+rekonstruálni a saját hangoddal.
 
 488
 00:34:58,080 --> 00:35:02,080
-A comunidade tem sido realmente
-a base de todo o projeto.
+A közösség az egész projekt alapja,
 
 489
 00:35:03,040 --> 00:35:07,280
-Quando estávamos desenvolvendo
-e projetando o software
+és amikor a szoftvert fejlesztettük és terveztük,
 
 490
 00:35:07,400 --> 00:35:11,880
-estávamos sempre fazendo isso em relação
-a poder ensinar com ele e à comunidade.
+mindig a közösség oktatásával összefonódva tettük.
 
 491
 00:35:12,000 --> 00:35:16,240
-Logo no início empregamos ferramentas
-de mídia social realmente básicas.
+Alapvető közösségi média eszközöket használtunk,
 
 492
 00:35:16,240 --> 00:35:19,680
-Na época eram "bulletin boards",
-listas de discussão e coisas desse tipo.
+például akkoriban létrehoztunk egy hirdetőtáblát,
+egy e-mail listát és minden ilyesmit.
 
 493
 00:35:19,840 --> 00:35:21,960
-Mas à medida que desenvolvíamos o software,
-estávamos sempre publicando ele,
+De ahogy fejlesztettük a szoftvert,
+az új verziókat megjelentettük,
 
 494
 00:35:22,120 --> 00:35:24,200
-recebendo feedback e
-incorporando isso no projeto.
+ezekre visszajelzéseket kaptunk,
+és ezeket visszaépítettük a szoftverbe.
 
 495
 00:35:24,400 --> 00:35:26,160
-Creio que realmente
-a melhor forma de começar
+Úgy gondolom, hogy a legjobb módja elkezdeni,
 
 496
 00:35:26,320 --> 00:35:28,360
-é a maneira como
-o projeto em si começou.
+ahogyan maga a projekt is elkezdődött.
 
 497
 00:35:29,160 --> 00:35:32,640
-Encontre alguém que esteja
-dando um workshop ou um tutorial,
+Szóval keress valakit, aki workshopot vagy oktatást tart,
 
 498
 00:35:32,840 --> 00:35:36,320
-que esteja disposto a ajudá-lo
-nesses primeiros passos
+aki hajlandó segíteni neked az első lépésekben,
 
 499
 00:35:36,680 --> 00:35:40,160
-e que te dê a convicção
-sobre o que é programar,
+és megadja neked azt a bizalmat, hogy
 
 500
 00:35:40,600 --> 00:35:45,120
-e de como é o design e o código
-quando são feitos ao mesmo tempo, juntos.
+így néz ki a tervezés és a kódolás,
+ha egyszerre, együtt végzik őket.
 
 501
 00:35:45,520 --> 00:35:47,600
-Logo no início, um dos aspectos
-mais importantes do Processing
+A legelején az egyik legfontosabb dolog
+a Processinggel kapcsolatban
 
 502
 00:35:47,720 --> 00:35:50,520
-era que as pessoas poderiam
-pegar o que haviam feito
+az volt, hogy az emberek képesek legyenek arra,
 
 503
 00:35:50,680 --> 00:35:53,451
-e colocar online para que
-outras pessoas pudessem ver.
+hogy amit elkészítettek, azt feltehessék az internetre,
+hogy mások is láthassák.
 
 504
 00:35:53,740 --> 00:36:00,550
-Pra mim, o que tem sido muito útil
-em me ajudar a crescer como um programador
+Számomra nagyon hasznos volt a programozóként való fejlődésemben,
 
 505
 00:36:00,550 --> 00:36:02,400
-é olhar o código fonte de outras pessoas.
+hogy megnézhettem mások forráskódját.
 
 506
 00:36:02,680 --> 00:36:06,160
-Você não precisa reinventar a roda.
-Você pode pegar aquilo e dizer
+Nem kell újra feltalálnod a kereket.
+Foghatod azt, és mondhatod,
 
 507
 00:36:06,400 --> 00:36:10,560
-“ok, isto é útil para mim.
-Agora eu quero olhar de uma maneira diferente
+ez hasznos nekem, de most másképp akarom nézni,
 
 508
 00:36:10,760 --> 00:36:12,720
-e colocar um código diferente em volta."
+és más kódot akarok köré írni.
 
 509
 00:36:13,680 --> 00:36:15,880
-A ideia de que você pode
-fazer algo no Processing,
+És az ötlet, hogy valamit el tudsz készíteni a Processingben,
 
 510
 00:36:16,040 --> 00:36:19,990
-exportar de uma maneira que possa
-ser colocado imediatamente na web,
+és úgy exportálhatod,
+hogy azonnal fel tudod tenni a webre,
 
 511
 00:36:19,990 --> 00:36:23,600
-com o código fonte incluído,
-tem sido realmente essencial para o projeto.
+a forráskóddal együtt,
+nagyon fontos volt a projekt számára.
 
 512
 00:36:23,960 --> 00:36:26,640
-Há centenas de milhares
-de pessoas que usam Processing.
+Több százezer ember használja a Processinget.
 
 513
 00:36:26,960 --> 00:36:30,440
-Se esta é a comunidade,
-então ela é muito grande.
+Tehát ha ez a közösség, ez nagyon nagy.
 
 514
 00:36:30,640 --> 00:36:34,120
-Se você estiver falando de pessoas
-que estão usando o Processing ativamente,
+Ha azokról az emberekről beszélünk,
+akik aktívan használják a Processinget,
 
 515
 00:36:34,320 --> 00:36:40,240
-que vestem a camisa, então talvez estejamos
-na ordem de várias milhares de pessoas.
+és viselnéknek pólót, akkor talán
+néhány ezerre tehető a számuk.
 
 516
 00:36:40,840 --> 00:36:46,280
-Depois, a comunidade se tornou
-a parte principal do projeto
+Később a közösség bizonyos értelemben a projekt fő részévé vált
 
 517
 00:36:46,720 --> 00:36:49,160
-através do sistema de
-bibliotecas que incluímos.
+a könyvtárak rendszerén keresztül, amit beépítettünk,
 
 518
 00:36:49,320 --> 00:36:54,000
-Processing, pelo seu design, é para
-ser um núcleo ou framework bastante mínimo,
+így a Processing a terv szerint
+egy eléggé minimális keretrendszernek készült,
 
 519
 00:36:54,000 --> 00:36:58,280
-e incluímos uma maneira das pessoas poderem
-estender o software escrevendo essas bibliotecas.
+és aztán úgy építettük tovább, hogy az emberek
+bővíthessék a szoftvert a könyvtárak megírásával.
 
 520
 00:36:58,560 --> 00:37:02,040
-Quando eu chego a algo que eu percebo
-que a maioria das pessoas não sabe como fazer,
+Amikor kitalálok valamit, amiről rájövök, hogy a legtöbb ember nem tudja, hogyan kell csinálni,
 
 521
 00:37:02,280 --> 00:37:07,880
-ou que simplesmente ninguém fez ainda,
-eu torno disponível para outras pessoas.
+vagy valaki még nem csinálta meg, akkor azt elérhetővé teszem mások számára.
 
 522
 00:37:08,000 --> 00:37:13,360
-Por exemplo, com o projeto Makerbot,
-eu publiquei tanto os modelos que criei,
+Így például a MakerBot-projekt esetében mindkét általam készített modellt
 
 523
 00:37:13,680 --> 00:37:17,160
-- totalmente em código aberto,
-algo que naturalmente um artista não faria,
+teljesen nyílt forráskódúvá tettem,
+amit művészként általában nem tennék meg.
 
 524
 00:37:17,440 --> 00:37:20,920
-você não vai publicar sua obra
-para que qualquer um possa fazer -
+Nem csak a művedet teszed ki
+a világ elé, hogy bárki elkészíthesse,
 
 525
 00:37:21,160 --> 00:37:23,600
-mas também publiquei o código,
-que é muito mais importante,
+hanem a kódot is, ami sokkal fontosabb, 
 
 526
 00:37:23,800 --> 00:37:26,880
-pois o código é a ferramenta
-que você usa para criar a coisa.
+mert a kód tulajdonképpen az az eszköz,
+amivel létrehozod a dolgot.
 
 527
 00:37:27,200 --> 00:37:30,480
-A ideia de que Processing serve
-apenas para criar gráficos na tela
+Az az elképzelés, hogy a Processing csak a képernyőn megjelenő grafika létrehozására szolgál,
 
 528
 00:37:30,800 --> 00:37:32,800
-tem mudado ao longo dos anos.
+az évek során sokat változott.
 
 529
 00:37:33,000 --> 00:37:35,380
-Através de protótipos e depois fabricação
+Prototípusok készítésén,
+majd a gyártáson keresztül
 
 530
 00:37:35,380 --> 00:37:38,680
-seu uso foi estendido a uma
-variedade de outros domínios.
+a felhasználása nagyon sok
+különböző területre kiterjedt.
 
 531
 00:37:39,040 --> 00:37:42,080
-E o núcleo deste trabalho
-está realmente nas bibliotecas.
+Ennek a munkának a középpontjában a könyvtárak állnak.
 
 532
 00:37:42,240 --> 00:37:45,160
-Processing conta agora com a
-contribuição de mais de 100 bibliotecas,
+Tehát a Processing mostanra több mint 100 könyvtárral rendelkezik,
 
 533
 00:37:45,280 --> 00:37:49,000
-e é assim que o projeto se mantém
-dinâmico e evolui muito rapidamente.
+ettől tud a projekt dinamikus maradni
+és gyorsan fejlődni.
 
 534
 00:37:49,200 --> 00:37:53,840
-Nossa estratégia consiste em manter o núcleo
-e o processamento básico bastante mínimo e contido
+A stratégiánk az, hogy a Processing alapjában lévő
+kódmagot nagyon minimálisan és visszafogottan tartsuk,
 
 535
 00:37:54,120 --> 00:37:58,960
-e então fazer o sistema que permite
-outras pessoas contribuir com projetos.
+és aztán ezt a rendszert úgy alakítsuk ki,
+hogy mások is hozzájárulhassanak a projektekhez.
 
 536
 00:38:00,440 --> 00:38:03,640
-Eu não poderia fazer o que faço
-sem código aberto.
+Nem tudnám azt csinálni, amit csinálok a nyílt forráskód nélkül,
 
 537
 00:38:04,111 --> 00:38:09,800
-Acredito de verdade que todos
-estamos de pé sobre ombros de gigantes
+nagyon hiszek ebben,
+mi mindannyian óriások vállán állunk,
 
 538
 00:38:09,920 --> 00:38:14,800
-e sinto que é importante devolver
-para a comunidade o que pegamos dela.
+és nagyon fontosnak tartom, hogy
+visszaadjunk valamit abból, amit elveszünk.
 
 539
 00:38:25,040 --> 00:38:26,880
-“O universo perdura.
+Az univerzum élvezi,
 
 540
 00:38:27,600 --> 00:38:31,200
-Quanto mais estudamos
-a natureza do tempo,
+minél jobban tanulmányozzuk az idő természetét,
 
 541
 00:38:31,320 --> 00:38:34,680
-mais compreendemos que
-duração significa invenção,
+annál jobban megértjük, hogy a generálás a feltalálást jelenti,
 
 542
 00:38:35,000 --> 00:38:40,880
-criação de formas, elaboração contínua
-do absolutamente novo.”
+a formák létrehozását, a teljesen új folyamatos kidolgozását.
 
 543
 00:38:42,040 --> 00:38:44,360
-Por exemplo, este documentário.
+Mint ez a dokumentumfilm.
 
 544
 00:38:44,520 --> 00:38:48,000
-Ele é formado por vários
-documentos encontrados.
+Több talált dokumentumból áll.
 
 545
 00:38:48,240 --> 00:38:52,560
-Por sua vez, estes documentos são
-o resultado de desenvolvimentos anteriores.
+Ezek a dokumentumfilmek viszont korábbi fejlesztések eredményei.
 
 546
 00:38:53,880 --> 00:38:56,560
-São documentos ”abertos”,
+Nyílt dokumentumok,
 
 547
 00:38:56,680 --> 00:38:59,560
-que podem dar origem a outros novos processos.
+amelyek más folyamatokat indíthatnak el.
 
 548
 00:39:00,680 --> 00:39:05,880
-O processo de montar documentos
-diferentes leva a resultados inesperados.
+A különböző dokumentumok összerakásának
+folyamata váratlan eredményeket okoz.
 
 549
 00:39:07,480 --> 00:39:10,320
-Todos os processos são parte do universo
+Az összes folyamat az univerzum része,
 
 550
 00:39:10,480 --> 00:39:14,880
-e eles precisam de agentes,
-códigos e tempo para operar.
+és működésükhöz ügynökökre,
+kódokra és időre van szükségük.
 
 551
 00:39:16,000 --> 00:39:20,899
-Manipular códigos permite uma
-abordagem mais próxima aos processos.
+Kódok manipulálása közelebb hoz
+a folyamatok megértéséhez.
 
 552
 00:39:20,899 --> 00:39:25,280
-Te permite visualizar dados
-à distância e com perspectiva
+Lehetővé teszi, hogy az adatokat
+távolabbról és perspektivából nézzük,
 
 553
 00:39:25,680 --> 00:39:28,480
-ou criar processos novos e inéditos.
+vagy új és eddig nem hallott
+folyamatokat hozzunk létre.
 
 554
 00:39:28,920 --> 00:39:32,120
-Para fazer isso, para criar
-esses tipos de ferramentas,
+Ehhez, hogy az ilyen jellegű
+eszközök létrehozásához van szükség 
 
 555
 00:39:32,320 --> 00:39:35,800
-é que precisamos de
-linguagens como Processing.
+olyan nyelvekre, mint a Processing.
 
 556
 00:39:36,080 --> 00:39:41,080
-Finalmente o futuro, exceto
-em termos de tendências e probabilidades,
+A jövő, a trendek és a valószínűségek
+figyelembevétele nélkül,
 
 557
 00:39:41,320 --> 00:39:43,040
-é o grande desconhecido.
+a nagy ismeretlen.
 
 558
 00:39:43,440 --> 00:39:46,000
-E os usos em que nos colocamos
+És azok a felhasználási módok,
+amelyekre alkalmazzuk magunkat
 
 559
 00:39:46,200 --> 00:39:49,480
-em relação às maravilhosas
-máquinas da nossa própria invenção
+saját találmányunk csodálatos gépeivel kapcsolatban
 
 560
 00:39:49,480 --> 00:39:52,840
-é talvez o principal
-desafio intelectual e moral
+talán az a mi rövid időnk központi erkölcsi
 
 561
 00:39:52,840 --> 00:39:56,320
-do nosso próprio
-breve momento no tempo.
+és intellektuális kihívása.
 
 562
 00:40:00,000 --> 00:40:12,000
-Legendas em português: Artur Cabral Reis,
-Daniel Ferreira e Marcelo Padovani Macieira.
+DMN
