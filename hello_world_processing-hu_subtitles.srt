@@ -1579,156 +1579,155 @@ de akiknek jó kreatív ötleteik vannak.
 
 358
 00:25:34,560 --> 00:25:37,480
-Voltando às nossas observações
-mais gerais sobre o uso de computadores...
+Visszatérve a számítógépek használatára vonatkozó
+általánosabb megjegyzésekhez,
 
 359
 00:25:37,960 --> 00:25:41,560
-Inicialmente usamos o computador
-para simular situações de engenharia,
+először is a számítógépeket helyzetek
+és a tervezés szimulálására használjuk.
 
 360
 00:25:41,560 --> 00:25:44,840
-situações que antes fazíamos à mão.
+Olyan helyzetekére, amelyeket korábban
+kézzel csináltunk.
 
 361
 00:25:45,360 --> 00:25:49,440
-O computador nos permitiu resolver
-problemas maiores e mais complexos.
+A számítógépek lehetővé tették számunkra, hogy
+sokkal nagyobb és összetettebb problémákat oldjunk meg.
 
 362
 00:25:50,080 --> 00:25:54,600
-Mas isso ignora o efeito da
-ordem de magnitude do qual falamos.
+De ez figyelmen kívül hagyta a nagyságrendi hatást,
+amit említettünk
 
 363
 00:25:55,320 --> 00:25:58,240
-Agora estamos começando a usar a
-máquina de maneiras completamente novas,
+Most kezdjük használni a gépeket
 
 364
 00:25:58,520 --> 00:26:00,880
-em problemas completamente novos.
+teljesen új módon
+teljesen más problémákhoz.
 
 365
 00:26:01,040 --> 00:26:03,360
-Essa é a parte interessante,
+Ez az izgalmas rész.
 
 366
 00:26:03,520 --> 00:26:07,520
-o aspecto intelectual de aplicar
-a máquina a ideias completamente novas,
+Ez az a szellemi aspektus, hogy a gépeket teljesen
+új ötletekre alkalmazzuk,
 
 367
 00:26:07,840 --> 00:26:10,160
-que é tão estimulante para
-muitas pessoas nesta área.
+ami sokakat annyira izgatott ezen a szakterületen.
 
 368
 00:26:12,360 --> 00:26:16,160
-Eu energizei o relé aqui,
-e esse é o banco de amplificadores
+Itt egy relét gerjesztettem, és ez,
+ez az erősítők mezője,
 
 369
 00:26:16,360 --> 00:26:19,760
-que impulsionam os servomotores do sistema...
+amely a rendszer szervomotorjait hajtja...
 
 370
 00:26:20,880 --> 00:26:24,760
-O computador que criou o
-“corredor stargate” no filme “2001”
+A számítógép, amely létrehozta a 
+Csillagkapu folyosót a 2001 Űrodisszea filmben,
 
 371
 00:26:25,200 --> 00:26:28,720
-foi desenvolvido pelo homem por
-trás desses óculos: John Whitney.
+ez az ember a szemüveg mögött
+fejlesztette ki: John Whitney.
 
 372
 00:26:28,960 --> 00:26:31,240
-Seus três filhos e seu irmão James,
+A három fia és a testvére, James,
 
 373
 00:26:31,440 --> 00:26:34,000
-todos usaram estas máquinas
-para fazer filmes computacionais.
+mindannyian használták a gépeket,
+hogy számítógépes filmeket készítsenek.
 
 374
 00:26:34,360 --> 00:26:38,040
-Os Whitneys não se inibem pelo espectro
-de grandes fabricantes de computadores.
+Whitneyéket nem gátolta a számítógépes
+óriáscégek rémképe.
 
 375
 00:26:38,400 --> 00:26:40,080
-Difícil chamá-los de computadores,
+Aligha nevezhetőek számítógépeknek,
 
 376
 00:26:40,280 --> 00:26:42,600
-por serem, na verdade,
-"resolvedores de problemas" especializados.
+mert ezek, ezek valójában
+specializált problémamegoldók.
 
 377
 00:26:42,760 --> 00:26:47,200
-Eles eram computadores que foram feitos
-para computar somente um tipo de equação.
+Olyan számítógépek voltak, amelyeket csak
+egyfajta egyenlet kiszámítására terveztek.
 
 378
 00:26:48,360 --> 00:26:51,040
-O que eu estive fazendo
-nesta última década
+És amit az elmúlt nagyjából egy évtizedben
+csináltam, az az,
 
 379
 00:26:51,040 --> 00:26:54,480
-foi projetar os mecanismos
-mais simples que posso imaginar.
+hogy a legegyszerűbb mechanizmusokat terveztem,
+amiket csak el tudok képzelni.
 
 380
 00:26:54,640 --> 00:26:56,960
-Máquinas primitivas muito simples.
+Nagyon egyszerű, primitív gépeket.
 
 381
 00:26:57,520 --> 00:27:01,640
-E através do uso da emergência,
-estas máquinas que interagem juntas
+És a kapcsolatok felhasználásával ezek a gépek,
+amikor egy alapvető környezetben
 
 382
 00:27:02,160 --> 00:27:06,160
-em um ambiente básico;
-são capazes de produzir coisas
+kölcsönhatásba lépnek egymással,
+képesek olyan dolgokat létrehozni,
 
 383
 00:27:06,320 --> 00:27:08,640
-que são muito mais complexas
-do que seus componentes básicos.
+amelyek sokkal összetettebbek,
+mint az alapvető részeik.
 
 384
 00:27:09,360 --> 00:27:10,400
-Este é o Elemento 1.
+Ez az 1. elem.
 
 385
 00:27:10,880 --> 00:27:12,640
-Este é o Comportamento 1.
+Ez az 1. viselkedés,
 
 386
 00:27:13,000 --> 00:27:14,200
-Comportamento 2.
+a 2. viselkedés,
 
 387
 00:27:14,520 --> 00:27:15,760
-Comportamento 3.
+a 3. viselkedés,
 
 388
 00:27:16,080 --> 00:27:17,280
-Comportamento 4.
+a 4. viselkedés.
 
 389
 00:27:17,840 --> 00:27:21,000
-Este é o Elemento 1.
-Um elemento é uma máquina simples
+Ez az 1. elem. Az elem egy egyszerű gép,
 
 390
 00:27:21,080 --> 00:27:24,200
-que consiste em uma forma
-e um ou mais comportamentos.
+amely egy formából és egy
+vagy több viselkedésből áll.
 
 391
 00:27:25,560 --> 00:27:27,840
