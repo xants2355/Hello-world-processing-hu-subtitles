@@ -1413,12 +1413,12 @@ egyre nagyobb mennyiségű adatot tud kezelni.
 
 322
 00:23:03,560 --> 00:23:05,520
-Algo surgiu agora
+Most megjelent valami,
 
 323
 00:23:05,680 --> 00:23:08,040
-que talvez faça até mesmo as nossas
-teorias mais elegantes possíveis.
+ami talán még a legelegánsabb
+elméleteinket is működésre bírja.
 
 324
 00:23:09,440 --> 00:23:13,760
