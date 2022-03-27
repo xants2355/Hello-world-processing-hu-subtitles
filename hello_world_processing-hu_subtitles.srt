@@ -1396,8 +1396,8 @@ hogyan osztják meg
 
 318
 00:22:48,500 --> 00:22:51,360
-az időt, fegyvereket, és hogy hogyan
-osztják meg a tartalmat általában.
+az időt, és hogy hogyan osztják meg
+általában a tartalmat.
 
 319
 00:22:53,720 --> 00:22:56,440
@@ -1432,7 +1432,7 @@ az ember fogalmainak
 326
 00:23:19,880 --> 00:23:22,480
 Az ember a számítógéppel olyan
-mint minden egy ember az eszközzel,
+mint minden ember egy eszközzel,
 
 327
 00:23:22,800 --> 00:23:26,320
@@ -1508,43 +1508,38 @@ A programozást képek beolvasásával tanulod és azokkal teszel ezt meg azt.
 
 343
 00:24:24,240 --> 00:24:30,760
-É uma maneira de trazer
-o que consideramos emocionante
+Tehát ez egy módja annak, hogy alapvetően azt, ami szerintünk igazán izgalmas a szoftverekben,
 
 344
 00:24:30,760 --> 00:24:33,320
-e excitante sobre software,
-para as artes visuais
+a vizuális művészetekbe hozzuk, olyan szinten,
+ahol a vizuálisan motivált
 
 345
 00:24:33,320 --> 00:24:36,880
-em um nível no qual pessoas que são
-motivadas e focadas no aspecto visual
+és koncentrált emberek kísérleteket végezhetnek el,
 
 346
 00:24:36,880 --> 00:24:40,040
-podem explorar, experimentar
-e brincar com o código,
+és koncentrált emberek kísérleteket végezhetnek el,
 
 347
 00:24:40,360 --> 00:24:42,680
-como uma nova maneira
-de realizar ideias.
+mint az ötletek megvalósításának új módjával.
 
 348
 00:24:43,280 --> 00:24:47,800
-E particularmente pessoas que
-pensam visualmente - designers, artistas
+Bármelyik olyan, különösen a vizuálisan gondolkodó emberek, tervezők vagy művészek,
 
 349
 00:24:48,040 --> 00:24:51,520
-ou pessoas que estão acostumadas
-a pensar em termos de imagem
+vagy olyan emberek, akik hozzászoktak ahhoz,
+hogy képekben, 
 
 350
 00:24:51,720 --> 00:24:53,960
-ou em termos de
-estrutura, forma ou estética.
+struktúrában, formában vagy
+esztétikában gondolkodjanak.
 
 351
 00:24:54,120 --> 00:24:56,440
