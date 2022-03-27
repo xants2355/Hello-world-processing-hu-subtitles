@@ -1001,7 +1001,6 @@ a megértési és elemzési kapacitásunkat.
 00:16:31,440 --> 00:16:35,120
 A számítás pedig nagyon fontos eszköz
 
-
 231
 00:16:35,480 --> 00:16:37,760
 az adatok elemzése és megjelenítése szempontjából.
@@ -1224,63 +1223,63 @@ Azután a feldolgozás.
 
 281
 00:20:37,000 --> 00:20:39,440
-Esse é o The $Billion Dollar o-Gram,
+Ez itt a milliárd dolláros o-gramm,
 
 282
 00:20:39,640 --> 00:20:42,520
-e essa imagem veio
-de uma frustração minha
+és ez a kép a sajtóban megjelenő
+milliárd dolláros összegekről
 
 283
 00:20:42,680 --> 00:20:45,560
-com o relatório de valores
-em bilhões divulgado na imprensa.
+szóló jelentésekkel kapcsolatos
+frusztrációm miatt keletkezett.
 
 284
 00:20:45,760 --> 00:20:48,080
-Isto é, eles não
-fazem sentido sem contexto.
+És hogy kontextus nélkül
+értelmetlenek.
 
 285
 00:20:48,200 --> 00:20:49,840
-500 bilhões para este oleoduto,
+500 milliárd erre a gázvezetékre,
 
 286
 00:20:49,960 --> 00:20:51,280
-20 bilhões para essa guerra...
+20 milliárd erre a háborúra,
 
 287
 00:20:51,440 --> 00:20:53,440
-Não faz sentido.
+ennek így semmi értelme.
 
 288
 00:20:53,680 --> 00:20:55,560
-Então a única maneira de entender
-é visualmente e relativamente.
+Tehát csak vizuálisan és viszonylagosan
+lehet megérteni.
 
 289
 00:20:56,240 --> 00:20:59,800
-Então eu coletei valores de relatórios
-de diversas agências de notícias
+Tehát én különböző hírügynökségektől
+töltöttem be a számokat,
 
 290
 00:20:59,880 --> 00:21:02,480
-e dimensionei as caixas
-de acordo com essas quantidades.
+majd a dobozokat összegezve,
+skálázva mutatom.
 
 291
 00:21:02,600 --> 00:21:05,480
-As cores aqui representam
-a motivação por trás do dinheiro.
+A színek pedig itt a pénz mögötti
+motivációt jelképezik.
 
 292
 00:21:05,640 --> 00:21:10,200
-Então roxo é "guerrear",
-vermelho é "dar dinheiro"
+Tehát a lila a harc,
+a piros a pénzosztás,
 
 293
 00:21:10,680 --> 00:21:12,520
-e verde é "exploração".
+a zöld pedig a haszonszerzés.
 
 294
 00:21:12,680 --> 00:21:14,440
