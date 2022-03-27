@@ -1491,22 +1491,20 @@ amit készítettél.
 
 339
 00:24:13,440 --> 00:24:16,120
-Você aprende a programar
-computadores desenhando.
+A számítógép programozását
+rajzolással tanulod.
 
 340
 00:24:16,240 --> 00:24:19,720
-Você aprende a programar computadores
-carregando imagens e fazendo coisas com elas.
+A programozást képek beolvasásával tanulod és azokkal teszel ezt meg azt.
 
 341
 00:24:19,840 --> 00:24:21,640
-Você aprende a programar
-fazendo animações,
+Úgy tanulsz programozni, hogy animációkat
 
 342
 00:24:21,760 --> 00:24:24,080
-interação, experiências visuais.
+és interakciókat, vizuális élményeket készítesz.
 
 343
 00:24:24,240 --> 00:24:30,760
