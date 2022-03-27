@@ -1401,16 +1401,15 @@ osztják meg a tartalmat általában.
 
 319
 00:22:53,720 --> 00:22:56,440
-Por um longo tempo,
-no mundo dos números,
+A számok világában az ember már régóta fejleszt
 
 320
 00:22:56,640 --> 00:22:58,400
-o homem vem desenvolvendo ferramentas
+olyan eszközöket, amelyek segítségével
 
 321
 00:22:58,720 --> 00:23:01,600
-para lidar com a crescente quantidade de dados.
+egyre nagyobb mennyiségű adatot tud kezelni.
 
 322
 00:23:03,560 --> 00:23:05,520
