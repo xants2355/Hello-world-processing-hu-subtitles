@@ -1731,70 +1731,66 @@ vagy több viselkedésből áll.
 
 391
 00:27:25,560 --> 00:27:27,840
-Este diagrama mostra o Elemento 1 em ação.
+Ez az ábra az 1-es elemet mutatja működés közben.
 
 392
 00:27:29,640 --> 00:27:32,240
-O comportamento é mais fácil de ver
-quando adicionamos notação.
+A viselkedés könnyen látható, ha jelölést adunk hozzá.
 
 393
 00:27:35,520 --> 00:27:38,280
-Estas flechas mostram o Comportamento 1:
-"mova em linha reta."
+Ezek a nyilak azt mutatják, hogy
+az 1. viselkedés egyenes vonalban mozog. 
 
 394
 00:27:39,120 --> 00:27:42,840
-Estas flechas mostram o Comportamento 2:
-"mude de direção ao se tocarem."
+Ezek a nyilak a 2. viselkedés irányváltoztatását mutatják, 
+miközben egy másikhoz érnek.
 
 395
 00:27:45,080 --> 00:27:49,080
-Estas flechas mostram o Comportamento 3:
-"afastar-se quando um elemento está sobreposto."
+Ezek az irányok mutatják a 3. viselkedés
+távolodik az átfedő elemtől.
 
 396
 00:27:49,880 --> 00:27:52,320
-Um processo define um ambiente
-para os elementos
+Egy folyamat meghatározza az elemek környezetét,
+és meghatározza,
 
 397
 00:27:52,760 --> 00:27:55,680
-e determina como as relações
-entre os elementos são representadas.
+hogy az elemek közötti kapcsolatokat
+hogyan látjuk.
 
 398
 00:27:58,040 --> 00:28:01,360
-Processo 4 preenche
-a superfície com Elemento 1
+A 4. folyamat kitölti a felületet az 1. elemmel,
 
 399
 00:28:01,520 --> 00:28:04,280
-e desenha uma linha entre os
-elementos quando eles se sobrepõem.
+és vonalat húz az elemek közé,
+miközben azok átfedik egymást.
 
 400
 00:28:06,360 --> 00:28:07,800
-Computadores invadirão as artes
+A számítógépek ugyanúgy hatnak a művészetekre,
 
 401
 00:28:07,800 --> 00:28:10,500
-assim como fazem com todos os
-outros aspectos das nossas vidas.
+mint életünk minden más területére.
 
 402
 00:28:10,720 --> 00:28:13,640
-No futuro, artistas podem
-ter que aprender novas habilidades
+A jövőben a művészeknek új
 
 403
 00:28:13,640 --> 00:28:17,080
-de matemática, mecânica,
-engenharia e programação
+matematikai, műszaki, mérnöki
+és programozási ismereteket kell majd elsajátítaniuk,
 
 404
 00:28:17,280 --> 00:28:19,240
-para exercer seu ofício.
+hogy gyakorolhassák mesterségüket.
 
 405
 00:28:23,120 --> 00:28:27,080
