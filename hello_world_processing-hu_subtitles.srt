@@ -1508,7 +1508,8 @@ A programozást képek beolvasásával tanulod és azokkal teszel ezt meg azt.
 
 343
 00:24:24,240 --> 00:24:30,760
-Tehát ez egy módja annak, hogy alapvetően azt, ami szerintünk igazán izgalmas a szoftverekben,
+Tehát ez egy módja annak, hogy alapvetően azt,
+ami szerintünk igazán izgalmas a szoftverekben,
 
 344
 00:24:30,760 --> 00:24:33,320
@@ -1529,7 +1530,8 @@ mint az ötletek megvalósításának új módjával.
 
 348
 00:24:43,280 --> 00:24:47,800
-Bármelyik olyan, különösen a vizuálisan gondolkodó emberek, tervezők vagy művészek,
+Bármelyik olyan, különösen a vizuálisan gondolkodó
+emberek, tervezők vagy művészek,
 
 349
 00:24:48,040 --> 00:24:51,520
@@ -1543,37 +1545,37 @@ esztétikában gondolkodjanak.
 
 351
 00:24:54,120 --> 00:24:56,440
-De repente, elas podem
-trabalhar usando o Processing,
+Ők most már tudnak dolgozni
+a Processinggel,
 
 352
 00:24:56,640 --> 00:24:58,960
-que ja é orientado para
-esse tipo de trabalho.
+és a Processing már eleve az ilyen
+jellegű munkára lett kihegyezve.
 
 353
 00:24:59,560 --> 00:25:02,920
-E é mais sobre dar apoio para
-as suas atividades como criativos
+És ez inkább az ő kreatív tevékenységük
+támogatásáról szól, mint arról,
 
 354
 00:25:02,920 --> 00:25:05,240
-do que é sobre ter um "código perfeito".
+hogy tökéletes kódot kapjanak, ha úgy tetszik.
 
 355
 00:25:05,920 --> 00:25:08,200
-Assim, comparada com outras
-linguagens de programação,
+Tehát az összes programozási nyelvhez
+képest a Processing
 
 356
 00:25:08,480 --> 00:25:12,360
-Processing é muito mais diretamente
-preparada para pessoas que podem não ser
+sokkal közvetlenebbül van felkészítve
+olyan emberek számára,
 
 357
 00:25:12,360 --> 00:25:16,360
-as melhores tecnicamente,
-mas que têm boas ideias criativas.
+akik talán nem a legjobb technikusok,
+de akiknek jó kreatív ötleteik vannak.
 
 358
 00:25:34,560 --> 00:25:37,480
