@@ -1885,32 +1885,31 @@ akkor is, amikor tudjuk, hogy a nyers adatok
 
 424
 00:29:33,160 --> 00:29:35,440
-O potencial está lá,
-na criatividade computacional,
+Tehát a számítógépes kreativitásban
+ott van a lehetőség,
 
 425
 00:29:35,760 --> 00:29:41,680
-de ter processos que são de fato não humanos.
-E acho que muitas vezes vemos isso.
+hogy olyan folyamatok legyenek, amelyek
+nagyon is nem emberi jellegűek,
 
 426
 00:29:41,880 --> 00:29:46,120
-Mas encontramos uma espécie de meio-termo
+és azt hiszem, gyakran látjuk, hogy erőszakosan találtunk egyfajta középutat,
 
 427
 00:29:46,320 --> 00:29:51,000
-unindo os processos computacionais
-não humanos, emergentes, estranhos etc.
+amely a nem emberi,  a számítógépes, furcsa, emergens folyamatokat, stb.
 
 428
 00:29:51,160 --> 00:29:53,760
-com um modo humano
-de pensar sobre o mundo.
+összeköti a világról való gondolkodás
+emberi módjával,
 
 429
 00:29:53,920 --> 00:29:57,000
-E em algum lugar ali
-há uma área muito proveitosa.
+és valahol ott van egy nagyon
+gyümölcsöző terület.
 
 430
 00:29:58,080 --> 00:30:01,680
