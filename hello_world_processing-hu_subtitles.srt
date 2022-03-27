@@ -4,7 +4,8 @@ Mire való az idő?
 
 2
 00:00:30,360 --> 00:00:34,920
-Az idő az, ami megakadályozza, hogy mindent egyszerre adjunk.
+Az idő az, ami megakadályozza,
+hogy mindent egyszerre történjen.
 
 3
 00:00:36,760 --> 00:00:40,160
@@ -21,7 +22,7 @@ Nem lenne akkor a teremtés és a választás eszköze?
 6
 00:00:51,320 --> 00:00:59,120
 Az idő létezése nem igazolhatja-e azt, 
-hogy a dolgok meghatározottságban vannak?
+hogy a létezik a dolgoknak határozatlansága?
 
 7
 00:01:21,440 --> 00:01:22,640
