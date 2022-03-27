@@ -98,24 +98,23 @@ Kommunikáció.
 
 25
 00:02:07,880 --> 00:02:09,640
-Ezek mind folyamatok. Folyamatok, amelyben minden résztvevőnek megállapodásra van szüksége ahhoz,
+Ezek mind folyamatok.
 
 26
 00:02:10,880 --> 00:02:15,400
- hogy az alapok megosztása érdekében működhessenek.
+melyben minden résztvevőnek a megállapodása
 
 27
 00:02:15,400 --> 00:02:16,480
- Közelebb kerülhetünk a világ jelenségeihez
-és szimulálhatjuk őket.
+szükséges ahhoz, hogy működjön,
 
 28
 00:02:16,800 --> 00:02:21,040
-A receptek utasítások.
+hogy megosszanak kódot, recepteket vagy utasításokat.
 
 29
 00:02:32,600 --> 00:02:35,920
-A szabályok és az alapok nem akadályozzák
+A szabályok és az kódok nem akadályozzák
 az alkotás lehetőségét.
 
 30
@@ -125,11 +124,11 @@ A körülöttünk való létük okozza az állandó változást.
 31
 00:02:43,480 --> 00:02:48,920
 A kódok megtalálása lehetővé teszi számunkra,
+hogy eszközöket építsünk a folyamatokkal való interakcióhoz.
 
 32
 00:02:49,600 --> 00:02:53,520
-hogy eszközöket építsünk
-a folyamatokkal való interakcióhoz. Közelebb kerülhetünk a világ jelenségeihez 
+Közelebb kerülhetünk a világ jelenségeihez 
 és szimulálhatjuk őket.
 
 33
@@ -144,7 +143,7 @@ amelyek élnek és nyitottak,
 
 35
 00:03:04,840 --> 00:03:09,920
-és mindenki számára újra kisajátíthatóak és kiterjeszthetőek.
+és mindenki számára kisajátíthatóak és kiterjeszthetőek.
 
 36
 00:03:21,540 --> 00:03:25,560
@@ -161,15 +160,16 @@ a kreativitásnak és a kódolásnak.
 
 39
 00:03:37,680 --> 00:03:42,160
-De ez egyben egyfajta modellje is annak, amit én egy ideális online közösségnek gondolok.
+De ez egyben egyfajta modellje is annak, amit én egy ideális online közösségnek gondolok,
 
 40
 00:03:43,000 --> 00:03:46,360
-és segítenek azoknak, akik még csak most kezdik,
+akik segítenek egymásnak, és azoknak,
+akik még csak most kezdik,
 
 41
 00:03:46,600 --> 00:03:51,080
-és megosztják egymással az ötleteiket, meg ilyesmi.
+megosztják egymással az ötleteiket, és hasonlók.
 
 42
 00:03:51,720 --> 00:03:54,200
@@ -196,16 +196,16 @@ vagy rajzokat készíteni
 
 47
 00:04:12,920 --> 00:04:15,600
-kódban anélkül, hogy feltétlenül sok
+kódban anélkül, hogy sok
 ismeretünk lenne a Java-ról 
 
 48
 00:04:15,840 --> 00:04:18,280
-vagy a megfelelő programozásról.
+vagy a "rendes programozásról".
 
 49
 00:04:18,560 --> 00:04:21,000
-Tehát ez egy digitális vázlatfüzet, egy olyan hely,
+Ez egy digitális vázlatfüzet, egy olyan hely,
 
 50
 00:04:21,320 --> 00:04:24,240
@@ -221,12 +221,12 @@ ezekből az ötletekből valódi dolgok válhatnak.
 
 53
 00:04:29,080 --> 00:04:31,360
-A különbség a valódi vázlatfüzetben
-történő feldolgozás között az az,
+A különbség a vázlatfüzet
+és a Processing közt az,
 
 54
 00:04:31,440 --> 00:04:36,480
-hogy a vázlatból valami nagyobb és kidolgozottabb lehet.
+hogy a kód nagyobb és komplexebb dolog lehet idővel.
 
 55
 00:04:36,640 --> 00:04:40,360
@@ -238,7 +238,7 @@ vázlatfüzeted hirtelen filmmé vagy szoborrá válhatna.
 
 57
 00:04:43,880 --> 00:04:45,760
-Az egyik nagyszerű dolog a Processing-szel
+Az egyik nagyszerű dolog a Processing-gel
 való munkában az az,
 
 58
@@ -247,7 +247,7 @@ hogy ha van egy ötleted, akkor nagyon rövid az út ahhoz,
 
 59
 00:04:47,720 --> 00:04:51,440
-hogy az ötletből valóság váljon.
+hogy az ötletből valóság legyen.
 
 60
 00:04:52,160 --> 00:04:55,880
@@ -256,7 +256,8 @@ kifejezésének közvetlenségéről szól.
 
 61
 00:04:56,200 --> 00:05:01,680
-Így számomra ez a leggyorsabb út a kódtól a képernyőn megjelenő pixelekig.
+Ez a leggyorsabb út a kódtól
+a képernyőn megjelenő pixelekig.
 
 62
 00:05:43,760 --> 00:05:46,480
@@ -296,15 +297,15 @@ amely szétválasztja és összetartja őket.
 
 71
 00:06:19,400 --> 00:06:21,160
-A tengerparton megtörő hullám a tengeren zajló eseményekről
+A tengerparton megtörő hullám
 
 72
 00:06:21,280 --> 00:06:25,280
-szóló információk világát hozza el, a szélről és a viharokról,
+rengeteg információt mond el a tengerről.
 
 73
 00:06:25,520 --> 00:06:27,520
-a távolságról és az intenzitásról. 
+Szelekről és viharokról mesél, távolságról és az intenzitásról. 
 
 74
 00:06:27,600 --> 00:06:29,600
@@ -353,18 +354,17 @@ a logika leírásának egy módja, és aztán,
 
 85
 00:07:10,000 --> 00:07:12,080
-különböző paramétereket vagy
-különböző logikákat adsz hozzá. 
+különböző paramétereket, logikákat,
+interfészeket adhatsz hozzá.
 
 86
 00:07:12,440 --> 00:07:15,320
-Különböző interfészeket, ilyesmi.
 Tehát a kód később nagyon is élővé válhat.
 
 87
 00:07:15,520 --> 00:07:18,800
 De alapformájában, tudod, olyan,
-mint egy sornyi szöveg,
+mint pár sornyi szöveg,
 
 88
 00:07:19,000 --> 00:07:22,360
@@ -536,7 +536,7 @@ amikor leírjuk a műveleteket
 
 125
 00:09:33,640 --> 00:09:37,360
-a számítógépnek, mint műveleteket.
+a számítógépnek, ami lépésről lépésre végigmegy rajtuk.
 
 126
 00:09:39,040 --> 00:09:42,760
@@ -545,12 +545,12 @@ létrehozunk egy vonalat.
 
 127
 00:09:43,080 --> 00:09:47,800
-A vonal addig fog száradni, amíg el nem éri
+A vonal addig fog nőni, amíg el nem éri
 a képernyő szélét vagy egy másik vonalat.
 
 128
 00:09:48,040 --> 00:09:52,720
-Az új vonalak is csak a meglévő filmekre
+Az új vonalak a meglévőkből
 merőlegesen fognak kialakulni.
 
 129
@@ -564,7 +564,7 @@ akkor valami elképesztő dolog történik.
 
 131
 00:09:59,320 --> 00:10:01,500
-Ezt most itt így hagyom, hogy történjen...
+Ezt most itt így hagyom, hogy fusson...
 
 132
 00:10:03,880 --> 00:10:06,500
@@ -625,58 +625,58 @@ nem pedig a minőségi eredményekről.
 
 145
 00:10:44,280 --> 00:10:48,000
-Nem igazán törődünk azzal, hogy az általunk használt modellek előrejelzéseket készítsenek.
+Nem igazán törődünk azzal, hogy az általunk használt
+modellek helyes előrejelzéseket készítsenek.
 
 146
 00:10:48,360 --> 00:10:50,080
-Ön biztosan minőségi szempontokkal dolgozik:
+Csak is minőségi szempontok vezérelnek
 
 147
 00:10:50,080 --> 00:10:52,080
-tehát hogyan tudnak a rendszerek bizonyos struktúrákat
+hogyan tudnak a rendszerek
+bizonyos struktúrákat létrehozni
 
 148
 00:10:52,560 --> 00:10:54,920
-és más és más struktúrákat
-generálni a változóból.
+és ezek hogyan tudnak változni.
 
 149
 00:10:55,120 --> 00:10:57,320
-Tehát ahelyett, hogy megpróbálnánk valami hasonlót létrehozni
+Ahelyett, hogy megpróbálnánk
+valami valósághoz hasonlót létrehozni,
 
 150
 00:10:57,480 --> 00:11:00,000
-a valósághoz, olyan dolgokat
-próbálunk létrehozni, 
+olyan dolgokat próbálunk létrehozni, 
+amelyek kifejezetten természetellenesek,
 
 151
 00:11:00,200 --> 00:11:03,920
-amelyek kifejezetten természetellenesek,
+de van egyfajta természetes
+organikusságuk, érzetük.
 
 152
 00:11:04,640 --> 00:11:08,888
-de van egyfajta természetes
-organikusságuk, héjuk.
+A munkámmal tehát arra teszek kísérletet,
 
 153
 00:11:08,888 --> 00:11:11,111
-A munkámmal tehát arra teszek kísérletet,
-hogy szimulációkat
+hogy csodálattal töltsem el magam
+és remélhetőleg másokat is 
 
 154
 00:11:11,111 --> 00:11:15,560
-próbáljak létrehozni, hogy csodálattal
-töltsem el magam
+a minket körülvevő dolgok iránt,
 
 155
 00:11:15,560 --> 00:11:18,000
-és remélhetőleg másokat is 
-a minket körülvevő dolgok iránt.
+szimulációk létrehozásával,
 
 156
 00:11:18,280 --> 00:11:20,880
-Ami remélhetőleg segít majd másképp
-gondolkodni az ilyen dolgokról.
+ami remélhetőleg segít
+gondolkodni a dolgokról.
 
 157
 00:11:21,000 --> 00:11:23,120
@@ -713,7 +713,7 @@ A végeredmény kb. egymillió erőszámítás lesz képkockánként.
 
 165
 00:11:54,760 --> 00:11:58,000
-Jó lenne nem megmondani a részecskéknek,
+Jó volt, hogy nem kellett megmondani a részecskéknek,
 hogy mit csináljanak.
 
 166
@@ -723,8 +723,7 @@ hogy reagálniuk kell egymásra,
 
 167
 00:12:01,600 --> 00:12:04,280
-és elkezdenek tenni valamit,
-ami nagyon váratlanul lesz.
+és elkezdenek nagyon váratlanul viselkedni.
 
 168
 00:12:04,560 --> 00:12:06,520
@@ -812,7 +811,8 @@ ez a kóddal való vázolás.
 
 187
 00:13:25,240 --> 00:13:29,160
-És így valójában a fájlokat, hogy mentse és a feldolgozás úgynevezett vázlatok.
+Ezért a fájlokat, amikben dolgozunk,
+vázlatoknak nevezzük.
 
 188
 00:13:29,480 --> 00:13:33,200
@@ -863,7 +863,7 @@ készítesz, majd elindítod a programot,
 
 199
 00:14:02,840 --> 00:14:05,760
-És onnan változtatsz és módosítasz, és olvasol.
+És onnan változtatod és módosítod a kódot.
 
 200
 00:14:06,040 --> 00:14:09,600
@@ -892,24 +892,25 @@ problémát a fejemben,
 
 205
 00:14:26,480 --> 00:14:31,200
-aztán leülök, elkészítem a kódot, ami ezt teszi, és már csak hibakeresés van hátra.
+aztán leülök, elkészítem a kódot,
+és már csak hibakeresés van hátra.
 
 206
 00:14:31,360 --> 00:14:33,640
-Azt szeretnénk, ha az emberek kipróbálnának valamit, tudod, egy kis kódot,
+Azt szeretnénk, hogy az emberek kipróbáljanak dolgokat,
 
 207
 00:14:33,840 --> 00:14:36,480
-megnéznék, hogy mi történik, írnának még egy kicsit több kódot, és megnéznék, mi történik,
+írjanak egy kevés kódot, megnézik, hogy mi történik,
 
 208
 00:14:36,640 --> 00:14:38,560
-és nem éreznék magukat annyira értékesnek a dolgok miatt,
+írnak még egy kicsit több kódot, és megnézik, hogyan változik,
 
 209
 00:14:38,560 --> 00:14:44,040
-amiket a kóddal csinálnak, és hogy
-ugyanez a fajta kényelem legyen meg,
+ne érezzék annyira értékesnek a megírt kódot
+hanem tudjanak azzal a kényelemmel hozzáállni,
 
 210
 00:14:44,440 --> 00:14:48,440
