@@ -1422,48 +1422,45 @@ elméleteinket is működésre bírja.
 
 324
 00:23:09,440 --> 00:23:13,760
-Uma ferramenta que expandiu o
-alcance dos conceitos e da intuição humana,
+Egy olyan eszköz, amely kiszélesítette
+az ember fogalmainak
 
 325
 00:23:14,000 --> 00:23:16,111
-de maneira similar a como
-outras ferramentas o fizeram.
+és intuíciójának skáláját, hasonlóan más eszközökhöz.
 
 326
 00:23:19,880 --> 00:23:22,480
-Com o computador, assim como
-com qualquer outra ferramenta,
+Az ember a számítógéppel olyan
+mint minden egy ember az eszközzel,
 
 327
 00:23:22,800 --> 00:23:26,320
-o conceito e o direcionamento
-precisa partir do homem.
+a koncepciónak és az iránynak
+az embertől kell származnia.
 
 328
 00:23:27,840 --> 00:23:31,240
-A tarefa que é designada
-e os dados que são fornecidos
+A kitűzött feladat és az adatok megadása
 
 329
 00:23:31,720 --> 00:23:36,320
-devem ser decisão do
-homem, e sua responsabilidade.
+az ember döntése, felelőssége kell, hogy legyen.
 
 330
 00:23:39,560 --> 00:23:42,120
-Uma das vantagens mais
-importantes do Processing
+A Processing egyik legfontosabb előnye,
+hogy igazán könnyen
 
 331
 00:23:42,120 --> 00:23:45,080
-é que ele torna muito fácil
-ensinar programação
+megtaníthatóvá teszi a programozást
+azoknak az embereknek,
 
 332
 00:23:45,080 --> 00:23:48,560
-para pessoas que estão principalmente
-interessadas em design visual e nas artes.
+akiket elsősorban a művészeti vagy
+vizuális tervezés érdekel.
 
 333
 00:23:49,320 --> 00:23:53,000
