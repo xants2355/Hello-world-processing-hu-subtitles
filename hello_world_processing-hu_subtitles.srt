@@ -1477,17 +1477,17 @@ A Processing tanulása általában egy vonal rajzolásával kirajzolásával kez
 
 336
 00:24:03,240 --> 00:24:06,120
-Esse é o primeiro passo:
-desenhar uma linha do ponto A ao ponto B.
+Ez volt az első lépés, húzz egy vonalat
+A pontból B pontba,
 
 337
 00:24:06,360 --> 00:24:09,280
-Assim, de maneira imediata
+és így rögtön megvan, így egy egyszerű,
 
 338
 00:24:09,280 --> 00:24:13,080
-você está olhando para uma
-arte simples, mas que você mesmo fez.
+de nagyszerű műalkotás az,
+amit készítettél.
 
 339
 00:24:13,440 --> 00:24:16,120
