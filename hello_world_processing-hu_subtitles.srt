@@ -1824,52 +1824,49 @@ amelyben a dolgokat megfőzöd, stb.
 
 411
 00:28:43,440 --> 00:28:45,400
-É o mesmo no computador.
-Você precisa dizer:
+Ugyanez a helyzet a számítógéppel is.
 
 412
 00:28:45,480 --> 00:28:49,360
-“esta forma é criada tendo
-uma partícula que se move,
+Azt kell mondanod, hogy oké,
+ez a forma úgy jön létre,
+
 
 413
 00:28:49,800 --> 00:28:52,960
-e a partícula é controlada por rotação,
+hogy van egy részecske, amely mozog, és a részecskét forgatással irányítjuk,
 
 414
 00:28:53,080 --> 00:28:56,000
-e talvez em alguns momentos se divide
-e se converte em duas partículas...”
+és néha talán szétválik, és két részecskévé alakul.
 
 415
 00:28:56,080 --> 00:29:00,440
-Isso é um algoritmo que descreve
-todo o comportamento do sistema.
+Ez tehát egy algoritmus. Ez tulajdonképpen
+a rendszer teljes viselkedését írja le.
 
 416
 00:29:00,560 --> 00:29:05,000
-Então o algoritmo na verdade
-descreve a sua ideia criativa.
+Tehát az algoritmus valójában
+egy nagyon is a kreatív ötlet.
 
 417
 00:29:06,000 --> 00:29:07,880
-Sempre que você define
-um sistema em software
+Amikor egy rendszert egy szoftverben definiálsz,
 
 418
 00:29:08,040 --> 00:29:11,200
-é um campo sem limites
-que você pode explorar.
+az egy határtalan mező
+amelyet felfedezhetsz.
 
 419
 00:29:11,440 --> 00:29:16,600
-Mudando os diferentes parâmetros,
-o valor das diferentes partes do sistema,
+És a különböző paraméterek megváltoztatásával, a rendszer különböző részeinek értékét megváltoztatva
 
 420
 00:29:17,000 --> 00:29:19,920
-você se desloca para diferentes
-partes desta paisagem infinita.
+a rendszer különböző részeire léphetsz
+ebben a végtelen tájban.
 
 421
 00:29:20,160 --> 00:29:25,960
