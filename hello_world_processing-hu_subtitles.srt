@@ -1464,17 +1464,16 @@ vizuális tervezés érdekel.
 
 333
 00:23:49,320 --> 00:23:53,000
-Processing torna muito mais simples
+A Processing sokkal egyszerűbbé teszi
 
 334
 00:23:53,000 --> 00:23:56,560
-escrever programas que
-colocam coisas na tela mais rápido.
+az olyan programok írását, amelyek
+a képernyőre jelenítenek meg.
 
 335
 00:23:58,040 --> 00:24:02,920
-O processo de aprender Processing
-geralmente envolve desenhar uma linha na tela.
+A Processing tanulása általában egy vonal rajzolásával kirajzolásával keződik a képernyőn.
 
 336
 00:24:03,240 --> 00:24:06,120
