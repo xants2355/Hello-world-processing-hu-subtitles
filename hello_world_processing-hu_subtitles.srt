@@ -1283,16 +1283,15 @@ a zöld pedig a haszonszerzés.
 
 294
 00:21:12,680 --> 00:21:14,440
-O que você percebe logo de cara é
+És rögtön láthatjuk a számok közötti
 
 295
 00:21:14,600 --> 00:21:16,240
-que você começa a ter
-uma relação diferente com os números.
+különböző összefüggéseket.
 
 296
 00:21:16,400 --> 00:21:17,760
-Você pode literalmente vê-los.
+Szó szerint láthatjuk őket.
 
 297
 00:21:23,880 --> 00:21:25,880
@@ -1300,40 +1299,41 @@ Para aumentar o alcance da visão
 
 298
 00:21:26,120 --> 00:21:29,000
-o homem desenvolveu instrumentos
-maravilhosamente sensíveis.
+Az emberi látás hatótávolságának kiterjesztésére
+az ember csodálatos érzékenységű műszereket fejlesztett ki.
 
 299
 00:21:32,840 --> 00:21:35,120
-Como função do design,
+A számológép, mint a tervezés eredménye,
 
 300
 00:21:35,400 --> 00:21:39,760
-a calculadora fornece ao homem
-criativo uma plataforma para se apoiar
+a kreatív ember számára
+egy fejlettebb platformot biztosít,
 
 301
 00:21:40,840 --> 00:21:43,720
-e de onde trabalhar.
+amelyen állhat, és amelyről dolgozhat.
 
 302
 00:21:47,120 --> 00:21:49,560
-Nossas ferramentas, essas
-ferramentas das quais estamos falando,
+Az eszközeink, ezek az eszközök,
+amelyekről beszéltünk,
 
 303
 00:21:49,560 --> 00:21:51,400
-nos permitem produzir
-visualizações mais esclarecedoras,
+lehetővé teszik számunkra,
+hogy sokkal belátóbb, erőteljesebb,
 
 304
 00:21:51,400 --> 00:21:55,250
-mais poderosas e de maior alcance,
+szélesebb körű vizualizációt készítsünk,
+egyszerűen azáltal,
 
 305
 00:21:55,250 --> 00:21:58,600
-simplesmente por permitir
-ao usuário explorar.
+hogy a felhasználónak lehetővé tesszük
+a felfedezést.
 
 306
 00:21:59,640 --> 00:22:02,520
