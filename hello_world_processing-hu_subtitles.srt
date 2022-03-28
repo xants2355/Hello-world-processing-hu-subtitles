@@ -928,7 +928,7 @@ vagy összegyűrni és eldobni,
 
 213
 00:15:04,960 --> 00:15:07,240
-Ez az az információ.
+Ez információ.
 
 214
 00:15:07,920 --> 00:15:11,160
@@ -947,11 +947,11 @@ az ember szükségletei
 
 217
 00:15:21,480 --> 00:15:24,600
-Sok szempontból ezek olyan információs gépek, amelyek hatalmas
+Sok szempontból ezek olyan információs gépek, amelyek
 
 218
 00:15:25,800 --> 00:15:31,200
-mennyiségű információ tárolására,
+hatalmas mennyiségű információ tárolására,
 feldolgozására és összekapcsolására képesek.
 
 219
@@ -964,61 +964,102 @@ hogy az az emberi léptékben értelmet nyerjen.
 
 221
 00:15:40,880 --> 00:15:43,200
-Egyre jobban növeltük az információ előállítására, 
+Egyre jobban növekszik a kapacitásunk
 
 222
 00:15:43,200 --> 00:15:49,120
-osztályozására,
+információ előállítására, osztályozására,
 
 223
 00:15:49,280 --> 00:15:53,720
-gyűjtésére
+gyűjtésére és archiválására
 
 224
 00:15:53,920 --> 00:15:57,080
-és archiválására
+És egyre többet generálunk belőle,
 
 225
 00:15:57,440 --> 00:16:02,000
-irányuló képességeinket.
+de az eddigi hagyományos eszközeinkkel
 
 226
 00:16:02,000 --> 00:16:03,600
-És egyre többet 
+nem tudjuk növelni 
 
 227
 00:16:03,600 --> 00:16:05,800
-és többet generálunk belőle,
+a megértési és elemzési kapacitásunkat.
+
+227
+00:16:08,600 --> 00:16:12,800
+Hogyan érthetjük meg ezt a rengeteg számot?
+
+227
+00:16:13,200 --> 00:16:17,800
+Nagyon jó, hogy bárkinek temérdek
+adat áll rendelkezésére online
+
+227
+00:16:18,300 --> 00:16:20,800
+de szükségünk van valami fordítóra
+
+227
+00:16:20,600 --> 00:16:24,300
+hogy kezelni tudjuk emberi
+léptékben ezt a mennyiségű információt.
 
 228
 00:16:24,320 --> 00:16:27,040
-de az eddigi  hagyományos eszközeinkkel
+A számítástechnika pedig nagyon fontos eszköz
 
 229
 00:16:27,320 --> 00:16:31,000
-nem tudjuk növelni 
-a megértési és elemzési kapacitásunkat. 
+az adatok elemzésében és megjelenítésében.
 
 230
 00:16:31,440 --> 00:16:35,120
-A számítás pedig nagyon fontos eszköz
+Tehát logikus, hogy mivel szembesülni fogunk
 
 231
 00:16:35,480 --> 00:16:37,760
-az adatok elemzése és megjelenítése szempontjából.
+egy mélyebb nagyobb komplexitással
 
 232
 00:16:38,240 --> 00:16:42,680
-rendszerrel való kapcsolatunk sokkal összetettebbé válik, 
+a kultúránkban levő rendszerekkel kapcsolatunkkal, 
 
 233
 00:16:43,000 --> 00:16:46,320
-akkor egy új szintaxisra, egy új nyelvre is szükségünk van.
+akkor egy új szintaxisra,
+egy új nyelvre is szükségünk van.
 
 234
 00:16:46,320 --> 00:16:49,800
 És az adatvizualizáció az eddigi legjobb dolog,
 ami a jelek szerint a birtokunkban van.
+
+234
+00:16:50,320 --> 00:16:54,800
+Az egyik ilyen "fórdító", amit használhatunk
+
+234
+00:16:54,800 --> 00:16:57,800
+Az a technológia, amit adatvizualizációnak nevezünk.
+
+234
+00:16:58,100 --> 00:17:03,800
+Ami fogja ezt a rengeteg számot, adatot
+és fest belőlük egy képet
+
+00:17:04,100 --> 00:17:06,800
+ami segít megérteni dolgokat, mint:
+
+00:17:07,100 --> 00:17:12,800
+tendenciák, anomáliák,
+mi az ami megszokott, mi az ami nem
+
+00:17:13,100 --> 00:17:15,800
+abben az információban, amit épp nézel.
 
 235
 00:17:31,800 --> 00:17:34,000
@@ -1066,8 +1107,8 @@ amit eddig el sem tudtunk volna elképzelni.
 
 245
 00:18:01,400 --> 00:18:08,200
-Világszerte a szabad hozzáférésű
-adat-mozgalom van kibontakozóban.
+Világszerte egy szabad hozzáférésű
+adat mozgalom van kibontakozóban.
 
 246
 00:18:08,800 --> 00:18:12,440
@@ -1076,6 +1117,26 @@ adat-mozgalom van kibontakozóban.
 247
 00:18:12,600 --> 00:18:14,400
 az egész világon használhatják.
+
+247
+00:18:15,200 --> 00:18:18,800
+Szeretném hangsúlyozni, hogy ha
+tényleg egy forradalomban vagyunk éppen
+
+247
+00:18:15,200 --> 00:18:25,800
+tudatosnak kell lennünk ezzel a forradalommal kapcsolatban.
+Nem elég ha adsz nekem rengeteg táblázatot és számokat,
+
+247
+00:18:26,200 --> 00:18:30,800
+Ha én nem tudom, hogy azt hogyan kell olvasni,
+ha nem értem, hogy mit akarsz mondani velük.
+
+247
+00:18:31,200 --> 00:18:37,800
+A vizualizáció egy módszer arra,
+hogy interaktálni kezdjünk az információ gazdagságával
 
 248
 00:18:38,880 --> 00:18:41,760
@@ -1104,8 +1165,7 @@ kiadványokat készíti.
 
 254
 00:19:01,120 --> 00:19:04,000
-Nem tudom, ismeritek-e, de ő alapvetően
-az életéről készíti ezeket az éves jelentéseket.
+Alapvetően az életéről készít éves jelentéseket.
 
 255
 00:19:04,240 --> 00:19:07,120
@@ -1130,43 +1190,39 @@ ezt a Felton-jelentést, azt hiszem, így hívják őket.
 
 260
 00:19:17,120 --> 00:19:21,560
-És nemrég kezdte el használni - most nemrég találkoztam vele New Yorkban
-
-261
-00:19:21,880 --> 00:19:23,440
-és most kezdte el használni a Processinget.
+És nemrég kezdte el használni a Processinget.
+- most nemrég találkoztam vele New Yorkban
 
 262
 00:19:23,840 --> 00:19:27,920
-Mert vannak bizonyos dolgok, tudod..., neki ez a munkája, azt hiszem, a munkája tényleg az aprólékos részletekről szól,
+A munkája számomra a legaprólékosoabb részletekről szól,
 
 263
 00:19:28,280 --> 00:19:31,160
 és biztos vagyok benne, hogy imádja
-ezeket az apró dolgokat
+ezeket az apró részleteket Illustratorban finomítani és tökéletesíteni,
 
 264
 00:19:31,360 --> 00:19:33,760
-az Illustratorban finomítani és tökéletesíteni,
+és ezt meg is tudja benne csinálni,
 
 265
 00:19:34,080 --> 00:19:36,960
-és ezt meg is tudja benne csinálni,
-de vannak bizonyos
+de vannak bizonyos aspektusai
 
 266
 00:19:37,080 --> 00:19:39,960
-aspektusai az elemzésnek
-és az adatok ábrázolásának.
+adatainak elemzésében...
+Az egyik dolog, amit mutatott nekem,
 
 267
 00:19:40,440 --> 00:19:44,160
-Az egyik dolog, amit mutatott nekem, egy olyan diagram volt, amit hetekig tartott volna
-Processingben megcsinálni...
+egy olyan diagram volt, amit hetekig
+tartott volna kézzel megcsinálni...
 
 268
 00:19:44,400 --> 00:19:46,120
-elnézést, de kézzel készítve, de amit a Processingben szinte azonnal meg tudta csinálni.
+de Processingben szinte azonnal meg tudta csinálni.
 
 269
 00:19:46,120 --> 00:19:47,960
@@ -1181,11 +1237,11 @@ létrehozhatsz és kreatív lehetsz,
 271
 00:19:51,680 --> 00:19:54,360
 és amit kézzel nem tudsz elkészíteni.
-Mindkettő együtt.
+Mindkettő fontos.
 
 272
 00:19:55,200 --> 00:19:58,560
-Úgy értem, azt hiszem, ez tényleg
+Azt hiszem, ez tényleg
 a képességünk, hogy felfedjünk 
 
 273
@@ -1199,7 +1255,7 @@ hogy képesek legyünk látni a struktúrát.
 
 275
 00:20:06,880 --> 00:20:10,280
-Azt hiszem, a legsikeresebb adatvizualizációink azok,
+A legsikeresebb adatvizualizációink azok,
 amelyek lehetővé teszik,
 
 276
@@ -1210,7 +1266,7 @@ struktúrát vagy mintát,
 277
 00:20:16,120 --> 00:20:21,840
 amit nagyon nehéz lenne szavakkal leírni,
-és amit elég egy fényképen kimondani.
+vagy egy fényképen.
 
 278
 00:20:23,120 --> 00:20:25,720
@@ -1240,7 +1296,7 @@ frusztrációm miatt keletkezett.
 
 284
 00:20:45,760 --> 00:20:48,080
-És hogy kontextus nélkül
+Ezek kontextus nélkül
 értelmetlenek.
 
 285
@@ -1350,12 +1406,12 @@ hogy valójában sokkal kevésbé arról van szó,
 308
 00:22:07,040 --> 00:22:12,960
 hogy hogyan mutatjuk be az információt,
-Hanem sokkal inkább arról,
+hanem sokkal inkább arról,
 
 309
 00:22:13,280 --> 00:22:17,600
 hogy hogyan navigálsz az információban
-és hogy hogyan lépsz kapcsolatba vele.
+és, hogy hogyan lépsz kapcsolatba vele.
 
 310
 00:22:17,880 --> 00:22:21,120
@@ -1516,15 +1572,15 @@ ami szerintünk igazán izgalmas a szoftverekben,
 344
 00:24:30,760 --> 00:24:33,320
 a vizuális művészetekbe hozzuk, olyan szinten,
-ahol a vizuálisan motivált
 
 345
 00:24:33,320 --> 00:24:36,880
-és koncentrált emberek kísérleteket végezhetnek el,
+ahol a vizuális fókuszú
+emberek felfedezhetik, kísérletezhenek
 
 346
 00:24:36,880 --> 00:24:40,040
-és koncentrált emberek kísérleteket végezhetnek el,
+és játszhatnak kóddal
 
 347
 00:24:40,360 --> 00:24:42,680
@@ -1548,11 +1604,11 @@ esztétikában gondolkodjanak.
 351
 00:24:54,120 --> 00:24:56,440
 Ők most már tudnak dolgozni
-a Processinggel,
+Processinggel,
 
 352
 00:24:56,640 --> 00:24:58,960
-és a Processing már eleve az ilyen
+és Processing már eleve az ilyen
 jellegű munkára lett kihegyezve.
 
 353
@@ -1586,12 +1642,12 @@ Visszatérve a számítógépek használatára vonatkozó
 
 359
 00:25:37,960 --> 00:25:41,560
-először is a számítógépeket helyzetek
-és a tervezés szimulálására használjuk.
+először számítógépeket arra használtunk,
+hogy szimuláljunk helyzeteket.
 
 360
 00:25:41,560 --> 00:25:44,840
-Olyan helyzetekére, amelyeket korábban
+Olyan helyzeteket, amelyeket korábban
 kézzel csináltunk.
 
 361
@@ -1628,7 +1684,7 @@ ami sokakat annyira izgatott ezen a szakterületen.
 
 368
 00:26:12,360 --> 00:26:16,160
-Itt egy relét gerjesztettem, és ez,
+Feszültség alá helyeztem egy relét, és ez,
 ez az erősítők mezője,
 
 369
@@ -1651,8 +1707,8 @@ A három fia és a testvére, James,
 
 373
 00:26:31,440 --> 00:26:34,000
-mindannyian használták a gépeket,
-hogy számítógépes filmeket készítsenek.
+mindannyian az ő gépeit használták
+filmeket készítésére.
 
 374
 00:26:34,360 --> 00:26:38,040
@@ -1665,7 +1721,7 @@ Aligha nevezhetőek számítógépeknek,
 
 376
 00:26:40,280 --> 00:26:42,600
-mert ezek, ezek valójában
+mert ezek valójában
 specializált problémamegoldók.
 
 377
